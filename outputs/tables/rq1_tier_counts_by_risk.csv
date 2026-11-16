@@ -1,0 +1,22 @@
+risk,Clear worsening,Possible worsening,Adverse divergence,None
+Air pollution,0,3,3,25
+Child and maternal malnutrition,0,0,1,30
+Dietary risks,1,13,0,17
+Drug use,0,3,16,12
+High LDL cholesterol,2,19,0,10
+High alcohol use,0,0,9,22
+High body-mass index,18,12,0,1
+High fasting plasma glucose,8,21,0,2
+High systolic blood pressure,1,10,0,20
+Intimate partner violence,0,1,7,23
+Kidney dysfunction,2,8,0,21
+Low bone mineral density,1,13,0,17
+Low physical activity,3,16,0,12
+Non-optimal temperature,1,2,8,20
+Occupational risks,0,0,7,24
+Other environmental risks,4,9,0,18
+Sexual violence against children and bullying,0,5,1,25
+Tobacco,0,1,2,28
+Unsafe sex,0,8,10,13
+"Unsafe water, sanitation, and handwashing",0,0,3,28
+TOTAL,41,144,67,368

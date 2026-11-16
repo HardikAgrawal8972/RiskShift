@@ -1,0 +1,195 @@
+{
+  "comparison_N20": [
+    {
+      "variant": "within-risk (proposed)",
+      "N": 20,
+      "jaccard_B1": 0.1111111111111111,
+      "jaccard_B2": 0.1111111111111111,
+      "overlap_B1": 4,
+      "overlap_B2": 4,
+      "n_new": 14,
+      "new_clear": 4,
+      "new_possible": 4,
+      "new_divergence": 6,
+      "new_small_base": 0,
+      "new_below_floor": 4,
+      "new_clear_material": 4,
+      "share_new_clear": 0.2857142857142857,
+      "n_distinct_risks_top": 14,
+      "spearman_B1": 0.2592924564084821,
+      "kendall_B1": 0.17595146550559565,
+      "spearman_B1_eligible": 0.2349758116363586,
+      "spearman_B2": 0.23223066051320088,
+      "kendall_B2": 0.15799219910997514,
+      "spearman_B2_eligible": 0.15363292965940228
+    },
+    {
+      "variant": "cross-risk + floor",
+      "N": 20,
+      "jaccard_B1": 0.21212121212121213,
+      "jaccard_B2": 0.14285714285714285,
+      "overlap_B1": 7,
+      "overlap_B2": 5,
+      "n_new": 11,
+      "new_clear": 4,
+      "new_possible": 7,
+      "new_divergence": 0,
+      "new_small_base": 0,
+      "new_below_floor": 0,
+      "new_clear_material": 4,
+      "share_new_clear": 0.36363636363636365,
+      "n_distinct_risks_top": 5,
+      "spearman_B1": 0.2804819762907034,
+      "kendall_B1": 0.1891868703136474,
+      "spearman_B1_eligible": 0.14243005324830255,
+      "spearman_B2": 0.5513495997491156,
+      "kendall_B2": 0.39437647788880315,
+      "spearman_B2_eligible": 0.3489782047332976
+    }
+  ],
+  "success_criterion": {
+    "rule": ">= 3 new pairs in the cross-risk top 20 that are clear-worsening, above the floor, not small-base, and absent from both baselines",
+    "new_clear_material": 4,
+    "met": true
+  },
+  "overlooked_N20": [
+    {
+      "location": "Bihar",
+      "risk": "Dietary risks",
+      "tier": "Clear worsening",
+      "asr_2023_mean": 140.7,
+      "abs_2010_23": 39.099999999999994,
+      "why_surfaced": "worsening p100 (+39.1/100k since 2010); divergence p99 (+44.9/100k vs India's change); rate p93 (ASR 140.7)"
+    },
+    {
+      "location": "Chhattisgarh",
+      "risk": "Dietary risks",
+      "tier": "Possible worsening",
+      "asr_2023_mean": 154.6,
+      "abs_2010_23": 26.5,
+      "why_surfaced": "worsening p99 (+26.5/100k since 2010); divergence p97 (+32.3/100k vs India's change); rate p95 (ASR 154.6)"
+    },
+    {
+      "location": "Haryana",
+      "risk": "High systolic blood pressure",
+      "tier": "Possible worsening",
+      "asr_2023_mean": 131.9,
+      "abs_2010_23": 18.700000000000003,
+      "why_surfaced": "worsening p97 (+18.7/100k since 2010); divergence p96 (+27.1/100k vs India's change); rate p92 (ASR 131.9)"
+    },
+    {
+      "location": "Jharkhand",
+      "risk": "High systolic blood pressure",
+      "tier": "Possible worsening",
+      "asr_2023_mean": 148.2,
+      "abs_2010_23": 14.699999999999989,
+      "why_surfaced": "worsening p95 (+14.7/100k since 2010); rate p95 (ASR 148.2); divergence p94 (+23.1/100k vs India's change)"
+    },
+    {
+      "location": "Karnataka",
+      "risk": "Dietary risks",
+      "tier": "Possible worsening",
+      "asr_2023_mean": 143.8,
+      "abs_2010_23": 17.10000000000001,
+      "why_surfaced": "worsening p96 (+17.1/100k since 2010); divergence p94 (+22.9/100k vs India's change); rate p94 (ASR 143.8)"
+    },
+    {
+      "location": "Assam",
+      "risk": "High systolic blood pressure",
+      "tier": "Possible worsening",
+      "asr_2023_mean": 156.8,
+      "abs_2010_23": 9.800000000000011,
+      "why_surfaced": "rate p96 (ASR 156.8); worsening p93 (+9.8/100k since 2010); divergence p92 (+18.2/100k vs India's change)"
+    },
+    {
+      "location": "Haryana",
+      "risk": "High fasting plasma glucose",
+      "tier": "Clear worsening",
+      "asr_2023_mean": 100.8,
+      "abs_2010_23": 37.4,
+      "why_surfaced": "worsening p100 (+37.4/100k since 2010); divergence p93 (+19.0/100k vs India's change); rate p85 (ASR 100.8)"
+    },
+    {
+      "location": "Bihar",
+      "risk": "Other environmental risks",
+      "tier": "Clear worsening",
+      "asr_2023_mean": 89.9,
+      "abs_2010_23": 30.900000000000006,
+      "why_surfaced": "worsening p99 (+30.9/100k since 2010); divergence p98 (+36.2/100k vs India's change); rate p82 (ASR 89.9)"
+    },
+    {
+      "location": "Karnataka",
+      "risk": "Other environmental risks",
+      "tier": "Clear worsening",
+      "asr_2023_mean": 101.7,
+      "abs_2010_23": 18.299999999999997,
+      "why_surfaced": "worsening p97 (+18.3/100k since 2010); divergence p95 (+23.6/100k vs India's change); rate p85 (ASR 101.7)"
+    },
+    {
+      "location": "Rajasthan",
+      "risk": "High systolic blood pressure",
+      "tier": "Possible worsening",
+      "asr_2023_mean": 95.6,
+      "abs_2010_23": 17.599999999999994,
+      "why_surfaced": "worsening p96 (+17.6/100k since 2010); divergence p95 (+26.0/100k vs India's change); rate p84 (ASR 95.6)"
+    },
+    {
+      "location": "Assam",
+      "risk": "Dietary risks",
+      "tier": "Possible worsening",
+      "asr_2023_mean": 101.8,
+      "abs_2010_23": 12.599999999999994,
+      "why_surfaced": "worsening p95 (+12.6/100k since 2010); divergence p93 (+18.4/100k vs India's change); rate p85 (ASR 101.8)"
+    }
+  ],
+  "within_top20_small_base": 0,
+  "within_top20_below_floor": 4,
+  "no_other_uts_N20": [
+    {
+      "variant": "within-risk (proposed)",
+      "N": 20,
+      "jaccard_B1": 0.1111111111111111,
+      "jaccard_B2": 0.1111111111111111,
+      "overlap_B1": 4,
+      "overlap_B2": 4,
+      "n_new": 14,
+      "new_clear": 4,
+      "new_possible": 4,
+      "new_divergence": 6,
+      "new_small_base": 0,
+      "new_below_floor": 4,
+      "new_clear_material": 4,
+      "share_new_clear": 0.2857142857142857,
+      "n_distinct_risks_top": 14,
+      "spearman_B1": 0.2598030460885619,
+      "kendall_B1": 0.1765716089011025,
+      "spearman_B1_eligible": 0.23671231525951109,
+      "spearman_B2": 0.23106667623362181,
+      "kendall_B2": 0.15714773950904923,
+      "spearman_B2_eligible": 0.1552261057574245
+    },
+    {
+      "variant": "cross-risk + floor",
+      "N": 20,
+      "jaccard_B1": 0.21212121212121213,
+      "jaccard_B2": 0.14285714285714285,
+      "overlap_B1": 7,
+      "overlap_B2": 5,
+      "n_new": 11,
+      "new_clear": 4,
+      "new_possible": 7,
+      "new_divergence": 0,
+      "new_small_base": 0,
+      "new_below_floor": 0,
+      "new_clear_material": 4,
+      "share_new_clear": 0.36363636363636365,
+      "n_distinct_risks_top": 5,
+      "spearman_B1": 0.2849783815684466,
+      "kendall_B1": 0.1917530707372024,
+      "spearman_B1_eligible": 0.15617569959061764,
+      "spearman_B2": 0.540088470087776,
+      "kendall_B2": 0.3860298450014431,
+      "spearman_B2_eligible": 0.3383182003659092
+    }
+  ]
+}

@@ -1,0 +1,456 @@
+{
+  "level": {
+    "variant": "level",
+    "pc_var": [
+      0.42139527171392677,
+      0.2219713216950183,
+      0.10153172906936052
+    ],
+    "profiles": {
+      "P1": "high Dietary risks, Kidney dysfunction, Air pollution; low High body-mass index, Drug use, Non-optimal temperatu\u2026",
+      "P2": "high High body-mass index, High fasting glucose, Low physical activity; low Tobacco, WASH, Child/maternal malnut\u2026",
+      "P3": "high Drug use, Child/maternal malnut\u2026, Tobacco; low High fasting glucose, Low physical activity, Other environmental"
+    },
+    "transitions": {
+      "P1": {
+        "P1": 3,
+        "P2": 0,
+        "P3": 0
+      },
+      "P2": {
+        "P1": 13,
+        "P2": 2,
+        "P3": 5
+      },
+      "P3": {
+        "P1": 0,
+        "P2": 0,
+        "P3": 8
+      }
+    },
+    "n_changed": 18,
+    "changed": [
+      {
+        "state": "Andhra Pradesh",
+        "profile_1990": "P1",
+        "profile_2010": "P1",
+        "profile_2023": "P2"
+      },
+      {
+        "state": "Assam",
+        "profile_1990": "P1",
+        "profile_2010": "P3",
+        "profile_2023": "P2"
+      },
+      {
+        "state": "Bihar",
+        "profile_1990": "P3",
+        "profile_2010": "P3",
+        "profile_2023": "P2"
+      },
+      {
+        "state": "Delhi",
+        "profile_1990": "P1",
+        "profile_2010": "P2",
+        "profile_2023": "P2"
+      },
+      {
+        "state": "Goa",
+        "profile_1990": "P1",
+        "profile_2010": "P2",
+        "profile_2023": "P2"
+      },
+      {
+        "state": "Gujarat",
+        "profile_1990": "P1",
+        "profile_2010": "P2",
+        "profile_2023": "P2"
+      },
+      {
+        "state": "Haryana",
+        "profile_1990": "P3",
+        "profile_2010": "P2",
+        "profile_2023": "P2"
+      },
+      {
+        "state": "Jharkhand",
+        "profile_1990": "P1",
+        "profile_2010": "P3",
+        "profile_2023": "P2"
+      },
+      {
+        "state": "Karnataka",
+        "profile_1990": "P1",
+        "profile_2010": "P1",
+        "profile_2023": "P2"
+      },
+      {
+        "state": "Madhya Pradesh",
+        "profile_1990": "P1",
+        "profile_2010": "P1",
+        "profile_2023": "P2"
+      },
+      {
+        "state": "Maharashtra",
+        "profile_1990": "P1",
+        "profile_2010": "P2",
+        "profile_2023": "P2"
+      },
+      {
+        "state": "Manipur",
+        "profile_1990": "P3",
+        "profile_2010": "P3",
+        "profile_2023": "P2"
+      },
+      {
+        "state": "Odisha",
+        "profile_1990": "P3",
+        "profile_2010": "P3",
+        "profile_2023": "P2"
+      },
+      {
+        "state": "Other Union Territories",
+        "profile_1990": "P1",
+        "profile_2010": "P2",
+        "profile_2023": "P2"
+      },
+      {
+        "state": "Tamil Nadu",
+        "profile_1990": "P1",
+        "profile_2010": "P1",
+        "profile_2023": "P2"
+      },
+      {
+        "state": "Tripura",
+        "profile_1990": "P1",
+        "profile_2010": "P2",
+        "profile_2023": "P2"
+      },
+      {
+        "state": "Uttar Pradesh",
+        "profile_1990": "P3",
+        "profile_2010": "P3",
+        "profile_2023": "P2"
+      },
+      {
+        "state": "West Bengal",
+        "profile_1990": "P1",
+        "profile_2010": "P1",
+        "profile_2023": "P2"
+      }
+    ],
+    "membership_by_year": {
+      "1990": {
+        "P1": 16,
+        "P3": 13,
+        "P2": 2
+      },
+      "2010": {
+        "P3": 14,
+        "P2": 9,
+        "P1": 8
+      },
+      "2023": {
+        "P2": 20,
+        "P3": 8,
+        "P1": 3
+      }
+    },
+    "top_movers": [
+      {
+        "state": "Delhi",
+        "shift_distance_1990_2023": 6.281768666500388
+      },
+      {
+        "state": "Tamil Nadu",
+        "shift_distance_1990_2023": 5.905909705767524
+      },
+      {
+        "state": "Odisha",
+        "shift_distance_1990_2023": 5.5417860504064445
+      },
+      {
+        "state": "Jammu & Kashmir and Ladakh",
+        "shift_distance_1990_2023": 5.524198614387741
+      },
+      {
+        "state": "Maharashtra",
+        "shift_distance_1990_2023": 5.521451847309823
+      }
+    ],
+    "pc1_top": {
+      "Drug use": -0.01,
+      "High alcohol use": 0.06,
+      "High body-mass index": 0.08,
+      "Child and maternal malnutrition": 0.09,
+      "Tobacco": 0.1,
+      "Unsafe sex": 0.1,
+      "Non-optimal temperature": 0.13,
+      "Unsafe water, sanitation, and handwashing": 0.13,
+      "Occupational risks": 0.17,
+      "Intimate partner violence": 0.24,
+      "High fasting plasma glucose": 0.25,
+      "Sexual violence against children and bullying": 0.25,
+      "Air pollution": 0.26,
+      "Low physical activity": 0.28,
+      "Low bone mineral density": 0.29,
+      "High LDL cholesterol": 0.29,
+      "High systolic blood pressure": 0.31,
+      "Other environmental risks": 0.31,
+      "Kidney dysfunction": 0.32,
+      "Dietary risks": 0.33
+    },
+    "pc2_top": {
+      "High body-mass index": -0.4,
+      "High fasting plasma glucose": -0.25,
+      "High LDL cholesterol": -0.16,
+      "Low physical activity": -0.15,
+      "Other environmental risks": -0.14,
+      "Kidney dysfunction": -0.08,
+      "High systolic blood pressure": -0.08,
+      "Dietary risks": -0.07,
+      "Unsafe sex": -0.01,
+      "Low bone mineral density": -0.01,
+      "Sexual violence against children and bullying": -0.0,
+      "Drug use": 0.02,
+      "Non-optimal temperature": 0.12,
+      "Intimate partner violence": 0.14,
+      "High alcohol use": 0.22,
+      "Air pollution": 0.25,
+      "Occupational risks": 0.31,
+      "Tobacco": 0.34,
+      "Unsafe water, sanitation, and handwashing": 0.4,
+      "Child and maternal malnutrition": 0.42
+    }
+  },
+  "shape": {
+    "variant": "shape",
+    "pc_var": [
+      0.38853443271566984,
+      0.17570525151544852,
+      0.10283491843765184
+    ],
+    "profiles": {
+      "P1": "high Other environmental, High fasting glucose, High LDL cholesterol; low Child/maternal malnut\u2026, WASH, Tobacco",
+      "P2": "high Drug use, High alcohol use, Tobacco; low Dietary risks, High LDL cholesterol, Other environmental",
+      "P3": "high Child/maternal malnut\u2026, WASH, Air pollution; low High fasting glucose, High body-mass index, Low physical activity"
+    },
+    "transitions": {
+      "P1": {
+        "P1": 6,
+        "P2": 0,
+        "P3": 19
+      },
+      "P2": {
+        "P1": 0,
+        "P2": 5,
+        "P3": 0
+      },
+      "P3": {
+        "P1": 0,
+        "P2": 0,
+        "P3": 1
+      }
+    },
+    "n_changed": 19,
+    "changed": [
+      {
+        "state": "Andhra Pradesh",
+        "profile_1990": "P3",
+        "profile_2010": "P1",
+        "profile_2023": "P1"
+      },
+      {
+        "state": "Assam",
+        "profile_1990": "P3",
+        "profile_2010": "P2",
+        "profile_2023": "P1"
+      },
+      {
+        "state": "Bihar",
+        "profile_1990": "P3",
+        "profile_2010": "P3",
+        "profile_2023": "P1"
+      },
+      {
+        "state": "Chhattisgarh",
+        "profile_1990": "P3",
+        "profile_2010": "P3",
+        "profile_2023": "P1"
+      },
+      {
+        "state": "Gujarat",
+        "profile_1990": "P3",
+        "profile_2010": "P1",
+        "profile_2023": "P1"
+      },
+      {
+        "state": "Haryana",
+        "profile_1990": "P3",
+        "profile_2010": "P3",
+        "profile_2023": "P1"
+      },
+      {
+        "state": "Himachal Pradesh",
+        "profile_1990": "P3",
+        "profile_2010": "P3",
+        "profile_2023": "P1"
+      },
+      {
+        "state": "Jammu & Kashmir and Ladakh",
+        "profile_1990": "P3",
+        "profile_2010": "P3",
+        "profile_2023": "P1"
+      },
+      {
+        "state": "Jharkhand",
+        "profile_1990": "P3",
+        "profile_2010": "P3",
+        "profile_2023": "P1"
+      },
+      {
+        "state": "Karnataka",
+        "profile_1990": "P3",
+        "profile_2010": "P1",
+        "profile_2023": "P1"
+      },
+      {
+        "state": "Madhya Pradesh",
+        "profile_1990": "P3",
+        "profile_2010": "P3",
+        "profile_2023": "P1"
+      },
+      {
+        "state": "Maharashtra",
+        "profile_1990": "P3",
+        "profile_2010": "P1",
+        "profile_2023": "P1"
+      },
+      {
+        "state": "Nagaland",
+        "profile_1990": "P3",
+        "profile_2010": "P2",
+        "profile_2023": "P1"
+      },
+      {
+        "state": "Odisha",
+        "profile_1990": "P3",
+        "profile_2010": "P3",
+        "profile_2023": "P1"
+      },
+      {
+        "state": "Telangana",
+        "profile_1990": "P3",
+        "profile_2010": "P1",
+        "profile_2023": "P1"
+      },
+      {
+        "state": "Tripura",
+        "profile_1990": "P3",
+        "profile_2010": "P3",
+        "profile_2023": "P1"
+      },
+      {
+        "state": "Uttar Pradesh",
+        "profile_1990": "P3",
+        "profile_2010": "P3",
+        "profile_2023": "P1"
+      },
+      {
+        "state": "Uttarakhand",
+        "profile_1990": "P3",
+        "profile_2010": "P1",
+        "profile_2023": "P1"
+      },
+      {
+        "state": "West Bengal",
+        "profile_1990": "P3",
+        "profile_2010": "P1",
+        "profile_2023": "P1"
+      }
+    ],
+    "membership_by_year": {
+      "1990": {
+        "P3": 20,
+        "P1": 6,
+        "P2": 5
+      },
+      "2010": {
+        "P1": 13,
+        "P3": 11,
+        "P2": 7
+      },
+      "2023": {
+        "P1": 25,
+        "P2": 5,
+        "P3": 1
+      }
+    },
+    "top_movers": [
+      {
+        "state": "Odisha",
+        "shift_distance_1990_2023": 6.2036028735232165
+      },
+      {
+        "state": "Uttar Pradesh",
+        "shift_distance_1990_2023": 6.008331645880436
+      },
+      {
+        "state": "Bihar",
+        "shift_distance_1990_2023": 5.89740677426991
+      },
+      {
+        "state": "Assam",
+        "shift_distance_1990_2023": 5.850012815130785
+      },
+      {
+        "state": "Maharashtra",
+        "shift_distance_1990_2023": 5.684487880261608
+      }
+    ],
+    "pc1_top": {
+      "Child and maternal malnutrition": -0.27,
+      "Unsafe water, sanitation, and handwashing": -0.25,
+      "Occupational risks": -0.25,
+      "Tobacco": -0.24,
+      "High alcohol use": -0.16,
+      "Air pollution": -0.16,
+      "Non-optimal temperature": -0.08,
+      "Intimate partner violence": -0.07,
+      "Drug use": -0.07,
+      "Unsafe sex": -0.02,
+      "Sexual violence against children and bullying": 0.05,
+      "Low bone mineral density": 0.14,
+      "High body-mass index": 0.25,
+      "Low physical activity": 0.26,
+      "High fasting plasma glucose": 0.26,
+      "High systolic blood pressure": 0.28,
+      "Kidney dysfunction": 0.3,
+      "Dietary risks": 0.3,
+      "High LDL cholesterol": 0.31,
+      "Other environmental risks": 0.32
+    },
+    "pc2_top": {
+      "Air pollution": -0.35,
+      "Child and maternal malnutrition": -0.29,
+      "Dietary risks": -0.25,
+      "Unsafe water, sanitation, and handwashing": -0.24,
+      "Kidney dysfunction": -0.21,
+      "High LDL cholesterol": -0.19,
+      "High systolic blood pressure": -0.18,
+      "Non-optimal temperature": -0.17,
+      "Other environmental risks": -0.14,
+      "Occupational risks": -0.03,
+      "Tobacco": -0.02,
+      "Low bone mineral density": 0.02,
+      "Low physical activity": 0.03,
+      "Intimate partner violence": 0.14,
+      "High alcohol use": 0.16,
+      "High fasting plasma glucose": 0.19,
+      "High body-mass index": 0.25,
+      "Unsafe sex": 0.32,
+      "Sexual violence against children and bullying": 0.35,
+      "Drug use": 0.37
+    }
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "all31": {
+    "median_cross_config_ari": 0.13949916314656163,
+    "median_cross_config_ari_k3": 0.15107754327098444,
+    "cores": [
+      {
+        "states": [
+          "Assam",
+          "Bihar",
+          "Chhattisgarh",
+          "Haryana",
+          "Jharkhand",
+          "Uttar Pradesh"
+        ],
+        "size": 6,
+        "mean_coassignment": 0.7858314505526494
+      },
+      {
+        "states": [
+          "Arunachal Pradesh",
+          "Manipur",
+          "Meghalaya",
+          "Mizoram",
+          "Nagaland"
+        ],
+        "size": 5,
+        "mean_coassignment": 0.8324018918306756
+      },
+      {
+        "states": [
+          "Gujarat",
+          "Madhya Pradesh",
+          "Tripura",
+          "West Bengal"
+        ],
+        "size": 4,
+        "mean_coassignment": 0.8204432217870825
+      },
+      {
+        "states": [
+          "Andhra Pradesh",
+          "Telangana",
+          "Uttarakhand"
+        ],
+        "size": 3,
+        "mean_coassignment": 0.7893020891195964
+      },
+      {
+        "states": [
+          "Himachal Pradesh",
+          "Jammu & Kashmir and Ladakh",
+          "Sikkim"
+        ],
+        "size": 3,
+        "mean_coassignment": 0.8582814882921043
+      },
+      {
+        "states": [
+          "Kerala",
+          "Tamil Nadu"
+        ],
+        "size": 2,
+        "mean_coassignment": 0.8078233024691357
+      },
+      {
+        "states": [
+          "Other Union Territories",
+          "Punjab"
+        ],
+        "size": 2,
+        "mean_coassignment": 0.8458103256237409
+      },
+      {
+        "states": [
+          "Delhi",
+          "Goa"
+        ],
+        "size": 2,
+        "mean_coassignment": 0.7412041763957377
+      }
+    ],
+    "floaters": [],
+    "verdict_counts": {
+      "Gradient, not clusters": 21,
+      "Partial structure": 3
+    },
+    "overall_verdict": "Gradient, not clusters",
+    "gate1_pass": 3,
+    "gate2_pass": 0,
+    "unc_ari_median_over_configs": 0.47840717795247933,
+    "loro_ari_median_over_configs": 0.906187532515784,
+    "core_F1_z": {
+      "units": "all31",
+      "config": "core-F1-z",
+      "k_star": 4,
+      "observed_best_sil": 0.239,
+      "null_mvn_p95": 0.3382,
+      "gate1_existence": false,
+      "boot_jaccard_min": 0.6987382079065446,
+      "boot_jaccard_max": 0.8149769841269842,
+      "boot_jaccard_by_cluster": "0:0.81; 1:0.78; 2:0.70; 3:0.73",
+      "n_clusters_stable": 2,
+      "n_clusters_dissolved": 0,
+      "median_ari_vs_other_configs": 0.19148149669363781,
+      "gate2_stability": false,
+      "unc_ari_median": 0.6760593831075238,
+      "unc_ari_p05": 0.4052875161056099,
+      "unc_ari_p95": 0.9058222238107152,
+      "loro_ari_median": 0.9042427952565453,
+      "loro_ari_min": 0.7424754455960306,
+      "loro_flagged_risks": "",
+      "verdict": "Gradient, not clusters"
+    }
+  },
+  "no_other_uts30": {
+    "median_cross_config_ari": 0.1569767441860465,
+    "median_cross_config_ari_k3": 0.13933421903699622,
+    "cores": [
+      {
+        "states": [
+          "Assam",
+          "Bihar",
+          "Chhattisgarh",
+          "Haryana",
+          "Jharkhand",
+          "Uttar Pradesh"
+        ],
+        "size": 6,
+        "mean_coassignment": 0.8099891237663338
+      },
+      {
+        "states": [
+          "Arunachal Pradesh",
+          "Manipur",
+          "Meghalaya",
+          "Mizoram",
+          "Nagaland"
+        ],
+        "size": 5,
+        "mean_coassignment": 0.8631859285410372
+      },
+      {
+        "states": [
+          "Gujarat",
+          "Madhya Pradesh",
+          "Tripura",
+          "West Bengal"
+        ],
+        "size": 4,
+        "mean_coassignment": 0.8377875239046987
+      },
+      {
+        "states": [
+          "Andhra Pradesh",
+          "Telangana",
+          "Uttarakhand"
+        ],
+        "size": 3,
+        "mean_coassignment": 0.8154645608417516
+      },
+      {
+        "states": [
+          "Himachal Pradesh",
+          "Jammu & Kashmir and Ladakh",
+          "Sikkim"
+        ],
+        "size": 3,
+        "mean_coassignment": 0.8675906104892904
+      },
+      {
+        "states": [
+          "Kerala",
+          "Maharashtra",
+          "Tamil Nadu"
+        ],
+        "size": 3,
+        "mean_coassignment": 0.761275841944066
+      }
+    ],
+    "floaters": [],
+    "verdict_counts": {
+      "Gradient, not clusters": 21,
+      "Partial structure": 3
+    },
+    "overall_verdict": "Gradient, not clusters",
+    "gate1_pass": 3,
+    "gate2_pass": 0,
+    "unc_ari_median_over_configs": 0.48146883781490835,
+    "loro_ari_median_over_configs": 0.8654827316177756,
+    "core_F1_z": {
+      "units": "no_other_uts30",
+      "config": "core-F1-z",
+      "k_star": 2,
+      "observed_best_sil": 0.2532,
+      "null_mvn_p95": 0.3475,
+      "gate1_existence": false,
+      "boot_jaccard_min": 0.7740134536430202,
+      "boot_jaccard_max": 0.8016430129038488,
+      "boot_jaccard_by_cluster": "0:0.80; 1:0.77",
+      "n_clusters_stable": 2,
+      "n_clusters_dissolved": 0,
+      "median_ari_vs_other_configs": 0.1827323384359188,
+      "gate2_stability": false,
+      "unc_ari_median": 0.7425762992852044,
+      "unc_ari_p05": 0.2607272919195651,
+      "unc_ari_p95": 1.0,
+      "loro_ari_median": 1.0,
+      "loro_ari_min": 0.6280677679843775,
+      "loro_flagged_risks": "",
+      "verdict": "Gradient, not clusters"
+    }
+  }
+}

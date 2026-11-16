@@ -1,0 +1,10 @@
+perturbation,share_flipped,n_flipped
+divergence threshold 5 pp,0.0903,56
+divergence threshold 15 pp,0.0613,38
+point change at lo bound,0.3081,191
+point change at hi bound,0.4129,256
+Monte Carlo (mean share of draws),0.2428,45
+"Monte Carlo, watchlist pairs only (mean share)",0.2916,29
+"Monte Carlo, base tier = Clear worsening (mean share)",0.0,0
+"Monte Carlo, base tier = Possible worsening (mean share)",0.2597,1
+"Monte Carlo, base tier = Adverse divergence (mean share)",0.5385,28

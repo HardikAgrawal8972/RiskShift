@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+# raw GBD workbook (118 MB) - keep out of git; see README for source
+*.XLSX
+*.xlsx
+data/interim/
+data/processed/*.pkl
+data/processed/*.npz

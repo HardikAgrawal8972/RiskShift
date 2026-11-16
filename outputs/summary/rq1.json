@@ -1,0 +1,82 @@
+{
+  "n_pairs": 620,
+  "tier_counts": {
+    "None": 368,
+    "Possible worsening": 144,
+    "Adverse divergence": 67,
+    "Clear worsening": 41
+  },
+  "point_up": 185,
+  "clear_by_risk": {
+    "High body-mass index": 18,
+    "High fasting plasma glucose": 8,
+    "Other environmental risks": 4,
+    "Low physical activity": 3,
+    "High LDL cholesterol": 2,
+    "Kidney dysfunction": 2,
+    "Non-optimal temperature": 1,
+    "Low bone mineral density": 1,
+    "Dietary risks": 1,
+    "High systolic blood pressure": 1
+  },
+  "clear_small_base": 0,
+  "watchlist_small_base": 26,
+  "recent_reversal_in_watchlist": 71,
+  "india_clearly_rising": [
+    {
+      "risk": "High fasting plasma glucose",
+      "pct_2010_23_mean": 26.7,
+      "pct_2010_23_lo": 0.8,
+      "pct_2010_23_hi": 57.4
+    },
+    {
+      "risk": "High body-mass index",
+      "pct_2010_23_mean": 36.7,
+      "pct_2010_23_lo": 8.5,
+      "pct_2010_23_hi": 72.7
+    }
+  ],
+  "threshold_sensitivity": {
+    "5 pp": {
+      "Clear worsening": 41,
+      "Possible worsening": 144,
+      "Adverse divergence": 123,
+      "None": 312
+    },
+    "10 pp": {
+      "Clear worsening": 41,
+      "Possible worsening": 144,
+      "Adverse divergence": 67,
+      "None": 368
+    },
+    "15 pp": {
+      "Clear worsening": 41,
+      "Possible worsening": 144,
+      "Adverse divergence": 29,
+      "None": 406
+    }
+  },
+  "detail_tier_counts": {
+    "None": 532,
+    "Possible worsening": 175,
+    "Adverse divergence": 78,
+    "Clear worsening": 52
+  },
+  "detail_clear_by_risk": {
+    "Ambient particulate matter pollution": 26,
+    "Ambient ozone pollution": 8,
+    "Diet high in processed meat": 7,
+    "Lead exposure": 4,
+    "Diet low in fruits": 2,
+    "Chewing tobacco": 2,
+    "Diet low in vegetables": 1,
+    "Diet low in nuts and seeds": 1,
+    "Diet low in omega-6 polyunsaturated fatty acids": 1
+  },
+  "without_other_uts": {
+    "None": 355,
+    "Possible worsening": 139,
+    "Adverse divergence": 66,
+    "Clear worsening": 40
+  }
+}

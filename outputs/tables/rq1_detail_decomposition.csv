@@ -1,0 +1,237 @@
+location,level2_risk,level2_tier,level2_pct,detail_risk,detail_tier,detail_asr_2023,detail_pct,detail_abs
+Andhra Pradesh,Non-optimal temperature,Adverse divergence,-4.9,Low temperature,None,5.1,-53.9,-6.1
+Arunachal Pradesh,Non-optimal temperature,Adverse divergence,-2.8,Low temperature,None,15.3,-8.3,-1.4
+Arunachal Pradesh,Other environmental risks,Possible worsening,5.1,Lead exposure,Possible worsening,27.7,4.8,1.3
+Arunachal Pradesh,Occupational risks,Adverse divergence,-20.9,"Occupational particulate matter, gases, and fumes",None,3.5,-15.6,-0.7
+Arunachal Pradesh,Occupational risks,Adverse divergence,-20.9,Occupational injuries,Adverse divergence,12.3,-23.8,-3.8
+Arunachal Pradesh,Dietary risks,Possible worsening,3.5,Diet low in fruits,Possible worsening,22.8,2.5,0.6
+Arunachal Pradesh,Dietary risks,Possible worsening,3.5,Diet low in vegetables,Possible worsening,10.3,3.4,0.4
+Arunachal Pradesh,Dietary risks,Possible worsening,3.5,Diet low in legumes,Adverse divergence,1.8,-3.5,-0.1
+Arunachal Pradesh,Dietary risks,Possible worsening,3.5,Diet low in whole grains,Possible worsening,7.3,7.4,0.5
+Arunachal Pradesh,Dietary risks,Possible worsening,3.5,Diet low in nuts and seeds,Adverse divergence,7.1,-6.3,-0.5
+Arunachal Pradesh,Dietary risks,Possible worsening,3.5,Diet high in processed meat,Possible worsening,0.9,37.9,0.3
+Arunachal Pradesh,Dietary risks,Possible worsening,3.5,Diet low in fiber,None,2.5,-31.0,-1.2
+Arunachal Pradesh,Dietary risks,Possible worsening,3.5,Diet low in seafood omega-3 fatty acids,Adverse divergence,5.9,-9.6,-0.7
+Arunachal Pradesh,Dietary risks,Possible worsening,3.5,Diet low in omega-6 polyunsaturated fatty acids,Possible worsening,5.3,6.0,0.3
+Arunachal Pradesh,Dietary risks,Possible worsening,3.5,Diet high in trans fatty acids,Possible worsening,4.9,6.9,0.4
+Arunachal Pradesh,Dietary risks,Possible worsening,3.5,Diet high in sodium,Possible worsening,9.1,3.0,0.2
+Assam,Non-optimal temperature,Clear worsening,21.8,Low temperature,None,8.6,-10.7,-1.0
+Assam,Other environmental risks,Possible worsening,22.5,Lead exposure,Possible worsening,49.3,22.3,9.0
+Assam,Occupational risks,Adverse divergence,-21.8,"Occupational particulate matter, gases, and fumes",None,4.7,-19.2,-1.1
+Assam,Occupational risks,Adverse divergence,-21.8,Occupational injuries,Adverse divergence,14.2,-24.3,-4.6
+Assam,Dietary risks,Possible worsening,14.1,Diet low in fruits,Possible worsening,38.1,5.9,2.2
+Assam,Dietary risks,Possible worsening,14.1,Diet low in vegetables,Possible worsening,17.3,6.4,1.0
+Assam,Dietary risks,Possible worsening,14.1,Diet low in legumes,Possible worsening,3.4,18.7,0.5
+Assam,Dietary risks,Possible worsening,14.1,Diet low in whole grains,Possible worsening,13.3,26.0,2.7
+Assam,Dietary risks,Possible worsening,14.1,Diet low in nuts and seeds,Possible worsening,13.1,17.6,2.0
+Assam,Dietary risks,Possible worsening,14.1,Diet high in processed meat,Clear worsening,1.8,74.4,0.8
+Assam,Dietary risks,Possible worsening,14.1,Diet low in fiber,Adverse divergence,7.2,-9.3,-0.8
+Assam,Dietary risks,Possible worsening,14.1,Diet low in seafood omega-3 fatty acids,Possible worsening,9.6,7.1,0.7
+Assam,Dietary risks,Possible worsening,14.1,Diet low in omega-6 polyunsaturated fatty acids,Possible worsening,8.6,24.6,1.7
+Assam,Dietary risks,Possible worsening,14.1,Diet high in trans fatty acids,Possible worsening,7.9,25.1,1.6
+Assam,Dietary risks,Possible worsening,14.1,Diet high in sodium,Possible worsening,15.1,7.5,1.1
+Assam,Sexual violence against children and bullying,Possible worsening,6.8,Sexual violence against children,Possible worsening,5.3,6.8,0.4
+Bihar,"Unsafe water, sanitation, and handwashing",Adverse divergence,-45.8,Unsafe water source,Adverse divergence,58.3,-44.5,-46.7
+Bihar,"Unsafe water, sanitation, and handwashing",Adverse divergence,-45.8,Unsafe sanitation,Adverse divergence,41.4,-52.9,-46.5
+Bihar,"Unsafe water, sanitation, and handwashing",Adverse divergence,-45.8,No access to handwashing facility,Adverse divergence,17.2,-57.3,-23.2
+Bihar,Air pollution,Possible worsening,10.5,Ambient particulate matter pollution,Clear worsening,77.4,96.9,38.1
+Bihar,Air pollution,Possible worsening,10.5,Household air pollution from solid fuels,Adverse divergence,155.9,-10.5,-18.2
+Bihar,Air pollution,Possible worsening,10.5,Ambient ozone pollution,Possible worsening,31.0,29.4,7.1
+Bihar,Non-optimal temperature,Possible worsening,17.8,Low temperature,Possible worsening,20.8,19.8,3.4
+Bihar,Other environmental risks,Clear worsening,52.2,Lead exposure,Clear worsening,89.7,52.2,30.8
+Bihar,Dietary risks,Clear worsening,38.5,Diet low in fruits,Clear worsening,46.3,33.3,11.5
+Bihar,Dietary risks,Clear worsening,38.5,Diet low in vegetables,Clear worsening,25.1,41.1,7.3
+Bihar,Dietary risks,Clear worsening,38.5,Diet low in legumes,Possible worsening,6.8,29.9,1.6
+Bihar,Dietary risks,Clear worsening,38.5,Diet low in whole grains,Possible worsening,19.1,38.7,5.4
+Bihar,Dietary risks,Clear worsening,38.5,Diet low in nuts and seeds,Clear worsening,25.4,32.0,6.2
+Bihar,Dietary risks,Clear worsening,38.5,Diet high in processed meat,Clear worsening,1.6,68.8,0.7
+Bihar,Dietary risks,Clear worsening,38.5,Diet low in fiber,Possible worsening,13.1,10.1,1.2
+Bihar,Dietary risks,Clear worsening,38.5,Diet low in seafood omega-3 fatty acids,Possible worsening,18.1,21.9,3.2
+Bihar,Dietary risks,Clear worsening,38.5,Diet low in omega-6 polyunsaturated fatty acids,Clear worsening,16.0,41.5,4.7
+Bihar,Dietary risks,Clear worsening,38.5,Diet high in trans fatty acids,Possible worsening,14.1,37.8,3.9
+Bihar,Dietary risks,Clear worsening,38.5,Diet high in sodium,Possible worsening,17.0,36.6,4.6
+Chhattisgarh,Air pollution,Possible worsening,3.6,Ambient particulate matter pollution,Clear worsening,151.6,97.3,74.8
+Chhattisgarh,Air pollution,Possible worsening,3.6,Household air pollution from solid fuels,Adverse divergence,148.7,-31.3,-67.6
+Chhattisgarh,Air pollution,Possible worsening,3.6,Ambient ozone pollution,Clear worsening,29.0,49.0,9.5
+Chhattisgarh,Other environmental risks,Clear worsening,28.2,Lead exposure,Clear worsening,87.0,28.2,19.1
+Chhattisgarh,Child and maternal malnutrition,Adverse divergence,-21.5,Child growth failure,Adverse divergence,40.7,-3.8,-1.6
+Chhattisgarh,Child and maternal malnutrition,Adverse divergence,-21.5,Low birth weight and short gestation,None,42.8,-32.3,-20.4
+Chhattisgarh,Dietary risks,Possible worsening,20.6,Diet low in fruits,Possible worsening,56.6,15.0,7.4
+Chhattisgarh,Dietary risks,Possible worsening,20.6,Diet low in vegetables,Possible worsening,23.7,18.6,3.7
+Chhattisgarh,Dietary risks,Possible worsening,20.6,Diet low in legumes,Possible worsening,6.0,18.8,1.0
+Chhattisgarh,Dietary risks,Possible worsening,20.6,Diet low in whole grains,Possible worsening,20.7,26.1,4.3
+Chhattisgarh,Dietary risks,Possible worsening,20.6,Diet low in nuts and seeds,Possible worsening,22.6,14.9,2.9
+Chhattisgarh,Dietary risks,Possible worsening,20.6,Diet high in processed meat,Clear worsening,2.0,58.7,0.7
+Chhattisgarh,Dietary risks,Possible worsening,20.6,Diet low in fiber,Adverse divergence,9.8,-9.3,-1.0
+Chhattisgarh,Dietary risks,Possible worsening,20.6,Diet low in seafood omega-3 fatty acids,Possible worsening,14.1,3.1,0.5
+Chhattisgarh,Dietary risks,Possible worsening,20.6,Diet low in omega-6 polyunsaturated fatty acids,Possible worsening,16.3,28.3,3.6
+Chhattisgarh,Dietary risks,Possible worsening,20.6,Diet high in trans fatty acids,Possible worsening,14.8,27.9,3.3
+Chhattisgarh,Dietary risks,Possible worsening,20.6,Diet high in sodium,Possible worsening,22.6,16.7,3.2
+Chhattisgarh,Sexual violence against children and bullying,Adverse divergence,-0.1,Sexual violence against children,Adverse divergence,6.3,-0.1,0.0
+Haryana,Air pollution,Adverse divergence,-1.1,Ambient particulate matter pollution,Clear worsening,121.7,54.9,43.1
+Haryana,Air pollution,Adverse divergence,-1.1,Household air pollution from solid fuels,None,69.2,-40.9,-47.8
+Haryana,Air pollution,Adverse divergence,-1.1,Ambient ozone pollution,Possible worsening,22.6,16.3,3.2
+Haryana,Tobacco,Adverse divergence,-11.9,Smoking,Adverse divergence,104.2,-15.8,-19.6
+Haryana,Tobacco,Adverse divergence,-11.9,Chewing tobacco,Possible worsening,3.0,32.1,0.8
+Haryana,Tobacco,Adverse divergence,-11.9,Secondhand smoke,Adverse divergence,40.6,-4.8,-2.0
+Haryana,Dietary risks,Possible worsening,0.1,Diet low in fruits,Possible worsening,35.8,2.9,1.0
+Haryana,Dietary risks,Possible worsening,0.1,Diet low in vegetables,Possible worsening,14.3,5.4,0.7
+Haryana,Dietary risks,Possible worsening,0.1,Diet low in legumes,None,3.3,-26.0,-1.2
+Haryana,Dietary risks,Possible worsening,0.1,Diet low in whole grains,None,13.7,-3.4,-0.5
+Haryana,Dietary risks,Possible worsening,0.1,Diet low in nuts and seeds,None,12.1,-34.1,-6.2
+Haryana,Dietary risks,Possible worsening,0.1,Diet high in processed meat,Clear worsening,1.7,80.6,0.8
+Haryana,Dietary risks,Possible worsening,0.1,Diet low in fiber,None,3.1,-41.3,-2.2
+Haryana,Dietary risks,Possible worsening,0.1,Diet low in seafood omega-3 fatty acids,None,10.9,-32.2,-5.1
+Haryana,Dietary risks,Possible worsening,0.1,Diet low in omega-6 polyunsaturated fatty acids,None,10.6,-18.4,-2.4
+Haryana,Dietary risks,Possible worsening,0.1,Diet high in trans fatty acids,None,9.8,-19.5,-2.4
+Haryana,Dietary risks,Possible worsening,0.1,Diet high in sodium,Possible worsening,13.1,10.7,1.3
+Haryana,Sexual violence against children and bullying,Possible worsening,7.7,Sexual violence against children,Possible worsening,5.6,7.7,0.4
+Jharkhand,Air pollution,Adverse divergence,-0.7,Ambient particulate matter pollution,Clear worsening,80.5,78.6,35.4
+Jharkhand,Air pollution,Adverse divergence,-0.7,Household air pollution from solid fuels,Adverse divergence,112.7,-25.7,-39.0
+Jharkhand,Air pollution,Adverse divergence,-0.7,Ambient ozone pollution,Possible worsening,22.7,15.4,3.1
+Jharkhand,Occupational risks,Adverse divergence,-3.4,"Occupational particulate matter, gases, and fumes",None,6.0,-9.7,-0.7
+Jharkhand,Occupational risks,Adverse divergence,-3.4,Occupational injuries,Adverse divergence,19.4,-3.3,-0.7
+Jharkhand,Tobacco,Possible worsening,3.8,Smoking,Adverse divergence,35.2,-19.5,-8.5
+Jharkhand,Tobacco,Possible worsening,3.8,Chewing tobacco,Clear worsening,30.5,66.0,12.1
+Jharkhand,Tobacco,Possible worsening,3.8,Secondhand smoke,Adverse divergence,19.4,0.0,0.0
+Jharkhand,Dietary risks,Possible worsening,2.7,Diet low in fruits,Possible worsening,35.4,8.2,2.6
+Jharkhand,Dietary risks,Possible worsening,2.7,Diet low in vegetables,Possible worsening,17.0,20.2,2.8
+Jharkhand,Dietary risks,Possible worsening,2.7,Diet low in legumes,None,2.8,-27.3,-1.1
+Jharkhand,Dietary risks,Possible worsening,2.7,Diet low in whole grains,None,11.4,-4.4,-0.5
+Jharkhand,Dietary risks,Possible worsening,2.7,Diet low in nuts and seeds,None,10.7,-28.4,-4.2
+Jharkhand,Dietary risks,Possible worsening,2.7,Diet high in processed meat,Possible worsening,1.7,67.2,0.7
+Jharkhand,Dietary risks,Possible worsening,2.7,Diet low in fiber,None,6.6,-21.7,-1.9
+Jharkhand,Dietary risks,Possible worsening,2.7,Diet low in seafood omega-3 fatty acids,None,8.2,-32.7,-4.0
+Jharkhand,Dietary risks,Possible worsening,2.7,Diet low in omega-6 polyunsaturated fatty acids,None,7.1,-23.3,-2.2
+Jharkhand,Dietary risks,Possible worsening,2.7,Diet high in trans fatty acids,None,6.4,-24.4,-2.0
+Jharkhand,Dietary risks,Possible worsening,2.7,Diet high in sodium,Possible worsening,14.0,16.2,1.9
+Jharkhand,Sexual violence against children and bullying,Possible worsening,22.7,Sexual violence against children,Possible worsening,4.9,22.7,0.9
+Karnataka,Other environmental risks,Clear worsening,22.0,Lead exposure,Clear worsening,101.5,22.0,18.3
+Karnataka,Dietary risks,Possible worsening,13.5,Diet low in fruits,Possible worsening,60.5,15.3,8.0
+Karnataka,Dietary risks,Possible worsening,13.5,Diet low in vegetables,Possible worsening,22.3,17.1,3.2
+Karnataka,Dietary risks,Possible worsening,13.5,Diet low in legumes,Possible worsening,9.0,10.2,0.8
+Karnataka,Dietary risks,Possible worsening,13.5,Diet low in whole grains,Possible worsening,11.1,22.3,2.0
+Karnataka,Dietary risks,Possible worsening,13.5,Diet low in nuts and seeds,None,7.9,-14.7,-1.4
+Karnataka,Dietary risks,Possible worsening,13.5,Diet high in processed meat,Possible worsening,1.3,37.5,0.4
+Karnataka,Dietary risks,Possible worsening,13.5,Diet low in fiber,Adverse divergence,8.0,-19.5,-1.9
+Karnataka,Dietary risks,Possible worsening,13.5,Diet low in seafood omega-3 fatty acids,Adverse divergence,15.9,-10.8,-1.9
+Karnataka,Dietary risks,Possible worsening,13.5,Diet low in omega-6 polyunsaturated fatty acids,Possible worsening,19.8,13.3,2.3
+Karnataka,Dietary risks,Possible worsening,13.5,Diet high in trans fatty acids,Possible worsening,18.1,11.6,1.9
+Karnataka,Dietary risks,Possible worsening,13.5,Diet high in sodium,Possible worsening,18.2,10.9,1.8
+Kerala,"Unsafe water, sanitation, and handwashing",Adverse divergence,-36.6,Unsafe water source,Adverse divergence,11.4,-31.2,-5.1
+Kerala,"Unsafe water, sanitation, and handwashing",Adverse divergence,-36.6,Unsafe sanitation,Adverse divergence,3.7,-48.9,-3.6
+Kerala,"Unsafe water, sanitation, and handwashing",Adverse divergence,-36.6,No access to handwashing facility,None,1.9,-61.5,-3.0
+Manipur,Non-optimal temperature,Adverse divergence,-6.4,Low temperature,None,12.9,-13.9,-2.1
+Manipur,Other environmental risks,Possible worsening,4.1,Lead exposure,Possible worsening,43.2,3.8,1.5
+Manipur,Occupational risks,Adverse divergence,-20.2,"Occupational particulate matter, gases, and fumes",None,2.4,-21.9,-0.7
+Manipur,Occupational risks,Adverse divergence,-20.2,Occupational injuries,Adverse divergence,10.4,-24.2,-3.3
+Manipur,Dietary risks,Possible worsening,3.7,Diet low in fruits,Possible worsening,33.6,0.3,0.1
+Manipur,Dietary risks,Possible worsening,3.7,Diet low in vegetables,Possible worsening,13.8,1.3,0.2
+Manipur,Dietary risks,Possible worsening,3.7,Diet low in legumes,Possible worsening,3.1,4.7,0.1
+Manipur,Dietary risks,Possible worsening,3.7,Diet low in whole grains,Possible worsening,11.2,11.2,1.1
+Manipur,Dietary risks,Possible worsening,3.7,Diet low in nuts and seeds,Possible worsening,12.1,4.4,0.5
+Manipur,Dietary risks,Possible worsening,3.7,Diet high in processed meat,Clear worsening,1.4,45.9,0.4
+Manipur,Dietary risks,Possible worsening,3.7,Diet low in fiber,Adverse divergence,6.3,-11.4,-0.8
+Manipur,Dietary risks,Possible worsening,3.7,Diet low in seafood omega-3 fatty acids,Adverse divergence,9.2,-6.2,-0.6
+Manipur,Dietary risks,Possible worsening,3.7,Diet low in omega-6 polyunsaturated fatty acids,Possible worsening,7.8,8.0,0.5
+Manipur,Dietary risks,Possible worsening,3.7,Diet high in trans fatty acids,Possible worsening,7.1,9.5,0.6
+Manipur,Dietary risks,Possible worsening,3.7,Diet high in sodium,Possible worsening,11.4,1.2,0.1
+Meghalaya,Non-optimal temperature,Possible worsening,4.7,Low temperature,None,9.1,-8.9,-0.8
+Meghalaya,Other environmental risks,Possible worsening,7.8,Lead exposure,Possible worsening,30.3,7.6,2.1
+Meghalaya,Occupational risks,Adverse divergence,-16.5,"Occupational particulate matter, gases, and fumes",None,3.2,-20.5,-0.9
+Meghalaya,Occupational risks,Adverse divergence,-16.5,Occupational injuries,Adverse divergence,11.7,-18.6,-2.7
+Meghalaya,Dietary risks,Possible worsening,7.2,Diet low in fruits,Possible worsening,24.9,1.9,0.4
+Meghalaya,Dietary risks,Possible worsening,7.2,Diet low in vegetables,Possible worsening,12.4,11.4,1.3
+Meghalaya,Dietary risks,Possible worsening,7.2,Diet low in legumes,Possible worsening,2.0,6.6,0.1
+Meghalaya,Dietary risks,Possible worsening,7.2,Diet low in whole grains,Possible worsening,7.9,11.4,0.8
+Meghalaya,Dietary risks,Possible worsening,7.2,Diet low in nuts and seeds,Possible worsening,7.7,4.2,0.3
+Meghalaya,Dietary risks,Possible worsening,7.2,Diet high in processed meat,Possible worsening,0.9,37.6,0.2
+Meghalaya,Dietary risks,Possible worsening,7.2,Diet low in fiber,Adverse divergence,3.3,-16.2,-0.6
+Meghalaya,Dietary risks,Possible worsening,7.2,Diet low in seafood omega-3 fatty acids,Adverse divergence,6.3,-2.4,-0.2
+Meghalaya,Dietary risks,Possible worsening,7.2,Diet low in omega-6 polyunsaturated fatty acids,Possible worsening,5.4,12.0,0.6
+Meghalaya,Dietary risks,Possible worsening,7.2,Diet high in trans fatty acids,Possible worsening,5.0,13.4,0.6
+Meghalaya,Dietary risks,Possible worsening,7.2,Diet high in sodium,Possible worsening,8.9,3.7,0.3
+Mizoram,Non-optimal temperature,Adverse divergence,-3.4,Low temperature,None,4.9,-36.0,-2.8
+Mizoram,Other environmental risks,Possible worsening,0.2,Lead exposure,None,13.3,-0.5,-0.1
+Nagaland,Non-optimal temperature,Adverse divergence,-5.5,Low temperature,None,12.4,-11.9,-1.7
+Nagaland,Other environmental risks,Possible worsening,2.6,Lead exposure,Possible worsening,36.6,2.5,0.8
+Nagaland,Occupational risks,Adverse divergence,-21.5,"Occupational particulate matter, gases, and fumes",None,1.3,-27.0,-0.5
+Nagaland,Occupational risks,Adverse divergence,-21.5,Occupational injuries,Adverse divergence,7.5,-22.9,-2.2
+Nagaland,Dietary risks,Possible worsening,2.1,Diet low in fruits,Possible worsening,26.3,1.1,0.3
+Nagaland,Dietary risks,Possible worsening,2.1,Diet low in vegetables,None,12.2,0.0,0.0
+Nagaland,Dietary risks,Possible worsening,2.1,Diet low in legumes,Adverse divergence,2.5,-1.6,0.0
+Nagaland,Dietary risks,Possible worsening,2.1,Diet low in whole grains,Possible worsening,9.5,8.3,0.7
+Nagaland,Dietary risks,Possible worsening,2.1,Diet low in nuts and seeds,Adverse divergence,9.4,-4.3,-0.4
+Nagaland,Dietary risks,Possible worsening,2.1,Diet high in processed meat,Possible worsening,0.9,38.7,0.3
+Nagaland,Dietary risks,Possible worsening,2.1,Diet low in fiber,None,3.6,-24.4,-1.2
+Nagaland,Dietary risks,Possible worsening,2.1,Diet low in seafood omega-3 fatty acids,Adverse divergence,7.9,-8.5,-0.8
+Nagaland,Dietary risks,Possible worsening,2.1,Diet low in omega-6 polyunsaturated fatty acids,Possible worsening,6.8,4.2,0.3
+Nagaland,Dietary risks,Possible worsening,2.1,Diet high in trans fatty acids,Possible worsening,6.2,5.9,0.4
+Nagaland,Dietary risks,Possible worsening,2.1,Diet high in sodium,Possible worsening,10.9,2.6,0.3
+Odisha,Air pollution,Adverse divergence,-0.8,Ambient particulate matter pollution,Clear worsening,56.7,103.0,28.8
+Odisha,Air pollution,Adverse divergence,-0.8,Household air pollution from solid fuels,Adverse divergence,94.9,-26.6,-34.3
+Odisha,Air pollution,Adverse divergence,-0.8,Ambient ozone pollution,Clear worsening,17.1,141.3,10.0
+Odisha,Other environmental risks,Possible worsening,5.3,Lead exposure,Possible worsening,35.6,4.7,1.7
+Odisha,Occupational risks,Adverse divergence,-22.6,"Occupational particulate matter, gases, and fumes",Possible worsening,4.2,46.6,1.3
+Odisha,Occupational risks,Adverse divergence,-22.6,Occupational injuries,None,14.9,-34.7,-8.0
+Odisha,Tobacco,Adverse divergence,-12.6,Smoking,None,31.2,-26.2,-11.1
+Odisha,Tobacco,Adverse divergence,-12.6,Chewing tobacco,None,31.1,-0.6,-0.2
+Odisha,Tobacco,Adverse divergence,-12.6,Secondhand smoke,Adverse divergence,19.6,-4.6,-0.9
+Odisha,Dietary risks,Possible worsening,10.3,Diet low in fruits,Possible worsening,39.9,11.9,4.3
+Odisha,Dietary risks,Possible worsening,10.3,Diet low in vegetables,Possible worsening,10.2,3.2,0.4
+Odisha,Dietary risks,Possible worsening,10.3,Diet low in legumes,Possible worsening,2.6,3.8,0.1
+Odisha,Dietary risks,Possible worsening,10.3,Diet low in whole grains,Possible worsening,2.8,1.5,0.1
+Odisha,Dietary risks,Possible worsening,10.3,Diet low in nuts and seeds,Possible worsening,8.7,10.6,0.8
+Odisha,Dietary risks,Possible worsening,10.3,Diet high in processed meat,Clear worsening,1.7,81.9,0.7
+Odisha,Dietary risks,Possible worsening,10.3,Diet low in fiber,None,4.6,-21.4,-1.3
+Odisha,Dietary risks,Possible worsening,10.3,Diet low in seafood omega-3 fatty acids,Adverse divergence,5.1,-14.4,-0.8
+Odisha,Dietary risks,Possible worsening,10.3,Diet low in omega-6 polyunsaturated fatty acids,Possible worsening,6.0,7.9,0.5
+Odisha,Dietary risks,Possible worsening,10.3,Diet high in trans fatty acids,Possible worsening,5.6,9.3,0.5
+Odisha,Dietary risks,Possible worsening,10.3,Diet high in sodium,None,11.7,-2.7,-0.3
+Odisha,Sexual violence against children and bullying,Possible worsening,8.7,Sexual violence against children,Possible worsening,5.4,8.7,0.4
+Rajasthan,Other environmental risks,Clear worsening,28.9,Lead exposure,Clear worsening,30.7,28.9,6.9
+Rajasthan,Dietary risks,Possible worsening,22.6,Diet low in fruits,Possible worsening,29.2,19.9,4.8
+Rajasthan,Dietary risks,Possible worsening,22.6,Diet low in vegetables,Possible worsening,13.7,19.4,2.2
+Rajasthan,Dietary risks,Possible worsening,22.6,Diet low in legumes,Possible worsening,3.5,14.5,0.5
+Rajasthan,Dietary risks,Possible worsening,22.6,Diet low in whole grains,Possible worsening,11.5,24.9,2.3
+Rajasthan,Dietary risks,Possible worsening,22.6,Diet low in nuts and seeds,Possible worsening,13.5,12.5,1.5
+Rajasthan,Dietary risks,Possible worsening,22.6,Diet high in processed meat,Possible worsening,0.9,53.4,0.3
+Rajasthan,Dietary risks,Possible worsening,22.6,Diet low in fiber,Adverse divergence,4.5,-13.2,-0.7
+Rajasthan,Dietary risks,Possible worsening,22.6,Diet low in seafood omega-3 fatty acids,Possible worsening,10.2,7.7,0.8
+Rajasthan,Dietary risks,Possible worsening,22.6,Diet low in omega-6 polyunsaturated fatty acids,Possible worsening,9.6,25.6,2.0
+Rajasthan,Dietary risks,Possible worsening,22.6,Diet high in trans fatty acids,Possible worsening,9.0,26.7,1.9
+Rajasthan,Dietary risks,Possible worsening,22.6,Diet high in sodium,Possible worsening,10.7,25.2,2.2
+Tripura,"Unsafe water, sanitation, and handwashing",Adverse divergence,-46.6,Unsafe water source,Adverse divergence,23.1,-45.3,-19.2
+Tripura,"Unsafe water, sanitation, and handwashing",Adverse divergence,-46.6,Unsafe sanitation,Adverse divergence,17.1,-54.1,-20.2
+Tripura,"Unsafe water, sanitation, and handwashing",Adverse divergence,-46.6,No access to handwashing facility,Adverse divergence,10.2,-54.9,-12.4
+Tripura,Non-optimal temperature,Adverse divergence,-0.2,Low temperature,None,7.0,-26.0,-2.4
+Tripura,Other environmental risks,Possible worsening,5.2,Lead exposure,Possible worsening,58.6,5.2,2.9
+Tripura,Dietary risks,Possible worsening,1.3,Diet low in fruits,None,38.3,-3.1,-1.3
+Tripura,Dietary risks,Possible worsening,1.3,Diet low in vegetables,Possible worsening,15.4,0.2,0.1
+Tripura,Dietary risks,Possible worsening,1.3,Diet low in legumes,Possible worsening,4.2,2.3,0.1
+Tripura,Dietary risks,Possible worsening,1.3,Diet low in whole grains,Possible worsening,13.9,9.5,1.2
+Tripura,Dietary risks,Possible worsening,1.3,Diet low in nuts and seeds,Possible worsening,16.1,0.2,0.1
+Tripura,Dietary risks,Possible worsening,1.3,Diet high in processed meat,Possible worsening,1.0,37.3,0.3
+Tripura,Dietary risks,Possible worsening,1.3,Diet low in fiber,None,6.6,-21.3,-1.8
+Tripura,Dietary risks,Possible worsening,1.3,Diet low in seafood omega-3 fatty acids,Adverse divergence,12.8,-7.3,-1.1
+Tripura,Dietary risks,Possible worsening,1.3,Diet low in omega-6 polyunsaturated fatty acids,Possible worsening,11.3,7.9,0.8
+Tripura,Dietary risks,Possible worsening,1.3,Diet high in trans fatty acids,Possible worsening,10.4,10.0,0.9
+Tripura,Dietary risks,Possible worsening,1.3,Diet high in sodium,None,15.0,-1.5,-0.2
+Uttar Pradesh,Air pollution,Possible worsening,3.6,Ambient particulate matter pollution,Clear worsening,118.7,63.4,46.0
+Uttar Pradesh,Air pollution,Possible worsening,3.6,Household air pollution from solid fuels,Adverse divergence,128.5,-24.1,-40.9
+Uttar Pradesh,Air pollution,Possible worsening,3.6,Ambient ozone pollution,Possible worsening,37.2,24.7,7.4
+Uttar Pradesh,Non-optimal temperature,Adverse divergence,-5.9,Low temperature,Possible worsening,25.1,7.8,1.8
+Uttar Pradesh,Other environmental risks,Possible worsening,10.2,Lead exposure,Possible worsening,50.3,9.8,4.5
+Uttar Pradesh,Dietary risks,Possible worsening,19.8,Diet low in fruits,Clear worsening,49.9,32.5,12.2
+Uttar Pradesh,Dietary risks,Possible worsening,19.8,Diet low in vegetables,Possible worsening,19.4,20.6,3.3
+Uttar Pradesh,Dietary risks,Possible worsening,19.8,Diet low in legumes,None,3.1,-15.5,-0.6
+Uttar Pradesh,Dietary risks,Possible worsening,19.8,Diet low in whole grains,Possible worsening,17.0,10.9,1.7
+Uttar Pradesh,Dietary risks,Possible worsening,19.8,Diet low in nuts and seeds,None,13.7,-13.5,-2.2
+Uttar Pradesh,Dietary risks,Possible worsening,19.8,Diet high in processed meat,Clear worsening,2.1,123.9,1.2
+Uttar Pradesh,Dietary risks,Possible worsening,19.8,Diet low in fiber,Adverse divergence,7.4,-7.3,-0.6
+Uttar Pradesh,Dietary risks,Possible worsening,19.8,Diet low in seafood omega-3 fatty acids,None,8.7,-23.8,-2.7
+Uttar Pradesh,Dietary risks,Possible worsening,19.8,Diet low in omega-6 polyunsaturated fatty acids,None,7.7,-13.4,-1.2
+Uttar Pradesh,Dietary risks,Possible worsening,19.8,Diet high in trans fatty acids,None,7.3,-12.3,-1.0
+Uttar Pradesh,Dietary risks,Possible worsening,19.8,Diet high in sodium,Possible worsening,13.6,25.0,2.7
+Uttar Pradesh,Sexual violence against children and bullying,Possible worsening,20.0,Sexual violence against children,Possible worsening,6.4,20.0,1.0
+Uttarakhand,Non-optimal temperature,Adverse divergence,-6.4,Low temperature,Possible worsening,42.5,2.1,0.9

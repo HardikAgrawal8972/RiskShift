@@ -1,0 +1,621 @@
+location,risk,tier,asr_2023_mean,deaths_2023_mean,abs_2010_23,pct_2010_23_mean,divergence_abs,small_base,above_floor,x_rate,x_worsening,x_divergence,score_cross,rank_cross,score_within,rank_within,rank_B1_deaths,rank_B2_asr
+Bihar,Air pollution,Possible worsening,243.0,155000.0,23.0,10.5,53.0,False,True,0.9919,0.9806,1.0,0.99,1,0.8788,7,9,6
+Chhattisgarh,High systolic blood pressure,Possible worsening,241.4,44500.0,30.7,14.5,39.1,False,True,0.9903,0.9903,0.9871,0.9895,2,0.7778,19,80,7
+Bihar,High systolic blood pressure,Clear worsening,169.0,105000.0,42.1,33.2,50.5,False,True,0.9645,0.9984,0.9968,0.9844,3,0.8224,10,17,23
+Chhattisgarh,Air pollution,Possible worsening,310.0,55600.0,10.7,3.6,40.7,False,True,1.0,0.9306,0.9919,0.9737,4,0.9125,4,54,1
+Bihar,Dietary risks,Clear worsening,140.7,93900.0,39.1,38.5,44.9,False,True,0.9323,0.9968,0.9935,0.9702,5,0.8158,14,24,43
+Karnataka,High systolic blood pressure,Possible worsening,193.1,103000.0,18.1,10.4,26.5,False,True,0.9774,0.9645,0.9565,0.9677,6,0.6609,57,20,15
+Chhattisgarh,Dietary risks,Possible worsening,154.6,31800.0,26.5,20.6,32.3,False,True,0.95,0.9855,0.971,0.9677,7,0.7025,46,114,32
+Uttar Pradesh,Air pollution,Possible worsening,259.5,398000.0,9.0,3.6,39.0,False,True,0.9952,0.9105,0.9855,0.9631,8,0.8211,11,1,4
+Uttar Pradesh,High systolic blood pressure,Possible worsening,129.4,192000.0,30.9,31.3,39.3,False,True,0.9194,0.9927,0.9887,0.9624,9,0.7395,28,3,51
+Haryana,High systolic blood pressure,Possible worsening,131.9,30200.0,18.7,16.5,27.1,False,True,0.9242,0.9694,0.9581,0.9485,10,0.6127,89,118,48
+Jharkhand,High systolic blood pressure,Possible worsening,148.2,34700.0,14.7,11.0,23.1,False,True,0.9452,0.9516,0.9435,0.947,11,0.5913,103,106,35
+Karnataka,Dietary risks,Possible worsening,143.8,81800.0,17.1,13.5,22.9,False,True,0.9371,0.9597,0.9419,0.9462,12,0.6233,82,30,40
+Uttar Pradesh,High fasting plasma glucose,Clear worsening,108.1,165000.0,52.5,94.6,34.1,False,True,0.8758,1.0,0.9742,0.9439,13,0.9347,3,7,78
+Assam,High systolic blood pressure,Possible worsening,156.8,36000.0,9.8,6.7,18.2,False,True,0.9565,0.9274,0.9242,0.9382,14,0.5676,122,102,28
+Uttar Pradesh,Dietary risks,Possible worsening,111.8,181000.0,18.5,19.8,24.3,False,True,0.8871,0.9677,0.9484,0.9306,15,0.6062,91,4,71
+Haryana,High fasting plasma glucose,Clear worsening,100.8,23100.0,37.4,58.9,19.0,False,True,0.85,0.9952,0.9323,0.9214,16,0.7113,40,140,94
+Bihar,Other environmental risks,Clear worsening,89.9,54900.0,30.9,52.2,36.2,False,True,0.8226,0.9927,0.979,0.9212,17,0.8347,8,56,111
+Karnataka,Other environmental risks,Clear worsening,101.7,54600.0,18.3,22.0,23.6,False,True,0.8516,0.9661,0.9452,0.9151,18,0.6815,53,57,93
+Rajasthan,High systolic blood pressure,Possible worsening,95.6,52500.0,17.6,22.5,26.0,False,True,0.8395,0.9629,0.9532,0.9111,19,0.6053,93,61,100
+Assam,Dietary risks,Possible worsening,101.8,25300.0,12.6,14.1,18.4,False,True,0.854,0.9452,0.929,0.9047,20,0.5399,138,126,91
+Chhattisgarh,Other environmental risks,Clear worsening,87.2,15500.0,19.2,28.2,24.5,False,True,0.8097,0.971,0.95,0.9012,21,0.6754,54,184,119
+Chhattisgarh,High fasting plasma glucose,Possible worsening,106.3,19800.0,25.7,31.9,7.3,False,True,0.871,0.9839,0.8169,0.897,22,0.5965,98,158,81
+Assam,High fasting plasma glucose,Clear worsening,97.1,22100.0,27.2,38.9,8.8,False,True,0.8419,0.9871,0.8387,0.8919,23,0.5881,106,146,99
+Rajasthan,Dietary risks,Possible worsening,82.5,49000.0,15.2,22.6,21.0,False,True,0.7952,0.9532,0.9387,0.8864,24,0.567,123,67,128
+Odisha,High fasting plasma glucose,Clear worsening,85.1,37700.0,29.2,52.4,10.8,False,True,0.8048,0.9887,0.8677,0.8849,25,0.6001,96,95,122
+Other Union Territories,High systolic blood pressure,Possible worsening,126.4,4150.0,3.7,3.1,12.1,False,True,0.9161,0.8411,0.8839,0.8818,26,0.485,187,323,53
+Telangana,High LDL cholesterol,Possible worsening,119.5,42500.0,6.4,5.6,8.2,False,True,0.9,0.8806,0.8331,0.8765,27,0.7194,33,86,63
+Chhattisgarh,High LDL cholesterol,Possible worsening,74.9,15700.0,16.5,28.3,18.3,False,True,0.7726,0.9581,0.9274,0.8762,28,0.7146,39,183,142
+Jharkhand,High fasting plasma glucose,Possible worsening,91.1,21500.0,24.4,36.5,6.0,False,True,0.8266,0.9823,0.7758,0.8684,29,0.546,132,148,109
+Meghalaya,High systolic blood pressure,Possible worsening,94.3,1650.0,5.0,5.5,13.4,False,True,0.8355,0.8669,0.8903,0.8602,30,0.4527,222,419,103
+Chhattisgarh,Kidney dysfunction,Possible worsening,73.0,13500.0,9.8,15.4,14.3,False,True,0.771,0.9258,0.9032,0.8582,31,0.7268,31,200,143
+Karnataka,High LDL cholesterol,Possible worsening,70.2,42500.0,11.9,20.3,13.7,False,True,0.7613,0.9403,0.8952,0.8574,32,0.6419,68,85,149
+Bihar,Kidney dysfunction,Clear worsening,57.5,35100.0,15.5,36.9,20.0,False,True,0.7113,0.9565,0.9339,0.8527,33,0.8085,15,103,180
+Jharkhand,Tobacco,Possible worsening,80.3,19900.0,2.9,3.8,40.5,False,True,0.7919,0.8177,0.9903,0.8506,34,0.6842,50,155,130
+Odisha,Dietary risks,Possible worsening,78.4,36400.0,7.3,10.3,13.1,False,True,0.7855,0.8952,0.8887,0.8497,35,0.4605,215,101,134
+Haryana,High body-mass index,Clear worsening,53.4,13500.0,22.6,73.2,14.0,False,True,0.696,0.979,0.8992,0.8458,36,0.7862,18,201,190
+Manipur,High systolic blood pressure,Possible worsening,114.0,3080.0,1.1,1.0,9.5,False,True,0.8919,0.7694,0.8516,0.839,37,0.4457,232,349,68
+Bihar,High fasting plasma glucose,Clear worsening,78.8,51500.0,22.5,40.0,4.1,False,True,0.7871,0.9774,0.6984,0.8315,38,0.5041,165,65,133
+Bihar,High LDL cholesterol,Clear worsening,48.9,34100.0,15.4,46.0,17.2,False,True,0.6661,0.9548,0.9177,0.8301,39,0.7428,27,107,208
+Punjab,High body-mass index,Possible worsening,71.1,24200.0,14.1,24.7,5.5,False,True,0.7645,0.95,0.7581,0.8278,40,0.5929,100,133,147
+Karnataka,Kidney dysfunction,Possible worsening,63.0,33000.0,6.7,11.8,11.2,False,True,0.7371,0.8855,0.8742,0.8233,41,0.6498,66,109,164
+Tripura,Dietary risks,Possible worsening,104.8,3780.0,1.4,1.3,7.2,False,True,0.8677,0.7774,0.8129,0.8224,42,0.4443,235,328,83
+Jharkhand,Air pollution,Adverse divergence,200.8,47000.0,-1.4,-0.7,28.6,False,True,0.9839,0.5371,0.9629,0.8223,43,0.6604,58,72,11
+Jharkhand,Dietary risks,Possible worsening,92.4,23400.0,2.4,2.7,8.2,False,True,0.8306,0.8016,0.8331,0.8211,44,0.4294,257,139,106
+Manipur,Dietary risks,Possible worsening,85.0,2460.0,3.0,3.7,8.8,False,True,0.8032,0.8226,0.8403,0.8193,45,0.4218,270,376,123
+Maharashtra,High fasting plasma glucose,Clear worsening,84.9,105000.0,20.9,32.6,2.5,False,True,0.8016,0.9758,0.6218,0.8176,46,0.4951,172,18,124
+Assam,Other environmental risks,Possible worsening,49.9,11300.0,9.2,22.5,14.5,False,True,0.6758,0.9145,0.9065,0.817,47,0.5234,151,213,202
+Karnataka,High fasting plasma glucose,Clear worsening,102.6,56200.0,19.5,23.4,1.1,False,True,0.8565,0.9726,0.521,0.8132,48,0.5336,143,53,90
+Odisha,Air pollution,Adverse divergence,158.0,66800.0,-1.3,-0.8,28.7,False,True,0.9581,0.5395,0.9645,0.8132,49,0.5817,109,46,27
+Meghalaya,Dietary risks,Possible worsening,64.1,1260.0,4.3,7.2,10.1,False,True,0.7403,0.8516,0.8597,0.8091,50,0.4058,293,431,162
+Punjab,High LDL cholesterol,Possible worsening,70.0,23900.0,4.9,7.5,6.7,False,True,0.7597,0.8645,0.804,0.8075,51,0.5523,128,137,150
+Bihar,Non-optimal temperature,Possible worsening,49.0,32200.0,7.4,17.8,14.0,False,True,0.6677,0.8968,0.8992,0.8058,52,0.9371,2,111,207
+Telangana,High body-mass index,Possible worsening,69.8,24600.0,12.5,21.9,3.9,False,True,0.7581,0.9435,0.6855,0.8048,53,0.5646,125,131,151
+Gujarat,High fasting plasma glucose,Possible worsening,88.0,51700.0,19.8,29.0,1.4,False,True,0.8113,0.9742,0.5565,0.8046,54,0.4914,176,62,118
+Haryana,Air pollution,Adverse divergence,199.2,43900.0,-2.2,-1.1,27.8,False,True,0.9823,0.4847,0.9613,0.8029,55,0.6524,65,81,12
+Uttar Pradesh,Kidney dysfunction,Clear worsening,43.0,64400.0,9.0,26.6,13.5,False,True,0.629,0.9105,0.8919,0.7933,56,0.6592,59,47,231
+Uttarakhand,High body-mass index,Clear worsening,58.0,5910.0,12.6,27.8,4.0,False,True,0.7161,0.9476,0.6927,0.7913,57,0.5171,154,290,177
+Uttar Pradesh,Other environmental risks,Possible worsening,50.7,75800.0,4.7,10.2,10.0,False,True,0.6798,0.8573,0.8581,0.7865,58,0.4485,227,37,200
+Nagaland,Dietary risks,Possible worsening,72.6,868.0,1.5,2.1,7.3,False,True,0.7694,0.7823,0.8169,0.7858,59,0.383,328,459,144
+Tripura,Other environmental risks,Possible worsening,59.0,1980.0,2.9,5.2,8.2,False,True,0.7218,0.8202,0.8331,0.784,60,0.4429,240,401,174
+Haryana,Dietary risks,Possible worsening,100.1,24200.0,0.1,0.1,5.9,False,True,0.8468,0.7065,0.771,0.7787,61,0.4249,269,132,96
+Rajasthan,High LDL cholesterol,Clear worsening,38.4,24200.0,9.5,32.9,11.3,False,True,0.5911,0.9226,0.8774,0.7787,62,0.6136,88,134,255
+Uttarakhand,High fasting plasma glucose,Possible worsening,121.4,11000.0,17.2,16.5,-1.2,False,True,0.9097,0.9613,0.3097,0.7777,63,0.5897,104,217,57
+Arunachal Pradesh,Dietary risks,Possible worsening,58.8,541.0,2.0,3.5,7.8,False,True,0.7185,0.7927,0.8242,0.7709,64,0.3652,355,491,175
+Assam,Kidney dysfunction,Possible worsening,47.5,10900.0,3.8,8.7,8.3,False,True,0.6573,0.8435,0.8371,0.7674,65,0.5489,129,218,213
+Haryana,Kidney dysfunction,Possible worsening,47.7,10900.0,3.7,8.5,8.2,False,True,0.6597,0.8411,0.8331,0.7665,66,0.5484,130,219,212
+Other Union Territories,High body-mass index,Clear worsening,50.3,1830.0,12.2,31.9,3.6,False,True,0.6774,0.9419,0.6613,0.766,67,0.4877,179,405,201
+Tripura,High LDL cholesterol,Possible worsening,46.5,1700.0,4.9,11.7,6.7,False,True,0.65,0.8621,0.8016,0.7621,68,0.4959,171,412,218
+Other Union Territories,High LDL cholesterol,Possible worsening,51.8,1900.0,3.5,7.1,5.3,False,True,0.6871,0.8371,0.7508,0.7555,69,0.4832,193,402,195
+Punjab,High systolic blood pressure,None,181.7,59600.0,-2.2,-1.2,6.2,False,True,0.971,0.4847,0.7871,0.7548,70,0.5392,140,50,19
+Jharkhand,Kidney dysfunction,Possible worsening,44.2,10300.0,3.3,8.2,7.8,False,True,0.6355,0.8315,0.8258,0.7517,71,0.5286,149,228,227
+Assam,High LDL cholesterol,Possible worsening,34.3,8530.0,7.6,28.5,9.4,False,True,0.5597,0.8984,0.85,0.7508,72,0.5681,121,244,274
+Karnataka,High body-mass index,Clear worsening,41.2,25700.0,12.6,43.9,4.0,False,True,0.6129,0.9476,0.6927,0.75,73,0.5008,169,122,241
+Rajasthan,Other environmental risks,Clear worsening,31.0,17100.0,6.9,28.9,12.2,False,True,0.5306,0.8887,0.8855,0.7447,74,0.5048,164,171,292
+Uttarakhand,High LDL cholesterol,Possible worsening,75.8,7660.0,1.2,1.5,3.0,False,True,0.7766,0.7726,0.6468,0.7427,75,0.5318,146,259,140
+Uttar Pradesh,High LDL cholesterol,Possible worsening,33.2,54000.0,6.4,23.6,8.2,False,True,0.554,0.879,0.8282,0.7363,76,0.5301,147,58,278
+Manipur,Other environmental risks,Possible worsening,44.1,1190.0,1.7,4.1,7.0,False,True,0.6339,0.7847,0.8097,0.7306,77,0.3896,317,437,228
+Goa,High body-mass index,Possible worsening,53.7,1080.0,9.4,21.2,0.8,False,True,0.6984,0.9202,0.5032,0.7272,78,0.4413,242,444,188
+Nagaland,High systolic blood pressure,None,117.8,1320.0,-2.3,-1.9,6.1,False,True,0.8984,0.4823,0.7823,0.7237,79,0.4264,263,428,64
+Telangana,High fasting plasma glucose,Possible worsening,119.7,39200.0,9.4,8.5,-9.0,False,True,0.904,0.9202,0.1427,0.7194,80,0.5393,139,93,61
+Rajasthan,Kidney dysfunction,Possible worsening,29.1,16200.0,4.7,19.2,9.2,False,True,0.5137,0.8573,0.8476,0.7174,81,0.5344,141,177,303
+Other Union Territories,Other environmental risks,None,65.2,2130.0,-0.3,-0.5,5.0,False,True,0.7435,0.6653,0.7387,0.715,82,0.4264,264,388,160
+Manipur,High body-mass index,Clear worsening,34.6,1050.0,11.4,49.1,2.8,False,True,0.5645,0.9371,0.6419,0.7143,83,0.4869,182,445,271
+Odisha,Other environmental risks,Possible worsening,35.9,16000.0,1.8,5.3,7.1,False,True,0.575,0.7871,0.8113,0.7083,84,0.3716,346,179,264
+Other Union Territories,Dietary risks,None,103.8,3680.0,-1.6,-1.5,4.2,False,True,0.8629,0.529,0.7065,0.7069,85,0.4199,273,329,86
+Kerala,High body-mass index,Clear worsening,39.1,19000.0,9.9,33.9,1.3,False,True,0.5984,0.929,0.554,0.703,86,0.4186,275,161,250
+Rajasthan,Air pollution,None,217.8,119000.0,-15.8,-6.8,14.2,False,True,0.9855,0.2339,0.9016,0.7015,87,0.6137,86,13,10
+Punjab,Dietary risks,None,143.2,48200.0,-2.5,-1.7,3.3,False,True,0.9355,0.4645,0.6532,0.7001,88,0.5011,167,70,41
+Nagaland,Other environmental risks,Possible worsening,37.1,412.0,1.0,2.6,6.3,False,True,0.5823,0.7661,0.7919,0.699,89,0.3584,365,511,260
+Nagaland,Kidney dysfunction,Possible worsening,37.5,437.0,1.3,3.5,5.8,False,True,0.5871,0.7742,0.7661,0.6973,90,0.46,216,507,257
+Manipur,High LDL cholesterol,Possible worsening,32.2,978.0,3.3,11.2,5.1,False,True,0.5484,0.8315,0.7444,0.6965,91,0.4403,243,450,281
+Meghalaya,Other environmental risks,Possible worsening,30.7,544.0,2.2,7.8,7.5,False,True,0.529,0.7976,0.8202,0.6958,92,0.3712,347,489,293
+Chhattisgarh,High body-mass index,Clear worsening,29.2,6730.0,11.3,63.2,2.7,False,True,0.5169,0.9347,0.6379,0.6934,93,0.5412,136,271,300
+Assam,High body-mass index,Clear worsening,29.1,7710.0,11.3,63.2,2.7,False,True,0.5137,0.9347,0.6379,0.6921,94,0.5404,137,256,302
+Punjab,High fasting plasma glucose,Possible worsening,95.2,31200.0,9.2,10.7,-9.2,False,True,0.8371,0.9177,0.1363,0.6901,95,0.4306,256,116,102
+Kerala,High fasting plasma glucose,Possible worsening,97.6,45100.0,7.9,8.9,-10.5,False,True,0.8435,0.9,0.1242,0.6835,96,0.4329,253,77,98
+Manipur,High fasting plasma glucose,Possible worsening,79.3,2150.0,11.3,16.6,-7.1,False,True,0.7887,0.9323,0.1532,0.6801,97,0.3836,326,386,132
+Andhra Pradesh,High body-mass index,Possible worsening,40.4,21700.0,9.1,29.0,0.5,False,True,0.6097,0.9129,0.4613,0.6787,98,0.3954,309,147,243
+Haryana,Tobacco,Adverse divergence,138.3,32000.0,-18.7,-11.9,18.9,False,True,0.9306,0.2097,0.9306,0.6783,99,0.6272,80,112,44
+Arunachal Pradesh,Other environmental risks,Possible worsening,28.2,226.0,1.4,5.1,6.7,False,True,0.5032,0.779,0.804,0.675,100,0.3464,374,544,309
+Odisha,High LDL cholesterol,Possible worsening,27.9,13000.0,3.3,13.3,5.1,False,True,0.5016,0.8258,0.7403,0.6748,101,0.4392,245,208,310
+Arunachal Pradesh,High systolic blood pressure,None,81.8,662.0,-2.4,-2.8,6.0,False,True,0.7935,0.4677,0.7742,0.6747,102,0.3583,367,480,129
+Maharashtra,Air pollution,None,146.0,174000.0,-18.4,-11.2,11.6,False,True,0.9411,0.2113,0.8806,0.6706,103,0.428,260,5,37
+Assam,Non-optimal temperature,Clear worsening,19.2,4410.0,3.4,21.8,10.0,False,True,0.4081,0.8339,0.8565,0.6692,104,0.7152,37,316,367
+Madhya Pradesh,Other environmental risks,None,57.9,37100.0,-1.0,-1.7,4.3,False,True,0.7145,0.5758,0.7177,0.6668,105,0.3961,308,97,178
+Jharkhand,High LDL cholesterol,Possible worsening,28.8,7060.0,2.5,9.5,4.3,False,True,0.5065,0.8048,0.7113,0.6621,106,0.4161,280,266,307
+West Bengal,Other environmental risks,None,68.1,58600.0,-1.3,-1.9,4.0,False,True,0.7516,0.5395,0.6887,0.6617,107,0.4266,262,51,155
+Punjab,Other environmental risks,None,76.0,24800.0,-1.7,-2.2,3.6,False,True,0.779,0.5153,0.671,0.6597,108,0.4493,225,130,138
+Madhya Pradesh,High LDL cholesterol,Possible worsening,41.5,29800.0,0.5,1.3,2.3,False,True,0.6177,0.7427,0.6089,0.6593,109,0.4054,294,119,238
+Tamil Nadu,High fasting plasma glucose,Possible worsening,113.6,97600.0,2.6,2.4,-15.8,False,True,0.8903,0.8081,0.0806,0.6591,110,0.4773,202,22,69
+Meghalaya,High LDL cholesterol,Possible worsening,23.1,465.0,3.3,16.6,5.1,False,True,0.4548,0.8282,0.7419,0.6573,111,0.4446,234,502,339
+Goa,High fasting plasma glucose,Possible worsening,90.0,1740.0,4.8,5.5,-13.6,False,True,0.8242,0.8597,0.0935,0.654,112,0.3778,336,408,110
+Haryana,High LDL cholesterol,Possible worsening,39.4,9720.0,0.5,1.3,2.3,False,True,0.6024,0.7427,0.6089,0.6531,113,0.3978,305,233,248
+Odisha,Tobacco,Adverse divergence,77.5,35100.0,-11.2,-12.6,26.4,False,True,0.7823,0.2887,0.9548,0.6527,114,0.4942,174,104,136
+Bihar,High body-mass index,Clear worsening,26.6,21100.0,9.7,57.7,1.1,False,True,0.4887,0.9242,0.5331,0.6522,115,0.4853,186,149,318
+Tripura,Kidney dysfunction,None,49.8,1700.0,-0.7,-1.4,3.8,False,True,0.6742,0.6073,0.679,0.652,116,0.4854,185,413,203
+Other Union Territories,Kidney dysfunction,None,51.1,1690.0,-0.9,-1.8,3.6,False,True,0.6839,0.5944,0.671,0.6493,117,0.489,177,414,197
+Nagaland,High LDL cholesterol,Possible worsening,30.1,367.0,1.7,6.0,3.5,False,True,0.5242,0.7847,0.6589,0.649,118,0.3965,307,516,296
+Jammu & Kashmir and Ladakh,High LDL cholesterol,Possible worsening,39.9,4920.0,0.4,1.0,2.2,False,True,0.6056,0.729,0.6032,0.6482,119,0.3975,306,307,246
+Bihar,Low bone mineral density,Possible worsening,17.5,9320.0,4.6,35.1,5.2,False,True,0.3879,0.8548,0.7484,0.6415,120,0.7709,21,235,380
+Meghalaya,Air pollution,None,109.5,1990.0,-19.3,-15.0,10.7,False,True,0.8823,0.2048,0.8629,0.6403,121,0.3138,415,400,74
+Other Union Territories,High fasting plasma glucose,Possible worsening,83.0,2730.0,4.1,5.3,-14.3,False,True,0.7968,0.85,0.0903,0.6388,122,0.3424,382,361,127
+Jharkhand,Other environmental risks,None,47.2,10700.0,-1.2,-2.4,4.1,False,True,0.6548,0.5661,0.7048,0.6363,123,0.3584,366,223,215
+Meghalaya,Tobacco,None,115.9,2250.0,-25.1,-17.8,12.5,False,True,0.8952,0.1597,0.8871,0.6357,124,0.5148,157,381,66
+Manipur,Tobacco,None,119.7,3240.0,-26.3,-18.0,11.3,False,True,0.904,0.15,0.879,0.6339,125,0.5204,153,344,60
+Andhra Pradesh,High fasting plasma glucose,Possible worsening,88.9,43600.0,2.7,3.1,-15.7,False,True,0.8185,0.8161,0.0823,0.6336,126,0.3598,363,82,113
+Maharashtra,High body-mass index,Clear worsening,28.9,38100.0,8.9,44.3,0.3,False,True,0.5089,0.9081,0.4419,0.6319,127,0.4128,285,94,306
+Tripura,High fasting plasma glucose,Possible worsening,69.0,2320.0,5.2,8.1,-13.2,False,True,0.7548,0.871,0.1,0.6318,128,0.2884,446,379,153
+Uttarakhand,Other environmental risks,None,88.2,7840.0,-3.1,-3.3,2.2,False,True,0.8129,0.4419,0.6065,0.6315,129,0.4804,198,253,117
+Uttar Pradesh,High body-mass index,Clear worsening,24.3,45400.0,9.2,61.5,0.6,False,True,0.4742,0.9161,0.4798,0.6303,130,0.4937,175,75,327
+Haryana,Other environmental risks,None,53.4,12100.0,-1.7,-3.1,3.6,False,True,0.696,0.5153,0.671,0.6265,131,0.3733,342,210,189
+Rajasthan,High fasting plasma glucose,Clear worsening,46.2,25800.0,11.6,33.4,-6.8,False,True,0.6444,0.9387,0.1581,0.6258,132,0.3094,425,121,222
+Madhya Pradesh,High fasting plasma glucose,Possible worsening,60.0,39400.0,6.3,11.7,-12.1,False,True,0.729,0.8766,0.1065,0.625,133,0.2631,478,91,169
+Tamil Nadu,High body-mass index,Possible worsening,45.3,41900.0,6.3,16.2,-2.3,False,True,0.6403,0.8766,0.2427,0.6236,134,0.3461,375,87,224
+Punjab,Kidney dysfunction,None,61.3,19900.0,-2.0,-3.2,2.5,False,True,0.7331,0.4927,0.6218,0.6211,135,0.5299,148,157,166
+Manipur,Air pollution,None,119.6,3120.0,-23.4,-16.3,6.6,False,True,0.9016,0.1726,0.7968,0.6202,136,0.3156,414,347,62
+Jharkhand,Low bone mineral density,Possible worsening,15.3,2920.0,3.8,32.6,4.4,False,True,0.3556,0.8452,0.7226,0.6187,137,0.7062,45,354,401
+Madhya Pradesh,Dietary risks,None,108.9,74500.0,-4.8,-4.2,1.0,False,True,0.8774,0.3968,0.5145,0.6185,138,0.4092,291,39,77
+Arunachal Pradesh,High fasting plasma glucose,Possible worsening,54.6,432.0,6.5,13.5,-11.9,False,True,0.7032,0.8823,0.1081,0.6171,139,0.2461,499,508,185
+Meghalaya,Kidney dysfunction,None,27.7,526.0,-0.1,-0.3,4.4,False,True,0.4992,0.6782,0.7194,0.6169,140,0.3826,329,495,312
+Manipur,Kidney dysfunction,None,37.4,1030.0,-0.7,-2.0,3.8,False,True,0.5855,0.6073,0.679,0.6165,141,0.4187,274,447,258
+Chhattisgarh,Low bone mineral density,Possible worsening,17.3,2680.0,3.2,23.2,3.8,False,True,0.3855,0.8242,0.6823,0.6132,142,0.684,51,365,382
+Jharkhand,Occupational risks,Adverse divergence,27.3,9570.0,-1.0,-3.4,9.2,False,True,0.4919,0.5758,0.8476,0.6102,143,0.8878,6,234,316
+Karnataka,Tobacco,None,113.3,62900.0,-28.6,-20.2,9.0,False,True,0.8887,0.1242,0.8435,0.6098,144,0.4825,194,48,70
+Punjab,Air pollution,None,155.1,48700.0,-26.0,-14.3,4.0,False,True,0.9532,0.154,0.6927,0.6084,145,0.4052,295,69,30
+Meghalaya,High fasting plasma glucose,Possible worsening,54.1,965.0,5.0,10.1,-13.4,False,True,0.7016,0.8669,0.0968,0.6083,146,0.2257,516,451,186
+Tripura,Non-optimal temperature,Adverse divergence,19.1,629.0,0.0,-0.2,6.6,False,True,0.4048,0.7,0.7984,0.6065,147,0.4943,173,482,370
+Jharkhand,High body-mass index,Clear worsening,24.1,6810.0,8.5,54.3,-0.1,False,True,0.4694,0.9048,0.4056,0.6058,148,0.4442,236,270,330
+Arunachal Pradesh,Tobacco,None,103.1,844.0,-27.8,-21.2,9.8,False,True,0.8597,0.1371,0.8532,0.6052,149,0.4502,224,463,88
+Nagaland,High fasting plasma glucose,Possible worsening,49.4,550.0,6.6,15.4,-11.8,False,True,0.671,0.8839,0.1097,0.6052,150,0.2305,511,487,205
+Assam,Low bone mineral density,Clear worsening,12.3,2460.0,4.0,49.2,4.6,False,True,0.3145,0.8484,0.729,0.605,151,0.757,24,374,426
+Uttarakhand,Unsafe sex,Possible worsening,10.5,1250.0,2.7,33.7,8.2,False,True,0.2815,0.8129,0.8282,0.6042,152,0.7533,25,432,447
+Gujarat,High body-mass index,Possible worsening,31.9,21000.0,7.1,28.7,-1.5,False,True,0.5452,0.8919,0.2871,0.602,153,0.3308,396,150,283
+Uttar Pradesh,Low physical activity,Clear worsening,11.5,15400.0,5.1,79.1,4.1,False,True,0.3032,0.8694,0.7016,0.601,154,0.7529,26,186,433
+Nagaland,High body-mass index,Clear worsening,22.4,270.0,8.6,61.7,-0.0,False,True,0.4484,0.9065,0.4129,0.5998,155,0.4811,197,531,343
+Chhattisgarh,Child and maternal malnutrition,Adverse divergence,83.9,18100.0,-22.9,-21.5,11.0,False,True,0.7984,0.179,0.871,0.5998,156,1.0,1,167,126
+Arunachal Pradesh,High LDL cholesterol,Possible worsening,17.7,180.0,1.8,11.5,3.6,False,True,0.3935,0.7887,0.6629,0.5992,157,0.3896,319,560,376
+Arunachal Pradesh,Kidney dysfunction,None,23.6,204.0,-0.2,-0.6,4.3,False,True,0.4597,0.675,0.7161,0.5992,158,0.3597,364,551,335
+Uttarakhand,High systolic blood pressure,None,194.6,17000.0,-8.7,-4.3,-0.3,False,True,0.979,0.3145,0.3855,0.5981,159,0.5333,145,173,14
+Karnataka,Air pollution,None,183.2,97100.0,-27.3,-13.0,2.7,False,True,0.9726,0.1419,0.6339,0.5972,160,0.4725,206,23,18
+Odisha,Kidney dysfunction,None,35.9,16000.0,-1.0,-2.6,3.5,False,True,0.575,0.5758,0.6589,0.5962,161,0.4067,292,180,265
+West Bengal,High LDL cholesterol,None,55.5,51700.0,-1.2,-2.1,0.6,False,True,0.7065,0.5532,0.4758,0.5952,162,0.4328,254,63,183
+Bihar,Tobacco,None,89.8,59600.0,-27.2,-23.3,10.4,False,True,0.821,0.1435,0.8613,0.594,163,0.3993,302,49,112
+Meghalaya,Non-optimal temperature,Possible worsening,12.7,222.0,0.6,4.7,7.2,False,True,0.3194,0.7492,0.8145,0.5936,164,0.487,180,545,423
+Nagaland,Air pollution,None,107.7,1170.0,-24.9,-18.8,5.1,False,True,0.8742,0.1629,0.7468,0.5934,165,0.2623,481,439,79
+Mizoram,High fasting plasma glucose,Possible worsening,46.9,442.0,5.5,13.2,-12.9,False,True,0.6516,0.8742,0.1032,0.5924,166,0.2067,534,506,217
+Other Union Territories,Tobacco,None,59.0,2020.0,-19.5,-24.8,18.1,False,True,0.7218,0.2032,0.9226,0.5905,167,0.319,409,395,173
+Mizoram,Tobacco,None,135.7,1280.0,-33.1,-19.7,4.5,False,True,0.929,0.1032,0.7274,0.5896,168,0.5342,142,429,45
+Mizoram,Kidney dysfunction,Possible worsening,16.0,157.0,0.5,3.5,5.0,False,True,0.3629,0.7427,0.7363,0.5892,169,0.352,372,567,396
+Uttar Pradesh,Non-optimal temperature,Adverse divergence,50.7,79100.0,-3.2,-5.9,3.4,False,True,0.6798,0.4371,0.6565,0.589,170,0.7151,38,34,199
+Uttar Pradesh,Tobacco,None,145.5,221000.0,-33.4,-18.7,4.2,False,True,0.9387,0.1016,0.7097,0.5885,171,0.5656,124,2,39
+Mizoram,Dietary risks,None,38.0,385.0,-1.8,-4.5,4.0,False,True,0.5887,0.5129,0.6927,0.5882,172,0.2578,485,513,256
+Maharashtra,Tobacco,None,62.2,77800.0,-22.1,-26.2,15.5,False,True,0.7355,0.1887,0.9113,0.5881,173,0.3099,423,36,165
+Uttarakhand,Non-optimal temperature,Adverse divergence,51.6,4300.0,-3.6,-6.4,3.0,False,True,0.6855,0.429,0.6452,0.5856,174,0.718,35,321,196
+Andhra Pradesh,Non-optimal temperature,Adverse divergence,31.7,15700.0,-1.6,-4.9,5.0,False,True,0.5395,0.5306,0.7363,0.5856,175,0.5581,127,182,286
+Arunachal Pradesh,High body-mass index,Clear worsening,22.6,221.0,7.9,53.6,-0.7,False,True,0.45,0.9016,0.3532,0.5839,176,0.4285,258,546,342
+West Bengal,Dietary risks,None,122.6,113000.0,-6.4,-5.0,-0.6,False,True,0.9129,0.3597,0.3597,0.581,177,0.4316,255,14,55
+Uttarakhand,Dietary risks,None,156.7,15200.0,-7.2,-4.4,-1.4,False,True,0.9548,0.3484,0.2968,0.5781,178,0.508,162,188,29
+Punjab,Tobacco,None,48.8,16100.0,-17.0,-25.8,20.6,False,True,0.6645,0.221,0.9371,0.5774,179,0.2868,448,178,209
+Uttarakhand,Low bone mineral density,Possible worsening,19.2,1440.0,1.0,5.8,1.6,False,True,0.4081,0.7661,0.575,0.5751,180,0.604,95,426,369
+Uttar Pradesh,Low bone mineral density,Possible worsening,15.0,18900.0,2.0,15.6,2.6,False,True,0.3492,0.7927,0.6306,0.5748,181,0.5817,108,163,405
+Assam,Air pollution,None,180.8,40600.0,-28.6,-13.6,1.4,False,True,0.9694,0.1266,0.5645,0.5732,182,0.4606,214,89,20
+West Bengal,High fasting plasma glucose,Possible worsening,59.4,51600.0,0.6,1.1,-17.8,False,True,0.7258,0.7532,0.0645,0.5701,183,0.2045,537,64,172
+Mizoram,Other environmental risks,Possible worsening,14.5,138.0,0.0,0.2,5.3,False,True,0.3387,0.7,0.7548,0.5692,184,0.273,466,574,411
+Arunachal Pradesh,Non-optimal temperature,Adverse divergence,16.8,119.0,-0.5,-2.8,6.1,False,True,0.3758,0.6347,0.7839,0.5684,185,0.4481,231,580,387
+Odisha,High body-mass index,Clear worsening,17.7,8650.0,8.2,85.7,-0.4,False,True,0.3935,0.9032,0.379,0.5683,186,0.6066,90,243,377
+Haryana,Low bone mineral density,Possible worsening,12.6,2570.0,2.3,23.1,2.9,False,True,0.3177,0.8,0.6435,0.568,187,0.5822,107,370,424
+Chhattisgarh,Unsafe sex,Possible worsening,10.2,3000.0,0.6,5.7,6.1,False,True,0.2694,0.7492,0.7855,0.5663,188,0.5883,105,352,453
+Haryana,Low physical activity,Clear worsening,10.5,2150.0,3.6,52.8,2.6,False,True,0.2815,0.8387,0.6306,0.5638,189,0.5735,113,384,446
+Jammu & Kashmir and Ladakh,High body-mass index,Possible worsening,28.9,3470.0,5.4,23.0,-3.2,False,True,0.5089,0.8726,0.2161,0.563,190,0.2707,469,336,305
+Meghalaya,High body-mass index,Clear worsening,22.0,449.0,7.1,47.5,-1.5,False,True,0.4419,0.8935,0.2887,0.5617,191,0.3834,327,504,347
+Sikkim,High fasting plasma glucose,Possible worsening,46.4,257.0,2.5,5.6,-15.9,False,True,0.6484,0.8048,0.0774,0.5604,192,0.1643,574,535,219
+Chhattisgarh,Low physical activity,Possible worsening,13.8,2040.0,2.7,24.7,1.7,False,True,0.3226,0.8145,0.5823,0.5597,193,0.4733,205,393,421
+Karnataka,Low physical activity,Possible worsening,12.2,5840.0,2.7,28.5,1.7,False,True,0.3129,0.8113,0.5806,0.5543,194,0.4627,213,293,427
+Bihar,Low physical activity,Clear worsening,10.4,5600.0,3.3,46.5,2.3,False,True,0.2774,0.8282,0.6121,0.5539,195,0.5335,144,295,448
+Gujarat,High systolic blood pressure,None,135.2,79300.0,-9.6,-6.6,-1.2,False,True,0.9274,0.3,0.3081,0.553,196,0.4138,283,32,46
+Rajasthan,High body-mass index,Clear worsening,21.3,13300.0,6.8,46.7,-1.8,False,True,0.4355,0.8871,0.2726,0.5528,197,0.3729,343,205,351
+Tripura,High body-mass index,Clear worsening,20.5,776.0,7.0,51.4,-1.6,False,True,0.4202,0.8903,0.2831,0.5504,198,0.3983,304,471,361
+Goa,Air pollution,None,111.4,2070.0,-28.2,-20.2,1.8,False,True,0.8855,0.1306,0.5903,0.5475,199,0.2513,491,392,72
+Uttarakhand,Low physical activity,Possible worsening,23.3,2040.0,0.8,3.7,-0.2,False,True,0.4565,0.7573,0.3944,0.5462,200,0.5458,133,394,338
+Himachal Pradesh,High body-mass index,Possible worsening,26.2,2420.0,4.6,21.2,-4.0,False,True,0.4847,0.8532,0.2032,0.5433,201,0.2388,507,377,320
+Uttarakhand,Kidney dysfunction,None,63.5,5560.0,-4.5,-6.5,0.0,False,True,0.7387,0.4032,0.4161,0.5406,202,0.5164,155,297,163
+Haryana,Non-optimal temperature,None,47.5,10700.0,-5.3,-9.9,1.3,False,True,0.6573,0.3903,0.554,0.538,203,0.647,67,222,214
+Assam,Low physical activity,Possible worsening,10.3,2000.0,2.6,34.2,1.6,False,True,0.2734,0.8097,0.5782,0.5373,204,0.4573,217,397,451
+Himachal Pradesh,High fasting plasma glucose,Possible worsening,39.9,3670.0,1.9,5.2,-16.5,False,True,0.6056,0.7903,0.0726,0.537,205,0.1303,596,330,245
+Goa,Tobacco,None,39.4,764.0,-22.0,-35.8,15.6,False,True,0.6024,0.1919,0.9129,0.5364,206,0.1551,582,474,247
+Mizoram,Air pollution,None,91.3,811.0,-27.6,-23.2,2.4,False,True,0.829,0.1403,0.6177,0.5352,207,0.1769,560,467,107
+Jharkhand,Low physical activity,Possible worsening,10.4,2100.0,2.5,32.4,1.5,False,True,0.2774,0.8048,0.5677,0.5346,208,0.4485,228,390,449
+Nagaland,Non-optimal temperature,Adverse divergence,14.3,154.0,-0.9,-5.5,5.7,False,True,0.3363,0.5944,0.7629,0.5333,209,0.3991,303,568,413
+Kerala,Tobacco,None,72.1,34000.0,-32.3,-30.9,5.3,False,True,0.7661,0.1097,0.7508,0.5325,210,0.2774,460,108,146
+Manipur,Non-optimal temperature,Adverse divergence,14.8,382.0,-1.0,-6.4,5.6,False,True,0.3444,0.5758,0.7613,0.5296,211,0.3945,312,514,407
+Arunachal Pradesh,Air pollution,None,88.9,704.0,-27.9,-23.9,2.1,False,True,0.8185,0.1355,0.6016,0.5252,212,0.1636,575,478,114
+Telangana,Other environmental risks,None,143.0,47200.0,-10.8,-7.0,-5.5,False,True,0.9339,0.2903,0.1839,0.5211,213,0.6277,79,71,42
+Nagaland,Tobacco,None,67.2,815.0,-32.8,-32.8,4.8,False,True,0.75,0.1065,0.7339,0.5207,214,0.246,500,466,156
+Madhya Pradesh,High body-mass index,Possible worsening,19.4,14300.0,4.9,33.4,-3.7,False,True,0.4153,0.8621,0.2081,0.5199,215,0.2701,472,195,363
+Chhattisgarh,Tobacco,None,122.2,22600.0,-37.0,-23.3,0.6,False,True,0.9113,0.0887,0.4919,0.5185,216,0.466,212,143,56
+Other Union Territories,Air pollution,None,99.1,3070.0,-28.7,-22.5,1.3,False,True,0.8452,0.1226,0.5484,0.5181,217,0.1998,541,350,97
+Tripura,High systolic blood pressure,None,160.6,5390.0,-13.9,-8.0,-5.5,False,True,0.9597,0.2532,0.1823,0.5181,218,0.4438,238,299,26
+Nagaland,Child and maternal malnutrition,None,31.5,300.0,-18.0,-36.3,15.9,False,True,0.5371,0.2129,0.9145,0.518,219,0.4882,178,525,288
+Other Union Territories,Low bone mineral density,Possible worsening,14.8,425.0,0.3,2.2,0.9,False,True,0.3444,0.725,0.5056,0.5179,220,0.4844,190,510,409
+Sikkim,High body-mass index,Possible worsening,24.0,146.0,2.9,13.5,-5.7,False,True,0.4661,0.8202,0.1766,0.5177,221,0.1712,566,569,333
+Mizoram,High systolic blood pressure,None,35.7,333.0,-6.0,-14.4,2.4,False,True,0.5718,0.3758,0.6161,0.5143,222,0.1788,559,522,266
+Jharkhand,Non-optimal temperature,None,29.3,7010.0,-3.9,-11.9,2.7,False,True,0.5194,0.4177,0.6355,0.5128,223,0.467,211,268,299
+Maharashtra,Child and maternal malnutrition,None,28.4,19300.0,-16.0,-36.2,17.9,False,True,0.5048,0.229,0.9194,0.5119,224,0.4739,204,160,308
+Tripura,"Unsafe water, sanitation, and handwashing",Adverse divergence,35.7,1050.0,-31.2,-46.6,27.4,False,True,0.5718,0.1129,0.9597,0.5081,225,0.5689,120,446,267
+West Bengal,High body-mass index,Possible worsening,18.4,18300.0,3.9,27.0,-4.7,False,True,0.4,0.8468,0.1952,0.5052,226,0.22,522,165,373
+Meghalaya,Occupational risks,Adverse divergence,17.0,519.0,-3.4,-16.5,6.8,False,True,0.379,0.4331,0.8065,0.5048,227,0.578,110,496,386
+Odisha,Non-optimal temperature,None,19.0,8340.0,-2.4,-11.4,4.2,False,True,0.4032,0.471,0.7081,0.5031,228,0.3814,332,247,371
+Jammu & Kashmir and Ladakh,High fasting plasma glucose,None,45.0,5220.0,-0.3,-0.7,-18.7,False,True,0.6387,0.6653,0.0589,0.5031,229,0.1243,600,302,225
+Telangana,Child and maternal malnutrition,None,31.8,7830.0,-22.2,-41.1,11.7,False,True,0.5419,0.1871,0.8823,0.5028,230,0.4115,287,254,285
+Uttarakhand,Child and maternal malnutrition,None,34.5,2580.0,-23.2,-40.2,10.7,False,True,0.5629,0.1742,0.8645,0.5023,231,0.4401,244,368,272
+Odisha,High systolic blood pressure,None,109.4,48800.0,-12.5,-10.3,-4.1,False,True,0.8806,0.2718,0.2016,0.4978,232,0.338,385,68,75
+Madhya Pradesh,High systolic blood pressure,None,123.6,79200.0,-14.2,-10.3,-5.8,False,True,0.9145,0.2516,0.1742,0.4974,233,0.3617,358,33,54
+Kerala,"Unsafe water, sanitation, and handwashing",Adverse divergence,14.0,5810.0,-8.1,-36.6,50.5,False,True,0.3298,0.3258,0.9984,0.4956,234,0.6192,84,294,417
+Telangana,Dietary risks,None,228.4,78800.0,-18.8,-7.6,-13.0,False,True,0.9871,0.2065,0.1016,0.4925,235,0.6332,75,35,9
+Karnataka,Low bone mineral density,None,12.5,5900.0,0.0,-0.2,0.6,False,True,0.3161,0.7,0.4798,0.4914,236,0.4182,276,291,425
+West Bengal,Child and maternal malnutrition,None,31.2,15900.0,-23.2,-42.7,10.7,False,True,0.5331,0.1758,0.8661,0.4913,237,0.3823,330,181,291
+Tripura,Child and maternal malnutrition,None,42.1,875.0,-27.9,-39.9,6.0,False,True,0.6226,0.1339,0.7806,0.491,238,0.4843,191,458,235
+Mizoram,High body-mass index,Possible worsening,16.8,176.0,3.4,25.0,-5.2,False,True,0.3758,0.8355,0.1903,0.4903,239,0.1949,545,561,389
+Uttarakhand,"Unsafe water, sanitation, and handwashing",None,46.3,3380.0,-48.7,-51.3,9.9,False,True,0.6468,0.05,0.8548,0.4899,240,0.5476,131,341,220
+Madhya Pradesh,Kidney dysfunction,None,39.0,25000.0,-4.4,-10.1,0.1,False,True,0.5968,0.4097,0.4274,0.489,241,0.3666,354,128,251
+Bihar,Unsafe sex,Adverse divergence,10.3,10300.0,-1.1,-9.6,4.4,False,True,0.2734,0.5694,0.721,0.4889,242,0.5036,166,227,452
+Other Union Territories,Child and maternal malnutrition,None,26.2,406.0,-20.2,-43.4,13.7,False,True,0.4847,0.2,0.8968,0.4881,243,0.3451,376,512,321
+Goa,Child and maternal malnutrition,None,18.1,89.0,-12.7,-41.0,21.2,False,True,0.3968,0.2677,0.9403,0.4875,244,0.3425,381,591,375
+Tamil Nadu,Tobacco,None,77.3,67700.0,-36.1,-31.8,1.5,False,True,0.7806,0.0903,0.5677,0.4858,245,0.278,459,44,137
+Arunachal Pradesh,Occupational risks,Adverse divergence,17.2,267.0,-4.5,-20.9,5.7,False,True,0.3831,0.4032,0.7645,0.4855,246,0.5279,150,532,383
+Karnataka,"Unsafe water, sanitation, and handwashing",None,33.3,15400.0,-38.3,-53.5,20.3,False,True,0.5565,0.0823,0.9355,0.4852,247,0.4332,252,185,276
+Sikkim,Child and maternal malnutrition,None,25.1,109.0,-20.3,-44.7,13.6,False,True,0.4798,0.1984,0.8935,0.4848,248,0.3183,411,583,323
+Assam,Occupational risks,Adverse divergence,20.8,7010.0,-5.8,-21.8,4.4,False,True,0.4258,0.3806,0.7242,0.4846,249,0.5702,119,267,356
+Manipur,Occupational risks,Adverse divergence,14.8,543.0,-3.8,-20.2,6.4,False,True,0.3444,0.4218,0.7952,0.4842,250,0.5009,168,490,408
+Other Union Territories,Non-optimal temperature,None,16.0,533.0,-2.5,-13.6,4.1,False,True,0.3629,0.4645,0.7,0.4827,251,0.333,392,493,397
+Manipur,Child and maternal malnutrition,None,21.8,502.0,-16.9,-43.5,17.0,False,True,0.4387,0.2226,0.9161,0.4824,252,0.3208,406,498,349
+Andhra Pradesh,High LDL cholesterol,None,68.2,36600.0,-6.1,-8.2,-4.3,False,True,0.7532,0.3726,0.2,0.4817,253,0.4367,247,100,154
+Maharashtra,Low physical activity,Possible worsening,16.4,20400.0,0.1,0.9,-0.9,False,True,0.371,0.7081,0.3371,0.4805,254,0.3844,325,153,391
+Gujarat,Low bone mineral density,None,11.4,5980.0,-0.1,-1.0,0.5,False,True,0.3,0.6935,0.4694,0.4801,255,0.389,320,287,436
+Tamil Nadu,Child and maternal malnutrition,None,19.4,7580.0,-15.7,-44.7,18.2,False,True,0.4153,0.2355,0.9258,0.48,256,0.2888,444,261,364
+Nagaland,"Unsafe water, sanitation, and handwashing",None,23.8,257.0,-26.9,-53.0,31.7,False,True,0.4629,0.1452,0.9694,0.4783,257,0.3868,322,534,334
+Maharashtra,"Unsafe water, sanitation, and handwashing",None,29.2,32700.0,-34.8,-54.4,23.8,False,True,0.5169,0.0952,0.9468,0.4768,258,0.3934,313,110,301
+Manipur,"Unsafe water, sanitation, and handwashing",None,39.3,928.0,-47.4,-54.6,11.2,False,True,0.6,0.0532,0.8726,0.4768,259,0.4486,226,454,249
+Gujarat,Dietary risks,None,110.2,68700.0,-14.8,-11.8,-9.0,False,True,0.8839,0.25,0.1427,0.4767,260,0.3514,373,43,73
+Himachal Pradesh,Other environmental risks,None,38.9,3570.0,-5.4,-12.3,-0.1,False,True,0.5944,0.3879,0.4113,0.4763,261,0.2703,471,333,252
+Odisha,Occupational risks,Adverse divergence,20.7,10400.0,-6.1,-22.6,4.1,False,True,0.4226,0.3677,0.7032,0.4735,262,0.5591,126,226,359
+Tamil Nadu,"Unsafe water, sanitation, and handwashing",None,32.4,24000.0,-43.4,-57.3,15.2,False,True,0.55,0.0694,0.9097,0.4717,263,0.3609,359,136,280
+Arunachal Pradesh,Child and maternal malnutrition,None,24.2,350.0,-22.7,-48.4,11.2,False,True,0.4718,0.1823,0.8758,0.4715,264,0.2533,490,521,328
+Andhra Pradesh,Dietary risks,None,146.1,75100.0,-19.8,-12.0,-14.0,False,True,0.9435,0.2016,0.0919,0.471,265,0.4252,268,38,36
+West Bengal,High systolic blood pressure,None,174.9,153000.0,-23.2,-11.7,-14.8,False,True,0.9661,0.1774,0.0887,0.4707,266,0.4349,250,10,22
+Haryana,"Unsafe water, sanitation, and handwashing",None,32.9,6500.0,-44.2,-57.3,14.4,False,True,0.5516,0.0629,0.9048,0.4689,267,0.3638,356,279,279
+Other Union Territories,"Unsafe water, sanitation, and handwashing",None,17.2,471.0,-20.7,-54.5,37.9,False,True,0.3831,0.1968,0.9839,0.4681,268,0.3219,405,500,384
+Gujarat,Air pollution,None,165.5,93700.0,-34.6,-17.3,-4.6,False,True,0.9613,0.0968,0.1984,0.468,269,0.3859,323,25,25
+Mizoram,Occupational risks,None,17.1,202.0,-5.8,-25.6,4.4,False,True,0.3806,0.3823,0.7258,0.4675,270,0.4698,207,552,385
+Goa,"Unsafe water, sanitation, and handwashing",None,11.4,197.0,-12.1,-51.6,46.5,False,True,0.3,0.279,0.9952,0.4665,271,0.3394,384,555,434
+Telangana,High systolic blood pressure,None,275.4,90800.0,-26.3,-8.7,-17.9,False,True,0.9968,0.1484,0.0629,0.4664,272,0.6292,78,27,3
+Jammu & Kashmir and Ladakh,Dietary risks,None,91.1,11000.0,-12.5,-12.1,-6.7,False,True,0.8266,0.2718,0.1597,0.4657,273,0.3089,426,216,108
+West Bengal,Non-optimal temperature,None,27.6,23800.0,-5.5,-16.6,1.1,False,True,0.496,0.3855,0.5226,0.464,274,0.405,297,138,314
+Himachal Pradesh,High LDL cholesterol,None,34.8,3230.0,-2.9,-7.9,-1.1,False,True,0.5661,0.4452,0.3226,0.4629,275,0.3171,412,345,270
+West Bengal,"Unsafe water, sanitation, and handwashing",None,22.0,16500.0,-28.8,-56.6,29.8,False,True,0.4419,0.121,0.9661,0.4606,276,0.3128,418,176,348
+Jammu & Kashmir and Ladakh,High systolic blood pressure,None,94.2,11100.0,-15.0,-13.7,-6.6,False,True,0.8339,0.2476,0.1613,0.4605,277,0.2826,452,215,104
+Delhi,High body-mass index,None,40.2,6700.0,-1.7,-4.2,-10.3,False,True,0.6081,0.5274,0.1306,0.4605,278,0.1724,563,273,244
+Sikkim,"Unsafe water, sanitation, and handwashing",None,17.7,90.0,-24.5,-58.0,34.1,False,True,0.3935,0.1677,0.9758,0.4601,279,0.2631,479,590,378
+Arunachal Pradesh,"Unsafe water, sanitation, and handwashing",None,34.4,260.0,-47.6,-58.0,11.0,False,True,0.5613,0.0516,0.8694,0.4599,280,0.3601,362,533,273
+Karnataka,Child and maternal malnutrition,None,25.8,11700.0,-25.0,-49.1,8.9,False,True,0.4823,0.1613,0.8419,0.4598,281,0.2501,493,212,322
+Mizoram,High alcohol use,Adverse divergence,11.2,131.0,-1.9,-14.0,3.6,False,True,0.2952,0.4984,0.6677,0.4594,282,0.6908,49,575,438
+Gujarat,"Unsafe water, sanitation, and handwashing",None,29.5,15300.0,-43.7,-59.7,14.9,False,True,0.521,0.0677,0.9081,0.4591,283,0.3017,432,187,298
+Telangana,Kidney dysfunction,None,95.6,31400.0,-13.7,-12.5,-9.2,False,True,0.8395,0.2548,0.1363,0.4591,284,0.6332,74,115,101
+Gujarat,Kidney dysfunction,None,42.8,25000.0,-5.8,-11.9,-1.3,False,True,0.6274,0.379,0.3016,0.459,285,0.3723,345,127,232
+Rajasthan,Tobacco,None,131.3,72800.0,-39.9,-23.3,-2.3,False,True,0.9226,0.0806,0.2468,0.459,286,0.4847,189,40,49
+Tripura,Air pollution,None,192.3,6190.0,-37.1,-16.2,-7.1,False,True,0.9758,0.0855,0.1548,0.459,287,0.4484,229,284,16
+Punjab,"Unsafe water, sanitation, and handwashing",None,20.8,6050.0,-28.5,-57.9,30.1,False,True,0.4258,0.129,0.9677,0.4574,288,0.2828,451,285,358
+Punjab,Child and maternal malnutrition,None,30.6,4750.0,-27.7,-47.5,6.2,False,True,0.5274,0.1387,0.7903,0.4571,289,0.301,433,311,294
+Mizoram,Child and maternal malnutrition,None,16.0,110.0,-15.8,-49.7,18.1,False,True,0.3629,0.2323,0.921,0.4567,290,0.1898,546,582,395
+Andhra Pradesh,Child and maternal malnutrition,None,33.7,10200.0,-28.6,-45.9,5.3,False,True,0.5581,0.1266,0.7565,0.4567,291,0.3431,379,229,275
+Kerala,Low physical activity,None,16.8,7720.0,-0.3,-2.0,-1.3,False,True,0.3758,0.6565,0.3032,0.4559,292,0.3753,339,255,388
+Delhi,Child and maternal malnutrition,None,24.0,2620.0,-24.8,-50.9,9.1,False,True,0.4661,0.1653,0.8452,0.4556,293,0.2115,531,366,332
+Telangana,Tobacco,None,168.6,55200.0,-43.3,-20.4,-5.7,False,True,0.9629,0.071,0.1766,0.4542,294,0.5941,99,55,24
+Andhra Pradesh,High systolic blood pressure,None,176.5,86200.0,-26.5,-13.0,-18.1,False,True,0.9677,0.1468,0.0613,0.4538,295,0.4261,266,29,21
+West Bengal,Kidney dysfunction,None,52.3,44800.0,-7.3,-12.2,-2.8,False,True,0.6903,0.3444,0.2274,0.4535,296,0.4178,278,79,193
+Karnataka,Non-optimal temperature,None,12.1,6510.0,-2.8,-18.7,3.8,False,True,0.3113,0.4524,0.679,0.4526,297,0.2477,495,278,428
+Himachal Pradesh,Non-optimal temperature,None,22.1,1990.0,-5.4,-19.5,1.2,False,True,0.4452,0.3879,0.5387,0.4485,298,0.3277,400,399,345
+Himachal Pradesh,"Unsafe water, sanitation, and handwashing",None,14.3,1240.0,-21.0,-59.6,37.6,False,True,0.3363,0.1935,0.9823,0.4478,299,0.215,528,433,412
+Himachal Pradesh,High systolic blood pressure,None,86.4,7940.0,-15.4,-15.1,-7.0,False,True,0.8065,0.2419,0.1565,0.4464,300,0.2572,487,252,121
+Himachal Pradesh,Dietary risks,None,70.5,6520.0,-12.0,-14.5,-6.2,False,True,0.7629,0.2806,0.1694,0.4457,301,0.2465,497,276,148
+Tripura,High alcohol use,Adverse divergence,13.9,573.0,-2.9,-17.6,2.6,False,True,0.3258,0.4484,0.6306,0.4449,302,0.6817,52,485,420
+Tripura,Occupational risks,None,15.2,657.0,-6.2,-29.0,4.0,False,True,0.3524,0.3653,0.6968,0.443,303,0.4008,300,481,403
+Assam,Tobacco,None,133.5,31800.0,-43.2,-24.5,-5.6,False,True,0.9258,0.0742,0.1806,0.4415,304,0.4757,203,113,47
+Goa,High LDL cholesterol,None,57.2,1120.0,-8.1,-12.4,-6.3,False,True,0.7097,0.3274,0.1669,0.4402,305,0.3675,352,441,181
+Andhra Pradesh,Other environmental risks,None,75.6,37100.0,-12.9,-14.6,-7.6,False,True,0.7742,0.2645,0.1516,0.4402,306,0.3701,349,96,141
+Jammu & Kashmir and Ladakh,Child and maternal malnutrition,None,31.7,2460.0,-29.1,-47.9,4.8,False,True,0.5395,0.1177,0.7323,0.4401,307,0.3001,434,375,287
+Chhattisgarh,Occupational risks,None,26.3,7630.0,-9.0,-25.7,1.2,False,True,0.4871,0.3065,0.5468,0.4388,308,0.6044,94,260,319
+Meghalaya,Child and maternal malnutrition,None,30.4,856.0,-28.8,-48.5,5.1,False,True,0.5258,0.1194,0.7444,0.4382,309,0.2837,450,461,295
+Bihar,Occupational risks,None,21.5,20800.0,-8.2,-27.6,2.0,False,True,0.4371,0.3242,0.5968,0.4375,310,0.5106,160,151,350
+Delhi,"Unsafe water, sanitation, and handwashing",None,14.6,1800.0,-24.8,-62.9,33.8,False,True,0.3403,0.1653,0.9726,0.4371,311,0.1586,580,406,410
+Mizoram,"Unsafe water, sanitation, and handwashing",None,13.9,120.0,-23.7,-63.1,34.9,False,True,0.3258,0.171,0.9774,0.4345,312,0.151,585,579,418
+Madhya Pradesh,Air pollution,None,196.9,127000.0,-45.1,-18.6,-15.1,False,True,0.9806,0.0581,0.0871,0.4344,313,0.4263,265,11,13
+Rajasthan,"Unsafe water, sanitation, and handwashing",None,31.9,16700.0,-51.7,-61.9,6.9,False,True,0.5452,0.0403,0.8081,0.4342,314,0.2768,462,175,284
+Chhattisgarh,Non-optimal temperature,None,49.1,9040.0,-9.0,-15.4,-2.4,False,True,0.6694,0.3048,0.2371,0.4337,315,0.606,92,236,206
+Nagaland,High alcohol use,Adverse divergence,16.7,237.0,-4.1,-19.5,1.4,False,True,0.3726,0.4145,0.5581,0.4336,316,0.7001,47,542,390
+Gujarat,High LDL cholesterol,None,48.0,30300.0,-7.3,-13.2,-5.5,False,True,0.6621,0.3468,0.1855,0.4326,317,0.3284,398,117,210
+Kerala,High systolic blood pressure,None,152.3,69500.0,-30.7,-16.8,-22.3,False,True,0.9484,0.1145,0.0435,0.4303,318,0.3521,371,42,33
+Haryana,Occupational risks,None,20.5,6010.0,-8.3,-28.6,1.9,False,True,0.4202,0.321,0.5935,0.4288,319,0.4838,192,286,360
+West Bengal,Air pollution,None,186.1,156000.0,-46.4,-19.9,-16.4,False,True,0.9742,0.0548,0.0742,0.4274,320,0.3902,316,8,17
+Himachal Pradesh,Child and maternal malnutrition,None,24.2,887.0,-28.1,-53.7,5.8,False,True,0.4718,0.1323,0.7694,0.4273,321,0.1669,573,456,329
+Jammu & Kashmir and Ladakh,"Unsafe water, sanitation, and handwashing",None,10.7,1210.0,-22.0,-67.4,36.6,False,True,0.2847,0.1903,0.9806,0.4256,322,0.0565,611,435,444
+Sikkim,Air pollution,None,100.5,532.0,-33.9,-25.2,-3.9,False,True,0.8484,0.1,0.2048,0.4256,323,0.1681,570,494,95
+Maharashtra,Occupational risks,None,17.6,24000.0,-7.9,-31.1,2.3,False,True,0.3903,0.329,0.6145,0.4249,324,0.4109,290,135,379
+Gujarat,Non-optimal temperature,None,31.9,18900.0,-7.3,-18.7,-0.7,False,True,0.5452,0.3444,0.3452,0.4249,325,0.4218,271,162,282
+Uttarakhand,Air pollution,None,299.3,25400.0,-52.4,-14.9,-22.4,False,True,0.9984,0.0387,0.0419,0.4234,326,0.6584,60,125,2
+Jammu & Kashmir and Ladakh,Other environmental risks,None,41.8,4890.0,-7.8,-15.8,-2.5,False,True,0.6194,0.3306,0.2331,0.4217,327,0.2573,486,308,237
+Kerala,Occupational risks,None,11.9,5040.0,-6.4,-35.2,3.8,False,True,0.3097,0.3613,0.6839,0.4213,328,0.2774,461,303,429
+Andhra Pradesh,Kidney dysfunction,None,51.9,25400.0,-10.5,-16.8,-6.0,False,True,0.6887,0.2935,0.171,0.421,329,0.3816,331,124,194
+Goa,Dietary risks,None,109.1,2140.0,-25.7,-19.1,-19.9,False,True,0.879,0.1565,0.0532,0.4197,330,0.291,442,387,76
+Sikkim,High systolic blood pressure,None,77.6,432.0,-18.7,-19.4,-10.3,False,True,0.7839,0.2081,0.129,0.4186,331,0.2044,538,509,135
+Goa,High systolic blood pressure,None,148.3,2850.0,-36.1,-19.6,-27.7,False,True,0.9468,0.0919,0.0306,0.4185,332,0.3206,407,357,34
+Haryana,Child and maternal malnutrition,None,41.9,8080.0,-32.8,-43.9,1.1,False,True,0.621,0.1048,0.5331,0.4183,333,0.418,277,251,236
+Himachal Pradesh,Kidney dysfunction,None,27.7,2550.0,-5.6,-16.7,-1.1,False,True,0.4992,0.3839,0.3355,0.4179,334,0.2608,483,372,311
+Other Union Territories,Occupational risks,None,11.2,502.0,-6.3,-35.9,3.9,False,True,0.2952,0.3629,0.6871,0.4169,335,0.2586,484,499,439
+Tripura,Tobacco,None,146.0,5010.0,-50.9,-25.8,-13.3,False,True,0.9411,0.0452,0.0984,0.4169,336,0.4869,181,306,38
+Punjab,Non-optimal temperature,None,41.4,13300.0,-8.8,-17.7,-2.2,False,True,0.6153,0.3097,0.2484,0.4166,337,0.5153,156,204,239
+Gujarat,Child and maternal malnutrition,None,36.5,17300.0,-32.2,-46.8,1.7,False,True,0.579,0.1113,0.5839,0.4165,338,0.3429,380,170,262
+Gujarat,Other environmental risks,None,58.8,34800.0,-13.4,-18.6,-8.1,False,True,0.7185,0.2597,0.1484,0.4154,339,0.2926,441,105,176
+Telangana,Low bone mineral density,None,23.6,7260.0,-2.5,-9.6,-1.9,False,True,0.4597,0.4645,0.2669,0.4132,340,0.5917,102,264,337
+Goa,Kidney dysfunction,None,52.5,994.0,-12.3,-19.1,-7.8,False,True,0.6927,0.2758,0.15,0.4111,341,0.3676,351,449,191
+Meghalaya,"Unsafe water, sanitation, and handwashing",None,38.9,674.0,-55.8,-58.9,2.8,False,True,0.5944,0.0323,0.6403,0.4091,342,0.3704,348,479,253
+Goa,Occupational risks,None,14.2,253.0,-7.7,-35.2,2.5,False,True,0.3339,0.3363,0.6242,0.4073,343,0.3113,422,537,414
+Andhra Pradesh,High alcohol use,None,11.2,6420.0,-4.0,-25.8,1.5,False,True,0.2952,0.4161,0.5677,0.4056,344,0.5124,159,280,437
+Andhra Pradesh,Low physical activity,None,18.5,8910.0,-1.5,-7.4,-2.5,False,True,0.4016,0.5331,0.2331,0.4055,345,0.3784,335,239,372
+Uttarakhand,Tobacco,None,233.7,20800.0,-72.3,-23.6,-34.7,False,True,0.9887,0.0145,0.0177,0.405,346,0.6921,48,152,8
+Telangana,Air pollution,None,251.4,80300.0,-79.2,-24.0,-49.2,False,True,0.9935,0.0129,0.0081,0.404,347,0.4564,218,31,5
+Telangana,Low physical activity,None,16.1,4880.0,-1.3,-7.5,-2.3,False,True,0.3661,0.5516,0.2452,0.4008,348,0.3275,402,309,394
+Jammu & Kashmir and Ladakh,Kidney dysfunction,None,35.1,4170.0,-7.7,-18.0,-3.2,False,True,0.5694,0.3387,0.2177,0.4007,349,0.2883,447,322,268
+Goa,Other environmental risks,None,65.7,1270.0,-17.8,-21.3,-12.5,False,True,0.7468,0.2145,0.1048,0.4,350,0.2971,437,430,158
+Sikkim,Other environmental risks,None,29.0,161.0,-6.9,-19.2,-1.6,False,True,0.5113,0.3516,0.2855,0.399,351,0.1961,544,565,304
+Himachal Pradesh,Tobacco,None,93.1,8500.0,-43.9,-32.0,-6.3,False,True,0.8323,0.0661,0.1669,0.3978,352,0.3083,427,245,105
+Gujarat,Tobacco,None,88.7,53000.0,-43.3,-32.8,-5.7,False,True,0.8161,0.0726,0.179,0.3966,353,0.2903,443,59,115
+Manipur,High alcohol use,Adverse divergence,21.1,707.0,-6.1,-22.5,-0.6,False,True,0.4315,0.3702,0.3718,0.3951,354,0.7287,29,477,353
+Andhra Pradesh,Air pollution,None,154.7,72300.0,-63.3,-29.0,-33.3,False,True,0.9516,0.0242,0.0194,0.394,355,0.218,526,41,31
+Odisha,Low bone mineral density,None,11.0,4480.0,-1.3,-10.2,-0.7,False,True,0.2919,0.5419,0.3468,0.3931,356,0.3165,413,315,440
+Meghalaya,High alcohol use,Adverse divergence,20.8,533.0,-6.1,-22.8,-0.6,False,True,0.4258,0.3702,0.3718,0.3928,357,0.7191,34,492,357
+Madhya Pradesh,Low bone mineral density,None,10.2,5960.0,-1.2,-10.7,-0.6,False,True,0.2694,0.5556,0.3613,0.3925,358,0.2959,438,288,455
+Arunachal Pradesh,High alcohol use,Adverse divergence,29.6,352.0,-7.6,-20.4,-2.1,False,True,0.5226,0.3403,0.2565,0.3923,359,0.9033,5,520,297
+West Bengal,Tobacco,None,119.9,105000.0,-54.5,-31.2,-16.9,False,True,0.9065,0.0339,0.0694,0.3918,360,0.3725,344,19,59
+Jammu & Kashmir and Ladakh,Tobacco,None,104.5,12200.0,-48.9,-31.9,-11.3,False,True,0.8661,0.0484,0.1129,0.3916,361,0.3329,394,209,84
+Delhi,Air pollution,None,130.5,17900.0,-54.1,-29.3,-24.1,False,True,0.921,0.0371,0.0387,0.391,362,0.1704,567,169,50
+Sikkim,Kidney dysfunction,None,25.1,142.0,-6.2,-19.6,-1.7,False,True,0.4798,0.3653,0.279,0.3896,363,0.2262,515,571,324
+Other Union Territories,High alcohol use,None,15.0,625.0,-5.2,-26.1,0.3,False,True,0.3492,0.3919,0.4484,0.389,364,0.5718,117,483,404
+Maharashtra,Non-optimal temperature,None,14.8,18200.0,-6.0,-28.7,0.6,False,True,0.3444,0.3758,0.4774,0.3886,365,0.1715,565,166,406
+Sikkim,Dietary risks,None,54.0,319.0,-16.5,-23.5,-10.7,False,True,0.7,0.2242,0.1185,0.3881,366,0.1402,588,523,187
+Delhi,High fasting plasma glucose,None,72.5,10700.0,-17.6,-19.6,-36.0,False,True,0.7677,0.2177,0.0145,0.3869,367,0.16,578,221,145
+Maharashtra,Dietary risks,None,84.7,107000.0,-26.0,-23.5,-20.2,False,True,0.8,0.154,0.05,0.3864,368,0.2047,536,16,125
+Madhya Pradesh,High alcohol use,None,10.7,8740.0,-4.5,-29.8,1.0,False,True,0.2847,0.4032,0.5145,0.3836,369,0.4436,239,242,445
+Himachal Pradesh,Air pollution,None,115.3,10100.0,-51.6,-30.9,-21.6,False,True,0.8935,0.0419,0.0452,0.3834,370,0.1226,601,231,67
+Delhi,High systolic blood pressure,None,106.9,14900.0,-40.4,-27.4,-32.0,False,True,0.8726,0.079,0.021,0.3819,371,0.1825,556,191,80
+Chhattisgarh,High alcohol use,Adverse divergence,24.0,6570.0,-7.0,-22.8,-1.5,False,True,0.4661,0.35,0.2903,0.3815,372,0.7729,20,274,331
+Telangana,Occupational risks,None,34.9,14200.0,-12.6,-26.5,-2.4,False,True,0.5677,0.2694,0.2403,0.3815,373,0.7217,32,197,269
+Maharashtra,High systolic blood pressure,None,103.7,127000.0,-38.1,-26.8,-29.7,False,True,0.8613,0.0839,0.0274,0.3807,374,0.1825,557,12,87
+West Bengal,High alcohol use,None,10.8,11300.0,-4.7,-30.4,0.8,False,True,0.2879,0.3984,0.5016,0.38,375,0.4362,248,214,443
+Rajasthan,Non-optimal temperature,None,41.4,22900.0,-13.0,-24.0,-6.4,False,True,0.6153,0.2629,0.1629,0.3789,376,0.4523,223,141,240
+Kerala,High LDL cholesterol,None,54.9,25600.0,-17.7,-24.4,-15.9,False,True,0.7048,0.2161,0.079,0.3773,377,0.2758,463,123,184
+Kerala,Dietary risks,None,88.5,41400.0,-29.9,-25.2,-24.1,False,True,0.8145,0.1161,0.0371,0.3757,378,0.1992,542,88,116
+Tamil Nadu,High systolic blood pressure,None,128.3,109000.0,-67.7,-34.6,-59.3,False,True,0.9177,0.0194,0.0048,0.3751,379,0.1545,583,15,52
+Tamil Nadu,Air pollution,None,120.5,98100.0,-65.1,-35.1,-35.1,False,True,0.9081,0.021,0.0161,0.3746,380,0.0787,606,21,58
+Rajasthan,Occupational risks,None,27.4,19400.0,-11.6,-29.8,-1.4,False,True,0.4935,0.2855,0.3,0.3723,381,0.5712,118,159,315
+Sikkim,High LDL cholesterol,None,22.9,140.0,-5.1,-18.2,-3.3,False,True,0.4524,0.3935,0.2129,0.3719,382,0.2023,540,572,340
+Andhra Pradesh,Tobacco,None,106.0,52600.0,-57.6,-35.2,-20.0,False,True,0.8694,0.029,0.0516,0.3708,383,0.2989,435,60,82
+Tamil Nadu,Low physical activity,None,18.2,15100.0,-2.8,-13.5,-3.8,False,True,0.3984,0.4524,0.2065,0.3693,384,0.3354,386,189,374
+Delhi,Other environmental risks,None,46.1,6250.0,-15.9,-25.7,-10.6,False,True,0.6419,0.2306,0.1226,0.3681,385,0.2084,533,283,223
+Tamil Nadu,Non-optimal temperature,None,21.1,18100.0,-7.8,-27.0,-1.2,False,True,0.4315,0.3323,0.3169,0.3681,386,0.2439,502,168,354
+West Bengal,Occupational risks,None,13.6,14500.0,-9.1,-40.1,1.1,False,True,0.321,0.3016,0.5355,0.3678,387,0.2434,503,193,422
+Andhra Pradesh,Occupational risks,None,24.8,14400.0,-11.5,-31.7,-1.3,False,True,0.4766,0.2871,0.3065,0.3677,388,0.51,161,194,325
+Jammu & Kashmir and Ladakh,Air pollution,None,117.1,13200.0,-68.3,-36.8,-38.3,False,True,0.8968,0.0161,0.0129,0.3676,389,0.051,613,206,65
+Andhra Pradesh,Low bone mineral density,None,15.3,6520.0,-2.7,-14.9,-2.1,False,True,0.3556,0.4581,0.2581,0.3671,390,0.3764,337,275,400
+Madhya Pradesh,Tobacco,None,101.8,67300.0,-56.9,-35.9,-19.3,False,True,0.854,0.0306,0.0565,0.3665,391,0.2824,453,45,92
+Karnataka,High alcohol use,None,15.2,10400.0,-6.0,-28.3,-0.5,False,True,0.3524,0.3758,0.3758,0.3665,392,0.5419,135,224,402
+Uttar Pradesh,Child and maternal malnutrition,None,69.4,165000.0,-42.8,-38.2,-8.9,False,True,0.7565,0.0774,0.1468,0.3664,393,0.6529,64,6,152
+Bihar,"Unsafe water, sanitation, and handwashing",Adverse divergence,75.8,44800.0,-64.0,-45.8,-5.4,False,True,0.7766,0.0226,0.1887,0.3657,394,0.8161,13,78,139
+Delhi,High LDL cholesterol,None,46.2,7270.0,-15.4,-25.1,-13.6,False,True,0.6444,0.2403,0.0952,0.3656,395,0.2392,506,263,221
+Goa,Low physical activity,None,10.2,190.0,-1.2,-10.7,-2.2,False,True,0.2694,0.5556,0.2516,0.3651,396,0.1847,553,557,454
+Jammu & Kashmir and Ladakh,Non-optimal temperature,None,26.7,3000.0,-8.9,-25.1,-2.3,False,True,0.4903,0.3081,0.2427,0.3646,397,0.3121,419,353,317
+Kerala,Air pollution,None,103.0,46500.0,-54.3,-34.5,-24.3,False,True,0.8581,0.0355,0.0355,0.3645,398,0.0547,612,73,89
+Delhi,Dietary risks,None,86.9,13100.0,-35.2,-28.8,-29.4,False,True,0.8081,0.0935,0.029,0.3632,399,0.1672,572,207,120
+Sikkim,Tobacco,None,66.9,367.0,-44.0,-39.7,-6.4,False,True,0.7484,0.0645,0.1645,0.3631,400,0.1678,571,517,157
+Kerala,Kidney dysfunction,None,44.6,19900.0,-16.2,-26.6,-11.7,False,True,0.6371,0.2274,0.1113,0.3623,401,0.2722,468,156,226
+Uttarakhand,High alcohol use,None,22.9,2580.0,-7.7,-25.3,-2.2,False,True,0.4524,0.3339,0.25,0.3603,402,0.7166,36,369,341
+Delhi,Kidney dysfunction,None,41.0,5560.0,-15.2,-27.0,-10.7,False,True,0.6113,0.2452,0.1185,0.36,403,0.2511,492,296,242
+Tamil Nadu,Occupational risks,None,16.2,15000.0,-10.1,-38.4,0.1,False,True,0.3685,0.2968,0.4274,0.3581,404,0.3023,431,190,393
+Goa,Low bone mineral density,None,11.4,207.0,-2.3,-16.9,-1.7,False,True,0.3,0.479,0.279,0.3574,405,0.2786,458,550,435
+Tamil Nadu,Dietary risks,None,104.2,92800.0,-60.8,-36.9,-55.0,False,True,0.8645,0.0258,0.0065,0.3565,406,0.1391,594,26,85
+Kerala,Other environmental risks,None,49.6,22800.0,-22.4,-31.1,-17.1,False,True,0.6726,0.1839,0.0677,0.3503,407,0.1854,552,142,204
+Goa,High alcohol use,None,23.6,461.0,-8.6,-26.6,-3.1,False,True,0.4597,0.3161,0.2194,0.3494,408,0.7087,43,503,336
+Telangana,High alcohol use,None,20.2,7710.0,-7.7,-27.7,-2.2,False,True,0.4177,0.3363,0.2548,0.3485,409,0.635,73,257,362
+Maharashtra,Kidney dysfunction,None,33.2,40200.0,-13.6,-29.1,-9.1,False,True,0.554,0.2581,0.1403,0.347,410,0.1963,543,90,277
+Uttar Pradesh,Occupational risks,None,27.6,57100.0,-13.1,-32.3,-2.9,False,True,0.496,0.2613,0.2258,0.3463,411,0.5441,134,52,313
+Sikkim,Non-optimal temperature,None,19.3,99.0,-8.6,-30.9,-2.0,False,True,0.4121,0.3194,0.2621,0.3421,412,0.189,548,586,366
+Karnataka,Occupational risks,None,21.2,14600.0,-11.9,-36.0,-1.7,False,True,0.4339,0.2823,0.279,0.3421,413,0.405,296,192,352
+Maharashtra,High LDL cholesterol,None,31.3,39400.0,-12.4,-28.5,-10.6,False,True,0.5355,0.2742,0.121,0.3404,414,0.1613,577,92,289
+Nagaland,Drug use,Adverse divergence,10.8,171.0,-3.4,-23.9,-1.5,False,True,0.2879,0.4331,0.2935,0.3401,415,0.7273,30,562,442
+Gujarat,Occupational risks,None,19.3,13700.0,-11.7,-37.9,-1.5,False,True,0.4121,0.2839,0.2952,0.338,416,0.3541,369,198,365
+Telangana,Unsafe sex,Adverse divergence,22.3,8930.0,-9.1,-29.0,-3.6,False,True,0.4468,0.3032,0.2097,0.3373,417,0.641,69,238,344
+Jharkhand,Child and maternal malnutrition,None,42.3,13500.0,-37.0,-46.7,-3.1,False,True,0.6242,0.0871,0.2226,0.3358,418,0.3744,341,202,234
+Telangana,Non-optimal temperature,None,43.1,14300.0,-22.8,-34.7,-16.2,False,True,0.6306,0.1806,0.0758,0.3344,419,0.3603,360,196,230
+Uttar Pradesh,"Unsafe water, sanitation, and handwashing",None,61.3,89800.0,-67.8,-52.5,-9.2,False,True,0.7331,0.0177,0.1387,0.3341,420,0.6136,87,28,167
+Punjab,Occupational risks,None,11.7,4140.0,-10.1,-46.2,0.1,False,True,0.3073,0.2968,0.4274,0.3336,421,0.1419,587,324,431
+Odisha,Child and maternal malnutrition,None,52.5,16800.0,-44.4,-45.8,-10.5,False,True,0.6927,0.0613,0.1266,0.3302,422,0.4417,241,174,192
+Sikkim,High alcohol use,None,21.0,139.0,-10.1,-32.5,-4.6,False,True,0.429,0.2968,0.1968,0.3247,423,0.5759,111,573,355
+Maharashtra,Other environmental risks,None,37.2,45500.0,-20.9,-36.0,-15.6,False,True,0.5839,0.1952,0.0855,0.3232,424,0.1159,602,74,259
+Rajasthan,Child and maternal malnutrition,None,51.0,37000.0,-45.0,-46.9,-11.1,False,True,0.6823,0.0597,0.1145,0.3224,425,0.4161,281,98,198
+Madhya Pradesh,Non-optimal temperature,None,31.2,20200.0,-17.1,-35.5,-10.5,False,True,0.5331,0.2194,0.1266,0.3217,426,0.2477,496,154,290
+Uttarakhand,Occupational risks,None,24.8,2610.0,-15.7,-38.7,-5.5,False,True,0.4766,0.2379,0.1871,0.3207,427,0.4256,267,367,326
+Telangana,"Unsafe water, sanitation, and handwashing",None,79.5,22600.0,-100.3,-55.8,-41.7,False,True,0.7903,0.0048,0.0097,0.3202,428,0.6612,56,144,131
+Madhya Pradesh,Child and maternal malnutrition,None,57.8,43100.0,-50.5,-46.6,-16.6,False,True,0.7129,0.0468,0.071,0.3193,429,0.4561,219,84,179
+Delhi,Non-optimal temperature,None,36.0,5020.0,-22.2,-38.2,-15.6,False,True,0.5774,0.1855,0.0839,0.3169,430,0.2629,480,304,263
+Tamil Nadu,Other environmental risks,None,59.4,50800.0,-45.3,-43.2,-40.0,False,True,0.7258,0.0565,0.0113,0.3129,431,0.1398,590,66,171
+Madhya Pradesh,Occupational risks,None,22.0,18600.0,-15.0,-40.7,-4.8,False,True,0.4419,0.2476,0.1935,0.3118,432,0.3602,361,164,346
+Delhi,Tobacco,None,59.4,9030.0,-58.5,-49.6,-20.9,False,True,0.7258,0.0274,0.0468,0.3116,433,0.0412,614,237,170
+Chhattisgarh,"Unsafe water, sanitation, and handwashing",None,65.5,9760.0,-83.7,-56.1,-25.1,False,True,0.7452,0.0097,0.0339,0.3099,434,0.5745,112,232,159
+Jammu & Kashmir and Ladakh,Occupational risks,None,15.5,2150.0,-12.1,-44.0,-1.9,False,True,0.3589,0.2774,0.271,0.3084,435,0.2245,518,385,398
+Tamil Nadu,High LDL cholesterol,None,48.0,43200.0,-32.5,-40.4,-30.7,False,True,0.6621,0.1081,0.0226,0.3083,436,0.1395,592,83,211
+Delhi,High alcohol use,None,11.6,2220.0,-7.5,-39.5,-2.0,False,True,0.3048,0.3419,0.2597,0.3065,437,0.3121,420,382,432
+Andhra Pradesh,"Unsafe water, sanitation, and handwashing",None,60.2,24800.0,-81.0,-57.4,-22.4,False,True,0.7306,0.0113,0.0403,0.3063,438,0.5207,152,129,168
+Himachal Pradesh,Occupational risks,None,17.5,1570.0,-12.9,-42.4,-2.7,False,True,0.3879,0.2661,0.2306,0.306,439,0.2733,465,424,381
+Assam,Child and maternal malnutrition,None,38.4,10800.0,-42.9,-52.7,-9.0,False,True,0.5911,0.0758,0.1452,0.2993,440,0.2565,488,220,254
+Jharkhand,"Unsafe water, sanitation, and handwashing",None,64.2,13400.0,-153.4,-70.5,-94.8,False,True,0.7419,0.0016,0.0016,0.2977,441,0.3128,417,203,161
+Tamil Nadu,Kidney dysfunction,None,43.8,36700.0,-34.3,-43.9,-29.8,False,True,0.6323,0.0984,0.0258,0.2938,442,0.1397,591,99,229
+Manipur,Unsafe sex,None,15.5,592.0,-10.7,-40.9,-5.2,False,True,0.3589,0.2919,0.1919,0.2937,443,0.4333,251,484,399
+Jharkhand,High alcohol use,None,11.7,3810.0,-8.8,-42.8,-3.3,False,True,0.3073,0.3121,0.2145,0.2858,444,0.2639,477,327,430
+Odisha,"Unsafe water, sanitation, and handwashing",None,56.8,22300.0,-136.2,-70.6,-77.6,False,True,0.7081,0.0032,0.0032,0.2852,445,0.268,474,145,182
+Tamil Nadu,Low bone mineral density,None,10.9,8500.0,-6.5,-37.2,-5.9,False,True,0.2903,0.3581,0.1726,0.2846,446,0.1269,599,246,441
+Odisha,High alcohol use,None,10.4,5240.0,-8.3,-44.7,-2.8,False,True,0.2774,0.3226,0.229,0.2811,447,0.2133,529,301,450
+Sikkim,Occupational risks,None,13.9,98.0,-13.7,-49.6,-3.5,False,True,0.3258,0.2565,0.2113,0.2729,448,0.1334,595,587,419
+Madhya Pradesh,"Unsafe water, sanitation, and handwashing",None,47.1,28200.0,-84.0,-64.1,-25.4,False,True,0.6532,0.0081,0.0323,0.2722,449,0.3263,403,120,216
+Bihar,Child and maternal malnutrition,None,36.8,45200.0,-51.5,-58.3,-17.6,False,True,0.5806,0.0435,0.0661,0.264,450,0.1569,581,76,261
+Assam,"Unsafe water, sanitation, and handwashing",None,42.7,8800.0,-88.6,-67.5,-30.0,False,True,0.6258,0.0065,0.0242,0.2586,451,0.2408,505,240,233
+Assam,High alcohol use,None,14.1,4400.0,-16.4,-53.7,-10.9,False,True,0.3323,0.2258,0.1161,0.241,452,0.1395,593,317,415
+Mizoram,Unsafe sex,None,19.2,251.0,-26.1,-57.7,-20.6,False,True,0.4081,0.1516,0.0484,0.2284,453,0.4143,282,538,368
+Nagaland,Unsafe sex,None,16.2,272.0,-25.4,-61.1,-19.9,False,True,0.3685,0.1581,0.0548,0.2165,454,0.3332,391,530,392
+Andhra Pradesh,Unsafe sex,None,14.0,8260.0,-24.2,-63.3,-18.7,False,True,0.3298,0.1694,0.0589,0.2059,455,0.2754,464,250,416
+Jharkhand,Unsafe sex,Possible worsening,8.2,2700.0,2.1,34.3,7.6,False,False,0.2194,0.7952,0.8226,0.5717,456,0.7093,42,363,485
+Assam,Unsafe sex,Possible worsening,7.1,2360.0,1.1,17.7,6.6,False,False,0.1952,0.771,0.8,0.5479,457,0.5925,101,378,500
+Mizoram,High LDL cholesterol,Possible worsening,9.7,100.0,1.3,15.7,3.1,False,False,0.2589,0.7758,0.6484,0.5372,458,0.3896,318,585,462
+Mizoram,Non-optimal temperature,Adverse divergence,9.7,88.0,-0.4,-3.4,6.2,False,False,0.2589,0.6419,0.7887,0.5254,459,0.3796,333,593,461
+Odisha,Low physical activity,Possible worsening,8.6,3490.0,2.2,33.3,1.2,False,False,0.2363,0.7976,0.5387,0.5083,460,0.4162,279,335,476
+Tripura,Unsafe sex,Possible worsening,5.0,210.0,0.5,10.2,6.0,True,False,0.1323,0.7427,0.779,0.5076,461,0.5066,163,548,540
+Arunachal Pradesh,Unsafe sex,Possible worsening,4.5,60.0,0.9,23.6,6.4,True,False,0.1065,0.7597,0.7935,0.5069,462,0.5723,116,603,554
+Odisha,Unsafe sex,Possible worsening,6.5,3300.0,0.0,1.1,5.5,False,False,0.1774,0.7,0.7597,0.5059,463,0.4859,184,343,511
+Rajasthan,Low bone mineral density,Possible worsening,9.3,4590.0,0.8,9.0,1.4,False,False,0.2484,0.7573,0.5605,0.5045,464,0.4133,284,313,467
+Meghalaya,Unsafe sex,Possible worsening,4.7,124.0,0.3,6.3,5.8,True,False,0.1177,0.7194,0.7677,0.4908,465,0.4783,201,576,547
+Gujarat,Low physical activity,Possible worsening,9.6,5020.0,1.4,16.0,0.4,False,False,0.2548,0.7806,0.4581,0.4897,466,0.333,393,305,463
+Nagaland,Low bone mineral density,Possible worsening,8.2,89.0,0.7,9.4,1.3,False,False,0.2194,0.7548,0.55,0.4894,467,0.3924,314,592,486
+Uttarakhand,Drug use,Possible worsening,7.0,823.0,0.4,6.1,2.3,False,False,0.1935,0.7363,0.6121,0.4881,468,0.8311,9,465,501
+Arunachal Pradesh,Low bone mineral density,Possible worsening,8.6,61.0,0.5,6.2,1.1,False,False,0.2363,0.7427,0.525,0.4857,469,0.3788,334,602,472
+Uttar Pradesh,Sexual violence against children and bullying,Possible worsening,6.4,13700.0,1.0,20.0,1.6,False,False,0.1742,0.7661,0.5782,0.4824,470,0.8211,12,199,514
+Kerala,Non-optimal temperature,None,6.1,2730.0,-0.6,-10.0,6.0,False,False,0.1629,0.6226,0.7774,0.4774,471,0.282,454,360,521
+Manipur,Low bone mineral density,Possible worsening,7.2,183.0,0.6,8.2,1.2,False,False,0.1968,0.7516,0.5419,0.4773,472,0.3626,357,559,499
+Chhattisgarh,Drug use,Possible worsening,6.9,2000.0,0.2,1.7,2.1,False,False,0.1911,0.7153,0.6,0.4768,473,0.7867,17,398,502
+Arunachal Pradesh,Drug use,Adverse divergence,7.8,100.0,0.0,-1.0,1.9,False,False,0.2089,0.7,0.5919,0.4765,474,0.8021,16,584,491
+Goa,Non-optimal temperature,None,6.1,114.0,-0.7,-10.3,5.9,False,False,0.1629,0.6129,0.7726,0.4728,475,0.279,457,581,519
+Nagaland,Occupational risks,Adverse divergence,9.8,165.0,-2.7,-21.5,7.5,False,False,0.2645,0.4581,0.8202,0.4712,476,0.4114,288,563,457
+Jharkhand,Sexual violence against children and bullying,Possible worsening,4.9,1640.0,0.9,22.7,1.5,True,False,0.1274,0.7621,0.5726,0.4608,477,0.7588,22,420,542
+Kerala,Unsafe sex,Adverse divergence,3.6,1710.0,-0.2,-4.4,5.3,True,False,0.0895,0.6726,0.7532,0.4595,478,0.395,310,411,566
+Meghalaya,Low bone mineral density,Possible worsening,7.5,120.0,0.2,3.3,0.8,False,False,0.2008,0.7153,0.5,0.4557,479,0.335,388,578,497
+Tripura,Low bone mineral density,Possible worsening,6.9,218.0,0.1,0.7,0.7,False,False,0.1911,0.7113,0.4984,0.45,480,0.3041,430,547,503
+Odisha,Sexual violence against children and bullying,Possible worsening,5.4,2690.0,0.4,8.7,1.0,False,False,0.1444,0.7363,0.5194,0.4453,481,0.6534,63,364,532
+Haryana,Sexual violence against children and bullying,Possible worsening,5.6,1610.0,0.4,7.7,1.0,False,False,0.1484,0.7323,0.5145,0.4443,482,0.6555,62,421,529
+Rajasthan,High alcohol use,Adverse divergence,9.0,6370.0,-1.8,-16.3,3.7,False,False,0.2444,0.5048,0.6742,0.443,483,0.619,85,282,469
+Assam,Sexual violence against children and bullying,Possible worsening,5.3,1710.0,0.4,6.8,1.0,True,False,0.1403,0.7323,0.5145,0.441,484,0.6292,77,409,534
+Rajasthan,Unsafe sex,Adverse divergence,6.2,4400.0,-1.2,-15.6,4.3,False,False,0.1661,0.5589,0.7129,0.4403,485,0.3851,324,318,518
+Manipur,Low physical activity,Possible worsening,8.1,193.0,0.5,6.8,-0.5,False,False,0.2153,0.7427,0.3758,0.44,486,0.2461,498,556,488
+Meghalaya,Drug use,Adverse divergence,6.8,189.0,-0.5,-6.6,1.4,False,False,0.1887,0.6347,0.5605,0.4377,487,0.7068,44,558,504
+Tripura,Drug use,Adverse divergence,4.8,208.0,-0.1,-1.4,1.8,True,False,0.1234,0.6823,0.5887,0.4353,488,0.6652,55,549,545
+Chhattisgarh,Sexual violence against children and bullying,Adverse divergence,6.3,1870.0,0.0,-0.1,0.6,False,False,0.1694,0.7,0.4887,0.4349,489,0.6216,83,403,515
+Other Union Territories,Low physical activity,Possible worsening,8.5,243.0,0.3,2.8,-0.7,False,False,0.229,0.725,0.3532,0.4337,490,0.2304,512,541,478
+Jammu & Kashmir and Ladakh,Unsafe sex,Adverse divergence,5.4,714.0,-1.2,-17.7,4.3,False,False,0.1444,0.5629,0.7145,0.4334,491,0.3567,368,476,531
+Punjab,Low bone mineral density,None,9.8,3030.0,-0.5,-4.9,0.1,False,False,0.2645,0.6347,0.4194,0.4328,492,0.3275,401,351,458
+Rajasthan,Drug use,Possible worsening,3.4,2470.0,0.1,2.6,2.0,True,False,0.0863,0.7097,0.5952,0.4317,493,0.6393,70,373,568
+Uttarakhand,Sexual violence against children and bullying,None,6.6,773.0,-0.1,-0.3,0.5,False,False,0.1815,0.6823,0.4694,0.4287,494,0.6373,71,473,510
+Rajasthan,Low physical activity,Possible worsening,5.4,2710.0,0.9,20.2,-0.1,True,False,0.1444,0.7621,0.4056,0.4259,495,0.2703,470,362,533
+Madhya Pradesh,Low physical activity,None,9.7,5930.0,-0.1,-0.3,-1.1,False,False,0.2589,0.6782,0.3266,0.4226,496,0.2369,508,289,460
+Sikkim,Unsafe sex,Adverse divergence,2.9,20.0,-0.8,-22.0,4.7,True,False,0.0702,0.6,0.7306,0.4207,497,0.2807,456,616,578
+Tripura,Low physical activity,Possible worsening,8.0,247.0,0.2,3.4,-0.8,False,False,0.2121,0.7153,0.3411,0.4205,498,0.2236,519,539,490
+Kerala,Child and maternal malnutrition,None,6.4,1240.0,-8.6,-57.3,25.3,False,False,0.1742,0.3177,0.9516,0.4188,499,0.0163,619,434,512
+Haryana,Unsafe sex,Adverse divergence,7.6,2200.0,-2.2,-22.5,3.3,False,False,0.204,0.4879,0.6548,0.4161,500,0.3748,340,383,494
+Punjab,Low physical activity,None,9.4,2870.0,-0.2,-2.1,-1.2,False,False,0.2508,0.675,0.3169,0.4158,501,0.2197,523,355,466
+Nagaland,Low physical activity,Possible worsening,6.3,65.0,0.4,6.5,-0.6,False,False,0.1694,0.7323,0.3629,0.4148,502,0.2066,535,601,517
+Jammu & Kashmir and Ladakh,High alcohol use,Adverse divergence,5.8,752.0,-1.8,-23.7,3.7,False,False,0.1524,0.5089,0.6758,0.408,503,0.4534,221,475,526
+Rajasthan,Sexual violence against children and bullying,None,3.8,2870.0,0.0,-0.6,0.6,True,False,0.0935,0.7,0.4887,0.4046,504,0.4697,208,356,563
+Uttar Pradesh,Unsafe sex,Adverse divergence,6.0,12000.0,-1.9,-23.9,3.6,False,False,0.1589,0.4984,0.6653,0.4043,505,0.3339,390,211,523
+Maharashtra,Sexual violence against children and bullying,None,5.1,7070.0,-0.2,-3.9,0.4,False,False,0.1363,0.6677,0.4581,0.4027,506,0.5144,158,265,537
+Kerala,High alcohol use,None,6.6,3170.0,-2.3,-25.8,3.2,False,False,0.1815,0.4734,0.65,0.4008,507,0.4351,249,346,507
+Arunachal Pradesh,Low physical activity,Possible worsening,5.4,35.0,0.3,6.8,-0.7,False,False,0.1444,0.725,0.3532,0.3998,508,0.1896,547,610,530
+Jharkhand,Intimate partner violence,Possible worsening,2.1,834.0,0.3,17.8,1.1,True,False,0.0387,0.721,0.5274,0.3997,509,0.7581,23,464,597
+Meghalaya,Low physical activity,Possible worsening,5.9,91.0,0.2,4.5,-0.8,False,False,0.1556,0.7153,0.3411,0.3979,510,0.1862,550,589,525
+Jammu & Kashmir and Ladakh,Drug use,Adverse divergence,2.7,355.0,-0.4,-15.0,1.5,True,False,0.0637,0.6492,0.571,0.3954,511,0.4482,230,519,582
+Bihar,High alcohol use,None,8.6,7660.0,-3.4,-28.5,2.1,False,False,0.2363,0.4306,0.5984,0.3948,512,0.4279,261,258,473
+Punjab,High alcohol use,None,8.0,2820.0,-3.1,-27.8,2.4,False,False,0.2121,0.4395,0.6194,0.3935,513,0.4284,259,358,489
+Gujarat,Unsafe sex,Adverse divergence,5.9,4300.0,-2.3,-28.5,3.2,False,False,0.1556,0.479,0.6516,0.3928,514,0.3057,429,320,524
+Bihar,Drug use,Adverse divergence,3.6,3420.0,-0.6,-15.9,1.3,True,False,0.0895,0.6258,0.5516,0.3927,515,0.48,199,339,565
+Uttar Pradesh,Intimate partner violence,Adverse divergence,2.8,7330.0,-0.1,-2.8,0.7,True,False,0.0669,0.6879,0.4944,0.3911,516,0.658,61,262,580
+Himachal Pradesh,High alcohol use,None,8.6,794.0,-3.7,-30.1,1.8,False,False,0.2363,0.4266,0.5863,0.3904,517,0.4037,298,469,474
+Kerala,Low bone mineral density,None,9.5,3990.0,-1.2,-11.9,-0.6,False,False,0.2532,0.5629,0.3677,0.3902,518,0.2725,467,326,464
+Gujarat,Sexual violence against children and bullying,None,5.1,3640.0,-0.4,-7.3,0.2,False,False,0.1363,0.6419,0.4355,0.3881,519,0.4817,196,332,536
+Haryana,High alcohol use,None,8.9,2550.0,-3.9,-30.5,1.6,False,False,0.2419,0.4194,0.575,0.3873,520,0.4027,299,371,471
+Bihar,Sexual violence against children and bullying,None,2.9,2790.0,-0.1,-3.2,0.5,True,False,0.0702,0.6879,0.4734,0.3872,521,0.3917,315,359,577
+Meghalaya,Sexual violence against children and bullying,None,2.8,80.0,-0.1,-5.2,0.5,True,False,0.0669,0.6879,0.4734,0.3859,522,0.3666,353,596,579
+Himachal Pradesh,Drug use,Adverse divergence,3.2,295.0,-0.7,-18.7,1.2,True,False,0.0782,0.6202,0.5444,0.3844,523,0.4368,246,526,571
+Mizoram,Low physical activity,Possible worsening,4.4,39.0,0.3,6.9,-0.7,True,False,0.1032,0.725,0.3532,0.3833,524,0.1692,568,609,557
+Punjab,Unsafe sex,Adverse divergence,4.5,1590.0,-1.9,-30.5,3.6,False,False,0.1065,0.4984,0.6653,0.3833,525,0.2655,475,423,556
+West Bengal,Low bone mineral density,None,8.5,6520.0,-1.2,-12.1,-0.6,False,False,0.229,0.5629,0.3677,0.3806,526,0.2496,494,277,480
+Punjab,Drug use,Adverse divergence,3.9,1390.0,-0.8,-16.7,1.1,True,False,0.0952,0.6,0.529,0.3803,527,0.4861,183,427,562
+Arunachal Pradesh,Sexual violence against children and bullying,None,4.2,66.0,-0.4,-9.1,0.2,True,False,0.1,0.654,0.4403,0.379,528,0.4114,289,600,558
+Assam,Intimate partner violence,Adverse divergence,2.0,775.0,-0.1,-4.1,0.7,True,False,0.0363,0.6879,0.4944,0.3789,529,0.5732,115,472,598
+West Bengal,Low physical activity,None,8.6,6830.0,-0.7,-7.2,-1.7,False,False,0.2363,0.6097,0.2742,0.3765,530,0.1723,564,269,477
+Madhya Pradesh,Drug use,Adverse divergence,4.0,3450.0,-0.9,-18.0,1.0,True,False,0.0968,0.5823,0.5145,0.3711,531,0.4787,200,337,561
+Sikkim,Low physical activity,None,4.8,25.0,-0.1,-1.0,-1.1,True,False,0.1234,0.6823,0.3306,0.3708,532,0.13,597,613,544
+Delhi,Drug use,Adverse divergence,2.2,443.0,-0.7,-24.1,1.2,True,False,0.0427,0.6202,0.5444,0.3702,533,0.3432,378,505,593
+Tamil Nadu,High alcohol use,None,8.5,8290.0,-4.3,-33.3,1.2,False,False,0.229,0.4113,0.5387,0.3702,534,0.3537,370,249,479
+Meghalaya,Intimate partner violence,Adverse divergence,0.6,24.0,-0.1,-16.4,0.7,True,False,0.0056,0.6919,0.4968,0.3686,535,0.3443,377,614,617
+Punjab,Sexual violence against children and bullying,None,3.2,1120.0,-0.4,-11.5,0.2,True,False,0.0782,0.6492,0.4387,0.3682,536,0.3294,397,443,573
+Haryana,Intimate partner violence,Adverse divergence,1.8,566.0,-0.2,-13.1,0.6,True,False,0.0298,0.6702,0.4831,0.3673,537,0.4824,195,486,601
+Delhi,Low bone mineral density,None,9.7,1190.0,-1.7,-15.1,-1.1,False,False,0.2589,0.5194,0.3266,0.367,538,0.2545,489,436,459
+Sikkim,Drug use,Adverse divergence,6.7,46.0,-1.7,-20.8,0.2,False,False,0.1863,0.5234,0.4355,0.3666,539,0.5732,114,605,506
+Himachal Pradesh,Unsafe sex,None,5.0,467.0,-2.9,-36.1,2.6,False,False,0.1323,0.4484,0.6266,0.3665,540,0.2441,501,501,538
+West Bengal,Drug use,Adverse divergence,3.3,3570.0,-1.0,-23.8,0.9,True,False,0.0831,0.5758,0.5056,0.3612,541,0.3948,311,334,570
+Gujarat,High alcohol use,None,6.1,4350.0,-3.7,-38.1,1.8,False,False,0.1629,0.4266,0.5863,0.361,542,0.2408,504,319,520
+Other Union Territories,Drug use,Adverse divergence,4.7,201.0,-1.3,-22.5,0.6,False,False,0.1177,0.5468,0.4887,0.3606,543,0.4689,210,553,548
+Madhya Pradesh,Sexual violence against children and bullying,None,4.6,4110.0,-0.7,-12.8,-0.1,False,False,0.1113,0.6129,0.4056,0.3604,544,0.3993,301,325,553
+Jammu & Kashmir and Ladakh,Low bone mineral density,None,7.4,882.0,-1.3,-15.3,-0.7,False,False,0.1984,0.55,0.3532,0.3602,545,0.2037,539,457,498
+Manipur,Sexual violence against children and bullying,None,4.5,162.0,-0.7,-13.3,-0.1,False,False,0.1065,0.6129,0.4056,0.3585,546,0.3886,321,564,555
+Goa,Unsafe sex,None,4.6,92.0,-2.9,-37.9,2.6,False,False,0.1113,0.4484,0.6266,0.3581,547,0.2256,517,588,552
+Tripura,Sexual violence against children and bullying,None,5.8,255.0,-1.0,-14.5,-0.4,False,False,0.1524,0.5758,0.3823,0.3581,548,0.4535,220,536,527
+Himachal Pradesh,Low bone mineral density,None,8.6,795.0,-1.7,-16.4,-1.1,False,False,0.2363,0.5194,0.3266,0.3579,549,0.2219,520,468,475
+Chhattisgarh,Intimate partner violence,Adverse divergence,2.3,784.0,-0.4,-17.0,0.4,True,False,0.05,0.6419,0.45,0.3572,550,0.4976,170,470,588
+Himachal Pradesh,Intimate partner violence,None,0.5,40.0,-0.2,-35.2,0.6,True,False,0.0032,0.6702,0.4831,0.3566,551,0.1842,555,607,619
+Rajasthan,Intimate partner violence,None,1.1,937.0,-0.3,-26.5,0.5,True,False,0.0169,0.6629,0.4694,0.3561,552,0.3098,424,453,611
+Kerala,Drug use,None,1.8,852.0,-0.8,-31.2,1.1,True,False,0.0298,0.6032,0.5306,0.3557,553,0.2609,482,462,602
+West Bengal,Unsafe sex,None,4.9,5320.0,-3.3,-40.2,2.2,False,False,0.1274,0.4355,0.6048,0.3546,554,0.2187,524,300,543
+Delhi,Unsafe sex,None,8.1,1680.0,-4.5,-35.5,1.0,False,False,0.2153,0.4032,0.5089,0.3545,555,0.3114,421,416,487
+Odisha,Intimate partner violence,Adverse divergence,2.3,1190.0,-0.5,-18.6,0.3,True,False,0.05,0.6347,0.4452,0.3534,556,0.4848,188,438,591
+Telangana,Drug use,Adverse divergence,8.3,3310.0,-2.3,-21.8,-0.4,False,False,0.2226,0.479,0.3839,0.3527,557,0.6353,72,342,483
+Manipur,Drug use,Adverse divergence,9.8,356.0,-2.7,-20.9,-0.8,False,False,0.2645,0.4581,0.3435,0.352,558,0.7101,41,518,456
+Goa,Sexual violence against children and bullying,None,4.6,83.0,-0.8,-15.9,-0.2,False,False,0.1113,0.5968,0.3919,0.3514,559,0.3694,350,595,551
+Punjab,Intimate partner violence,None,0.8,295.0,-0.3,-26.2,0.5,True,False,0.0121,0.6589,0.4637,0.3514,560,0.2843,449,527,613
+Uttarakhand,Intimate partner violence,Adverse divergence,1.8,235.0,-0.4,-17.9,0.4,True,False,0.0298,0.6452,0.4516,0.3506,561,0.4439,237,543,604
+Arunachal Pradesh,Intimate partner violence,None,1.6,32.0,-0.4,-19.5,0.4,True,False,0.0242,0.6492,0.454,0.3504,562,0.4124,286,612,606
+Delhi,Intimate partner violence,None,0.7,145.0,-0.3,-31.1,0.5,True,False,0.0089,0.6589,0.4637,0.3501,563,0.2357,509,570,615
+Madhya Pradesh,Unsafe sex,None,7.6,6420.0,-4.5,-36.6,1.0,False,False,0.204,0.4032,0.5089,0.35,564,0.2948,439,281,495
+Jammu & Kashmir and Ladakh,Intimate partner violence,None,0.4,68.0,-0.3,-35.0,0.5,True,False,0.0016,0.6613,0.4661,0.3486,565,0.1765,562,599,620
+Goa,Drug use,Adverse divergence,8.2,159.0,-2.3,-21.9,-0.4,False,False,0.2194,0.4734,0.3806,0.3486,566,0.6299,76,566,484
+Goa,Intimate partner violence,None,1.1,18.0,-0.4,-30.0,0.4,True,False,0.0169,0.6492,0.454,0.3475,567,0.2817,455,617,610
+Himachal Pradesh,Low physical activity,None,4.2,378.0,-0.4,-8.6,-1.4,True,False,0.1,0.654,0.2984,0.3435,568,0.0717,608,515,559
+Telangana,Sexual violence against children and bullying,None,9.0,3650.0,-2.1,-19.0,-1.5,False,False,0.2444,0.4903,0.2919,0.3423,569,0.5984,97,331,470
+Jammu & Kashmir and Ladakh,Sexual violence against children and bullying,None,2.2,306.0,-0.6,-20.3,0.0,True,False,0.0427,0.629,0.4177,0.3417,570,0.1859,551,524,594
+Himachal Pradesh,Sexual violence against children and bullying,None,3.2,280.0,-0.8,-21.9,-0.2,True,False,0.0782,0.6048,0.3944,0.3416,571,0.2293,514,528,572
+Maharashtra,Low bone mineral density,None,9.1,10200.0,-2.2,-19.7,-1.6,False,False,0.2468,0.4879,0.2831,0.3402,572,0.2097,532,230,468
+Sikkim,Intimate partner violence,None,0.8,7.0,-0.5,-35.1,0.3,True,False,0.0121,0.6347,0.4452,0.3383,573,0.2129,530,620,614
+Kerala,Intimate partner violence,None,0.7,274.0,-0.5,-40.6,0.3,True,False,0.0089,0.6347,0.4452,0.337,574,0.1595,579,529,616
+Sikkim,Sexual violence against children and bullying,None,3.2,23.0,-0.9,-22.7,-0.3,True,False,0.0782,0.5919,0.3903,0.336,575,0.2216,521,615,574
+Sikkim,Low bone mineral density,None,6.6,34.0,-1.7,-20.3,-1.1,False,False,0.1815,0.5194,0.3266,0.336,576,0.1518,584,611,509
+Gujarat,Intimate partner violence,None,1.5,1120.0,-0.6,-30.0,0.2,True,False,0.0226,0.6258,0.4315,0.3359,577,0.3189,410,442,607
+Bihar,Intimate partner violence,None,1.4,1680.0,-0.6,-32.0,0.2,True,False,0.021,0.6258,0.4315,0.3353,578,0.2936,440,415,608
+Other Union Territories,Unsafe sex,None,5.7,245.0,-4.4,-43.2,1.1,False,False,0.15,0.4081,0.525,0.3341,579,0.2182,525,540,528
+Delhi,Occupational risks,None,7.8,1520.0,-8.8,-53.2,1.4,False,False,0.2089,0.3121,0.5629,0.3335,580,0.0,620,425,492
+Other Union Territories,Intimate partner violence,None,1.7,76.0,-0.7,-30.3,0.1,True,False,0.0258,0.6177,0.4226,0.3322,581,0.3351,387,598,605
+Karnataka,Sexual violence against children and bullying,None,6.7,4770.0,-1.8,-20.9,-1.2,False,False,0.1863,0.5089,0.3169,0.3319,582,0.4448,233,310,505
+Gujarat,Drug use,None,2.3,1670.0,-1.3,-37.0,0.6,True,False,0.05,0.5435,0.4855,0.3316,583,0.2304,513,417,589
+Haryana,Drug use,None,3.0,893.0,-1.5,-33.0,0.4,True,False,0.0734,0.5331,0.4581,0.3304,584,0.2979,436,455,576
+Tripura,Intimate partner violence,None,2.6,123.0,-0.9,-24.0,-0.1,True,False,0.0589,0.5895,0.4016,0.3303,585,0.4694,209,577,585
+Manipur,Intimate partner violence,None,1.9,77.0,-0.8,-27.6,-0.0,True,False,0.0339,0.6,0.4145,0.3272,586,0.3754,338,597,600
+Delhi,Sexual violence against children and bullying,None,2.6,511.0,-0.9,-25.1,-0.3,True,False,0.0589,0.5895,0.3887,0.3271,587,0.1632,576,497,583
+Other Union Territories,Sexual violence against children and bullying,None,4.7,201.0,-1.3,-20.4,-0.7,False,False,0.1177,0.5468,0.3532,0.3268,588,0.332,395,554,549
+Kerala,Sexual violence against children and bullying,None,3.7,1600.0,-1.2,-24.3,-0.6,True,False,0.0919,0.5589,0.3677,0.3243,589,0.2356,510,422,564
+Nagaland,Intimate partner violence,None,0.6,10.0,-0.7,-56.6,0.1,True,False,0.0056,0.6161,0.421,0.3231,590,0.0218,618,619,618
+West Bengal,Sexual violence against children and bullying,None,4.2,4580.0,-1.3,-23.8,-0.7,False,False,0.1,0.5468,0.3532,0.3197,591,0.2698,473,314,560
+Jammu & Kashmir and Ladakh,Low physical activity,None,4.9,545.0,-1.0,-17.9,-2.0,False,False,0.1274,0.5758,0.2621,0.318,592,0.0303,616,488,541
+Madhya Pradesh,Intimate partner violence,None,1.8,1800.0,-0.9,-33.4,-0.1,True,False,0.0298,0.5847,0.3976,0.316,593,0.3195,408,407,603
+Delhi,Low physical activity,None,7.7,957.0,-1.9,-20.5,-2.9,False,False,0.2065,0.5024,0.2242,0.3145,594,0.0733,607,452,493
+Odisha,Drug use,None,2.3,1160.0,-1.7,-43.8,0.2,True,False,0.05,0.5234,0.4355,0.3121,595,0.1686,569,440,590
+Maharashtra,Intimate partner violence,None,1.3,1860.0,-0.9,-40.3,-0.1,True,False,0.0194,0.5847,0.3976,0.3118,596,0.2177,527,404,609
+Mizoram,Intimate partner violence,None,0.9,12.0,-0.9,-52.9,-0.1,True,False,0.0145,0.5871,0.4,0.3113,597,0.0794,605,618,612
+West Bengal,Intimate partner violence,None,2.0,2290.0,-1.1,-34.7,-0.3,True,False,0.0363,0.5677,0.3871,0.31,598,0.3277,399,380,599
+Telangana,Intimate partner violence,None,4.7,2010.0,-1.9,-28.8,-1.1,False,False,0.1177,0.5024,0.3323,0.306,599,0.6262,81,396,550
+Tamil Nadu,Drug use,None,2.2,2130.0,-1.8,-46.2,0.1,True,False,0.0427,0.5089,0.4242,0.3012,600,0.1423,586,389,596
+Uttar Pradesh,Drug use,None,2.6,5420.0,-2.0,-43.8,-0.1,True,False,0.0589,0.4952,0.4097,0.2993,601,0.1819,558,298,586
+Karnataka,Intimate partner violence,None,2.2,1710.0,-1.4,-37.5,-0.6,True,False,0.0427,0.5355,0.3645,0.2956,602,0.3239,404,410,595
+Uttar Pradesh,High alcohol use,None,8.4,17000.0,-6.7,-44.4,-1.2,False,False,0.225,0.3556,0.3169,0.2937,603,0.1843,554,172,482
+Andhra Pradesh,Sexual violence against children and bullying,None,6.0,3430.0,-2.6,-30.9,-2.0,False,False,0.1589,0.4613,0.2645,0.2911,604,0.3073,428,338,522
+Nagaland,Sexual violence against children and bullying,None,2.6,41.0,-1.7,-39.6,-1.1,True,False,0.0589,0.5258,0.3339,0.291,605,0.0235,617,606,584
+Karnataka,Drug use,None,4.7,3400.0,-2.8,-36.5,-0.9,False,False,0.1177,0.4548,0.3387,0.291,606,0.3416,383,340,546
+Mizoram,Sexual violence against children and bullying,None,3.3,40.0,-1.8,-35.3,-1.2,False,False,0.0831,0.5089,0.3169,0.2906,607,0.1061,603,608,569
+Tamil Nadu,Unsafe sex,None,8.4,8320.0,-6.8,-44.7,-1.3,False,False,0.225,0.3532,0.3048,0.2898,608,0.2654,476,248,481
+Mizoram,Low bone mineral density,None,5.0,46.0,-2.3,-31.3,-1.7,False,False,0.1323,0.4758,0.2758,0.2884,609,0.041,615,604,539
+Mizoram,Drug use,None,6.6,84.0,-3.8,-37.0,-1.9,False,False,0.1815,0.4218,0.2669,0.2869,610,0.4215,272,594,508
+Maharashtra,High alcohol use,None,7.5,10400.0,-6.7,-47.1,-1.2,False,False,0.2008,0.3556,0.3169,0.284,611,0.1283,598,225,496
+Tamil Nadu,Sexual violence against children and bullying,None,6.4,5890.0,-3.1,-32.7,-2.5,False,False,0.1742,0.4395,0.2355,0.2824,612,0.3135,416,292,513
+Jharkhand,Drug use,None,2.5,860.0,-2.4,-47.9,-0.5,True,False,0.0548,0.4694,0.3758,0.2802,613,0.1402,589,460,587
+Andhra Pradesh,Intimate partner violence,None,2.7,1650.0,-2.0,-42.0,-1.2,True,False,0.0637,0.4927,0.3113,0.2758,614,0.3343,389,418,581
+Andhra Pradesh,Drug use,None,5.2,3080.0,-4.3,-44.8,-2.4,False,False,0.1387,0.4129,0.2387,0.2597,615,0.2884,445,348,535
+Assam,Drug use,None,3.0,997.0,-3.8,-56.6,-1.9,False,False,0.0734,0.4242,0.2694,0.2452,616,0.0833,604,448,575
+Tamil Nadu,Intimate partner violence,None,2.3,2090.0,-3.0,-57.0,-2.2,False,False,0.05,0.4435,0.2532,0.2385,617,0.1767,561,391,592
+Maharashtra,Drug use,None,3.4,4700.0,-5.0,-59.9,-3.1,False,False,0.0863,0.3952,0.221,0.2281,618,0.0711,609,312,567
+Karnataka,Unsafe sex,None,9.4,6730.0,-15.3,-62.0,-9.8,False,False,0.2508,0.2435,0.1339,0.219,619,0.1879,549,272,465
+Maharashtra,Unsafe sex,None,6.3,8800.0,-15.7,-71.5,-10.2,False,False,0.1694,0.2379,0.1323,0.1841,620,0.0701,610,241,516

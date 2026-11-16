@@ -1,0 +1,4 @@
+family,scenarios,kendall_median,kendall_p05,kendall_min
+Weights,1005,0.8111,0.6766,0.5427
+Uncertainty,1002,0.7109,0.6881,0.6627
+Selection,22,0.9894,0.985,0.755

@@ -1,0 +1,49 @@
+units,config,risk_set,family,family_desc,scaling,n_units,p_raw,pca,p_final,var_explained
+all31,core-F1-z,core,F1,Level: log ASR 2023,z,31,20,False,20,1.0
+all31,core-F1-robust,core,F1,Level: log ASR 2023,robust,31,20,False,20,1.0
+all31,core-F2-z,core,F2,Shape: log ASR 2023 minus state mean log ASR,z,31,20,False,20,1.0
+all31,core-F2-robust,core,F2,Shape: log ASR 2023 minus state mean log ASR,robust,31,20,False,20,1.0
+all31,core-F3-z,core,F3,Change: absolute ASR change 2010-23,z,31,20,False,20,1.0
+all31,core-F3-robust,core,F3,Change: absolute ASR change 2010-23,robust,31,20,False,20,1.0
+all31,core-F4-z,core,F4,Level + change (PCA-reduced),z,31,40,True,6,0.8254
+all31,core-F4-robust,core,F4,Level + change (PCA-reduced),robust,31,40,True,5,0.8061
+all31,detail-F1-z,detail,F1,Level: log ASR 2023,z,31,27,True,4,0.8192
+all31,detail-F1-robust,detail,F1,Level: log ASR 2023,robust,31,27,True,4,0.8224
+all31,detail-F2-z,detail,F2,Shape: log ASR 2023 minus state mean log ASR,z,31,27,True,6,0.8335
+all31,detail-F2-robust,detail,F2,Shape: log ASR 2023 minus state mean log ASR,robust,31,27,True,6,0.8375
+all31,detail-F3-z,detail,F3,Change: absolute ASR change 2010-23,z,31,27,True,4,0.8029
+all31,detail-F3-robust,detail,F3,Change: absolute ASR change 2010-23,robust,31,27,True,4,0.8262
+all31,detail-F4-z,detail,F4,Level + change (PCA-reduced),z,31,54,True,6,0.8376
+all31,detail-F4-robust,detail,F4,Level + change (PCA-reduced),robust,31,54,True,5,0.8028
+all31,policy-F1-z,policy,F1,Level: log ASR 2023,z,31,10,False,10,1.0
+all31,policy-F1-robust,policy,F1,Level: log ASR 2023,robust,31,10,False,10,1.0
+all31,policy-F2-z,policy,F2,Shape: log ASR 2023 minus state mean log ASR,z,31,10,False,10,1.0
+all31,policy-F2-robust,policy,F2,Shape: log ASR 2023 minus state mean log ASR,robust,31,10,False,10,1.0
+all31,policy-F3-z,policy,F3,Change: absolute ASR change 2010-23,z,31,10,False,10,1.0
+all31,policy-F3-robust,policy,F3,Change: absolute ASR change 2010-23,robust,31,10,False,10,1.0
+all31,policy-F4-z,policy,F4,Level + change (PCA-reduced),z,31,20,True,4,0.8199
+all31,policy-F4-robust,policy,F4,Level + change (PCA-reduced),robust,31,20,True,4,0.8449
+no_other_uts30,core-F1-z,core,F1,Level: log ASR 2023,z,30,20,False,20,1.0
+no_other_uts30,core-F1-robust,core,F1,Level: log ASR 2023,robust,30,20,False,20,1.0
+no_other_uts30,core-F2-z,core,F2,Shape: log ASR 2023 minus state mean log ASR,z,30,20,False,20,1.0
+no_other_uts30,core-F2-robust,core,F2,Shape: log ASR 2023 minus state mean log ASR,robust,30,20,False,20,1.0
+no_other_uts30,core-F3-z,core,F3,Change: absolute ASR change 2010-23,z,30,20,False,20,1.0
+no_other_uts30,core-F3-robust,core,F3,Change: absolute ASR change 2010-23,robust,30,20,False,20,1.0
+no_other_uts30,core-F4-z,core,F4,Level + change (PCA-reduced),z,30,40,True,6,0.8268
+no_other_uts30,core-F4-robust,core,F4,Level + change (PCA-reduced),robust,30,40,True,5,0.8027
+no_other_uts30,detail-F1-z,detail,F1,Level: log ASR 2023,z,30,27,True,4,0.818
+no_other_uts30,detail-F1-robust,detail,F1,Level: log ASR 2023,robust,30,27,True,4,0.8197
+no_other_uts30,detail-F2-z,detail,F2,Shape: log ASR 2023 minus state mean log ASR,z,30,27,True,6,0.8311
+no_other_uts30,detail-F2-robust,detail,F2,Shape: log ASR 2023 minus state mean log ASR,robust,30,27,True,6,0.8348
+no_other_uts30,detail-F3-z,detail,F3,Change: absolute ASR change 2010-23,z,30,27,True,4,0.8026
+no_other_uts30,detail-F3-robust,detail,F3,Change: absolute ASR change 2010-23,robust,30,27,True,4,0.8239
+no_other_uts30,detail-F4-z,detail,F4,Level + change (PCA-reduced),z,30,54,True,6,0.8374
+no_other_uts30,detail-F4-robust,detail,F4,Level + change (PCA-reduced),robust,30,54,True,6,0.8443
+no_other_uts30,policy-F1-z,policy,F1,Level: log ASR 2023,z,30,10,False,10,1.0
+no_other_uts30,policy-F1-robust,policy,F1,Level: log ASR 2023,robust,30,10,False,10,1.0
+no_other_uts30,policy-F2-z,policy,F2,Shape: log ASR 2023 minus state mean log ASR,z,30,10,False,10,1.0
+no_other_uts30,policy-F2-robust,policy,F2,Shape: log ASR 2023 minus state mean log ASR,robust,30,10,False,10,1.0
+no_other_uts30,policy-F3-z,policy,F3,Change: absolute ASR change 2010-23,z,30,10,False,10,1.0
+no_other_uts30,policy-F3-robust,policy,F3,Change: absolute ASR change 2010-23,robust,30,10,False,10,1.0
+no_other_uts30,policy-F4-z,policy,F4,Level + change (PCA-reduced),z,30,20,True,4,0.8183
+no_other_uts30,policy-F4-robust,policy,F4,Level + change (PCA-reduced),robust,30,20,True,4,0.8353

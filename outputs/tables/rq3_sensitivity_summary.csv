@@ -1,0 +1,13 @@
+N,family,Robust,Moderate,Fragile
+10,Weights,8,1,1
+10,Uncertainty,1,6,3
+10,Selection,10,0,0
+10,overall,1,6,3
+20,Weights,15,4,1
+20,Uncertainty,3,13,4
+20,Selection,20,0,0
+20,overall,3,13,4
+30,Weights,21,6,3
+30,Uncertainty,7,14,9
+30,Selection,30,0,0
+30,overall,7,14,9

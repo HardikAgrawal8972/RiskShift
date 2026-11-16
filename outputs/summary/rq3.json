@@ -1,0 +1,426 @@
+{
+  "sensitivity_summary": [
+    {
+      "N": 10,
+      "family": "Weights",
+      "Robust": 8,
+      "Moderate": 1,
+      "Fragile": 1
+    },
+    {
+      "N": 10,
+      "family": "Uncertainty",
+      "Robust": 1,
+      "Moderate": 6,
+      "Fragile": 3
+    },
+    {
+      "N": 10,
+      "family": "Selection",
+      "Robust": 10,
+      "Moderate": 0,
+      "Fragile": 0
+    },
+    {
+      "N": 10,
+      "family": "overall",
+      "Robust": 1,
+      "Moderate": 6,
+      "Fragile": 3
+    },
+    {
+      "N": 20,
+      "family": "Weights",
+      "Robust": 15,
+      "Moderate": 4,
+      "Fragile": 1
+    },
+    {
+      "N": 20,
+      "family": "Uncertainty",
+      "Robust": 3,
+      "Moderate": 13,
+      "Fragile": 4
+    },
+    {
+      "N": 20,
+      "family": "Selection",
+      "Robust": 20,
+      "Moderate": 0,
+      "Fragile": 0
+    },
+    {
+      "N": 20,
+      "family": "overall",
+      "Robust": 3,
+      "Moderate": 13,
+      "Fragile": 4
+    },
+    {
+      "N": 30,
+      "family": "Weights",
+      "Robust": 21,
+      "Moderate": 6,
+      "Fragile": 3
+    },
+    {
+      "N": 30,
+      "family": "Uncertainty",
+      "Robust": 7,
+      "Moderate": 14,
+      "Fragile": 9
+    },
+    {
+      "N": 30,
+      "family": "Selection",
+      "Robust": 30,
+      "Moderate": 0,
+      "Fragile": 0
+    },
+    {
+      "N": 30,
+      "family": "overall",
+      "Robust": 7,
+      "Moderate": 14,
+      "Fragile": 9
+    }
+  ],
+  "kendall": [
+    {
+      "family": "Weights",
+      "scenarios": 1005,
+      "kendall_median": 0.811089686799729,
+      "kendall_p05": 0.6766251498254208,
+      "kendall_min": 0.5427067590807233,
+      "kendall_by_scenario": NaN
+    },
+    {
+      "family": "Uncertainty",
+      "scenarios": 1002,
+      "kendall_median": 0.7108864453593204,
+      "kendall_p05": 0.6881260096930534,
+      "kendall_min": 0.6626921673875658,
+      "kendall_by_scenario": NaN
+    },
+    {
+      "family": "Selection",
+      "scenarios": 22,
+      "kendall_median": 0.9894090063869352,
+      "kendall_p05": 0.984956053728792,
+      "kendall_min": 0.755006284038542,
+      "kendall_by_scenario": {
+        "drop_Unsafe water, sanitation, and handwashing": 0.99,
+        "drop_Air pollution": 0.992,
+        "drop_Non-optimal temperature": 0.993,
+        "drop_Other environmental risks": 0.99,
+        "drop_Occupational risks": 0.989,
+        "drop_Child and maternal malnutrition": 0.988,
+        "drop_Tobacco": 0.99,
+        "drop_High alcohol use": 0.988,
+        "drop_Drug use": 0.985,
+        "drop_Dietary risks": 0.991,
+        "drop_Intimate partner violence": 0.985,
+        "drop_Sexual violence against children and bullying": 0.986,
+        "drop_Unsafe sex": 0.988,
+        "drop_Low physical activity": 0.99,
+        "drop_High fasting plasma glucose": 0.989,
+        "drop_High LDL cholesterol": 0.989,
+        "drop_High systolic blood pressure": 0.992,
+        "drop_High body-mass index": 0.986,
+        "drop_Low bone mineral density": 0.99,
+        "drop_Kidney dysfunction": 0.99,
+        "policy_salient_set": 0.755,
+        "without_other_uts": 0.997
+      }
+    }
+  ],
+  "tier_flips": [
+    {
+      "perturbation": "divergence threshold 5 pp",
+      "share_flipped": 0.09032258064516129,
+      "n_flipped": 56
+    },
+    {
+      "perturbation": "divergence threshold 15 pp",
+      "share_flipped": 0.06129032258064516,
+      "n_flipped": 38
+    },
+    {
+      "perturbation": "point change at lo bound",
+      "share_flipped": 0.30806451612903224,
+      "n_flipped": 191
+    },
+    {
+      "perturbation": "point change at hi bound",
+      "share_flipped": 0.4129032258064516,
+      "n_flipped": 256
+    },
+    {
+      "perturbation": "Monte Carlo (mean share of draws)",
+      "share_flipped": 0.24278225806451614,
+      "n_flipped": 45
+    },
+    {
+      "perturbation": "Monte Carlo, watchlist pairs only (mean share)",
+      "share_flipped": 0.2915873015873016,
+      "n_flipped": 29
+    },
+    {
+      "perturbation": "Monte Carlo, base tier = Clear worsening (mean share)",
+      "share_flipped": 0.0,
+      "n_flipped": 0
+    },
+    {
+      "perturbation": "Monte Carlo, base tier = Possible worsening (mean share)",
+      "share_flipped": 0.25972222222222224,
+      "n_flipped": 1
+    },
+    {
+      "perturbation": "Monte Carlo, base tier = Adverse divergence (mean share)",
+      "share_flipped": 0.5385074626865672,
+      "n_flipped": 28
+    }
+  ],
+  "top20": [
+    {
+      "location": "Assam",
+      "risk": "Dietary risks",
+      "base_rank": 20,
+      "Weights_label": "Fragile",
+      "Uncertainty_label": "Fragile",
+      "Selection_label": "Robust",
+      "overall_label": "Fragile",
+      "Weights_freq_top20": 0.09054726368159204,
+      "Uncertainty_freq_top20": 0.3153692614770459,
+      "Selection_freq_top20": 1.0
+    },
+    {
+      "location": "Assam",
+      "risk": "High systolic blood pressure",
+      "base_rank": 14,
+      "Weights_label": "Moderate",
+      "Uncertainty_label": "Moderate",
+      "Selection_label": "Robust",
+      "overall_label": "Moderate",
+      "Weights_freq_top20": 0.7233830845771144,
+      "Uncertainty_freq_top20": 0.5,
+      "Selection_freq_top20": 1.0
+    },
+    {
+      "location": "Bihar",
+      "risk": "Air pollution",
+      "base_rank": 1,
+      "Weights_label": "Robust",
+      "Uncertainty_label": "Robust",
+      "Selection_label": "Robust",
+      "overall_label": "Robust",
+      "Weights_freq_top20": 1.0,
+      "Uncertainty_freq_top20": 0.8283433133732535,
+      "Selection_freq_top20": 1.0
+    },
+    {
+      "location": "Bihar",
+      "risk": "Other environmental risks",
+      "base_rank": 17,
+      "Weights_label": "Robust",
+      "Uncertainty_label": "Moderate",
+      "Selection_label": "Robust",
+      "overall_label": "Moderate",
+      "Weights_freq_top20": 0.8079601990049752,
+      "Uncertainty_freq_top20": 0.5508982035928144,
+      "Selection_freq_top20": 1.0
+    },
+    {
+      "location": "Bihar",
+      "risk": "Dietary risks",
+      "base_rank": 5,
+      "Weights_label": "Robust",
+      "Uncertainty_label": "Robust",
+      "Selection_label": "Robust",
+      "overall_label": "Robust",
+      "Weights_freq_top20": 0.9950248756218906,
+      "Uncertainty_freq_top20": 0.8203592814371258,
+      "Selection_freq_top20": 1.0
+    },
+    {
+      "location": "Bihar",
+      "risk": "High systolic blood pressure",
+      "base_rank": 3,
+      "Weights_label": "Robust",
+      "Uncertainty_label": "Robust",
+      "Selection_label": "Robust",
+      "overall_label": "Robust",
+      "Weights_freq_top20": 0.9990049751243781,
+      "Uncertainty_freq_top20": 0.9271457085828343,
+      "Selection_freq_top20": 1.0
+    },
+    {
+      "location": "Chhattisgarh",
+      "risk": "Air pollution",
+      "base_rank": 4,
+      "Weights_label": "Robust",
+      "Uncertainty_label": "Moderate",
+      "Selection_label": "Robust",
+      "overall_label": "Moderate",
+      "Weights_freq_top20": 0.9492537313432836,
+      "Uncertainty_freq_top20": 0.6387225548902196,
+      "Selection_freq_top20": 1.0
+    },
+    {
+      "location": "Chhattisgarh",
+      "risk": "Dietary risks",
+      "base_rank": 7,
+      "Weights_label": "Robust",
+      "Uncertainty_label": "Moderate",
+      "Selection_label": "Robust",
+      "overall_label": "Moderate",
+      "Weights_freq_top20": 0.9970149253731343,
+      "Uncertainty_freq_top20": 0.689620758483034,
+      "Selection_freq_top20": 1.0
+    },
+    {
+      "location": "Chhattisgarh",
+      "risk": "High systolic blood pressure",
+      "base_rank": 2,
+      "Weights_label": "Robust",
+      "Uncertainty_label": "Moderate",
+      "Selection_label": "Robust",
+      "overall_label": "Moderate",
+      "Weights_freq_top20": 1.0,
+      "Uncertainty_freq_top20": 0.780439121756487,
+      "Selection_freq_top20": 1.0
+    },
+    {
+      "location": "Haryana",
+      "risk": "High fasting plasma glucose",
+      "base_rank": 16,
+      "Weights_label": "Moderate",
+      "Uncertainty_label": "Fragile",
+      "Selection_label": "Robust",
+      "overall_label": "Fragile",
+      "Weights_freq_top20": 0.7472636815920398,
+      "Uncertainty_freq_top20": 0.4930139720558882,
+      "Selection_freq_top20": 1.0
+    },
+    {
+      "location": "Haryana",
+      "risk": "High systolic blood pressure",
+      "base_rank": 10,
+      "Weights_label": "Robust",
+      "Uncertainty_label": "Moderate",
+      "Selection_label": "Robust",
+      "overall_label": "Moderate",
+      "Weights_freq_top20": 0.9920398009950249,
+      "Uncertainty_freq_top20": 0.6686626746506986,
+      "Selection_freq_top20": 1.0
+    },
+    {
+      "location": "Jharkhand",
+      "risk": "High systolic blood pressure",
+      "base_rank": 11,
+      "Weights_label": "Robust",
+      "Uncertainty_label": "Moderate",
+      "Selection_label": "Robust",
+      "overall_label": "Moderate",
+      "Weights_freq_top20": 0.9532338308457712,
+      "Uncertainty_freq_top20": 0.6027944111776448,
+      "Selection_freq_top20": 1.0
+    },
+    {
+      "location": "Karnataka",
+      "risk": "Other environmental risks",
+      "base_rank": 18,
+      "Weights_label": "Moderate",
+      "Uncertainty_label": "Fragile",
+      "Selection_label": "Robust",
+      "overall_label": "Fragile",
+      "Weights_freq_top20": 0.7800995024875622,
+      "Uncertainty_freq_top20": 0.43812375249500995,
+      "Selection_freq_top20": 1.0
+    },
+    {
+      "location": "Karnataka",
+      "risk": "Dietary risks",
+      "base_rank": 12,
+      "Weights_label": "Robust",
+      "Uncertainty_label": "Moderate",
+      "Selection_label": "Robust",
+      "overall_label": "Moderate",
+      "Weights_freq_top20": 0.972139303482587,
+      "Uncertainty_freq_top20": 0.5179640718562875,
+      "Selection_freq_top20": 1.0
+    },
+    {
+      "location": "Karnataka",
+      "risk": "High systolic blood pressure",
+      "base_rank": 6,
+      "Weights_label": "Robust",
+      "Uncertainty_label": "Moderate",
+      "Selection_label": "Robust",
+      "overall_label": "Moderate",
+      "Weights_freq_top20": 0.9940298507462687,
+      "Uncertainty_freq_top20": 0.6576846307385229,
+      "Selection_freq_top20": 1.0
+    },
+    {
+      "location": "Rajasthan",
+      "risk": "High systolic blood pressure",
+      "base_rank": 19,
+      "Weights_label": "Moderate",
+      "Uncertainty_label": "Fragile",
+      "Selection_label": "Robust",
+      "overall_label": "Fragile",
+      "Weights_freq_top20": 0.6149253731343284,
+      "Uncertainty_freq_top20": 0.344311377245509,
+      "Selection_freq_top20": 1.0
+    },
+    {
+      "location": "Uttar Pradesh",
+      "risk": "Air pollution",
+      "base_rank": 8,
+      "Weights_label": "Robust",
+      "Uncertainty_label": "Moderate",
+      "Selection_label": "Robust",
+      "overall_label": "Moderate",
+      "Weights_freq_top20": 0.8865671641791045,
+      "Uncertainty_freq_top20": 0.627744510978044,
+      "Selection_freq_top20": 1.0
+    },
+    {
+      "location": "Uttar Pradesh",
+      "risk": "Dietary risks",
+      "base_rank": 15,
+      "Weights_label": "Robust",
+      "Uncertainty_label": "Moderate",
+      "Selection_label": "Robust",
+      "overall_label": "Moderate",
+      "Weights_freq_top20": 0.9691542288557214,
+      "Uncertainty_freq_top20": 0.5129740518962076,
+      "Selection_freq_top20": 1.0
+    },
+    {
+      "location": "Uttar Pradesh",
+      "risk": "High fasting plasma glucose",
+      "base_rank": 13,
+      "Weights_label": "Robust",
+      "Uncertainty_label": "Moderate",
+      "Selection_label": "Robust",
+      "overall_label": "Moderate",
+      "Weights_freq_top20": 0.9621890547263682,
+      "Uncertainty_freq_top20": 0.7934131736526946,
+      "Selection_freq_top20": 1.0
+    },
+    {
+      "location": "Uttar Pradesh",
+      "risk": "High systolic blood pressure",
+      "base_rank": 9,
+      "Weights_label": "Robust",
+      "Uncertainty_label": "Moderate",
+      "Selection_label": "Robust",
+      "overall_label": "Moderate",
+      "Weights_freq_top20": 0.9940298507462687,
+      "Uncertainty_freq_top20": 0.7924151696606786,
+      "Selection_freq_top20": 1.0
+    }
+  ]
+}

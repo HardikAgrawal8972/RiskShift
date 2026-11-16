@@ -1,0 +1,838 @@
+location,zone,is_aggregate,risk,tier,asr_1990_mean,asr_2010_mean,asr_2023_mean,abs_2010_23,pct_2010_23_mean,pct_2010_23_lo,pct_2010_23_hi,india_pct_2010_23,divergence_pct,small_base,recent_reversal,tier_div5,tier_div15,reason
+Chhattisgarh,Central,False,Ambient particulate matter pollution,Clear worsening,52.5,76.8,151.6,74.8,97.3,58.6,135.7,52.5,44.8,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 76.8 -> 151.6 per 100k (+97.3%, UI +58.6 to +135.7; +74.8 absolute); India +52.5%"
+Uttar Pradesh,Central,False,Ambient particulate matter pollution,Clear worsening,59.2,72.7,118.7,46.0,63.4,33.1,104.8,52.5,10.9,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 72.7 -> 118.7 per 100k (+63.4%, UI +33.1 to +104.8; +46.0 absolute); India +52.5%"
+Telangana,Southern,False,Ambient particulate matter pollution,Clear worsening,62.3,107.0,151.5,44.5,41.6,12.6,74.8,52.5,-10.9,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 107 -> 151.5 per 100k (+41.6%, UI +12.6 to +74.8; +44.5 absolute); India +52.5%"
+Haryana,Northern,False,Ambient particulate matter pollution,Clear worsening,62.5,78.6,121.7,43.1,54.9,24.0,89.1,52.5,2.4,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 78.6 -> 121.7 per 100k (+54.9%, UI +24.0 to +89.1; +43.1 absolute); India +52.5%"
+Karnataka,Southern,False,Ambient particulate matter pollution,Clear worsening,32.8,45.9,88.7,42.8,93.3,52.1,146.9,52.5,40.8,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 45.9 -> 88.7 per 100k (+93.3%, UI +52.1 to +146.9; +42.8 absolute); India +52.5%"
+Uttarakhand,Central,False,Ambient particulate matter pollution,Clear worsening,75.2,111.9,152.3,40.4,36.1,12.0,65.6,52.5,-16.4,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 111.9 -> 152.3 per 100k (+36.1%, UI +12.0 to +65.6; +40.4 absolute); India +52.5%"
+Bihar,Eastern,False,Ambient particulate matter pollution,Clear worsening,38.3,39.3,77.4,38.1,96.9,52.8,138.3,52.5,44.4,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 39.3 -> 77.4 per 100k (+96.9%, UI +52.8 to +138.3; +38.1 absolute); India +52.5%"
+Punjab,Northern,False,Ambient particulate matter pollution,Clear worsening,53.3,69.2,105.0,35.8,51.7,30.5,82.1,52.5,-0.8,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 69.2 -> 105 per 100k (+51.7%, UI +30.5 to +82.1; +35.8 absolute); India +52.5%"
+Jharkhand,Eastern,False,Ambient particulate matter pollution,Clear worsening,42.7,45.1,80.5,35.4,78.6,42.3,120.9,52.5,26.1,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 45.1 -> 80.5 per 100k (+78.6%, UI +42.3 to +120.9; +35.4 absolute); India +52.5%"
+Maharashtra,Western,False,Ambient particulate matter pollution,Clear worsening,41.8,56.5,88.5,32.0,56.6,29.6,93.1,52.5,4.1,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 56.5 -> 88.5 per 100k (+56.6%, UI +29.6 to +93.1; +32.0 absolute); India +52.5%"
+Goa,Western,False,Ambient particulate matter pollution,Clear worsening,46.0,67.5,98.6,31.1,46.1,13.4,104.8,52.5,-6.4,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 67.5 -> 98.6 per 100k (+46.1%, UI +13.4 to +104.8; +31.1 absolute); India +52.5%"
+Bihar,Eastern,False,Lead exposure,Clear worsening,52.0,58.9,89.7,30.8,52.2,23.1,85.3,-8.3,60.5,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 58.9 -> 89.7 per 100k (+52.2%, UI +23.1 to +85.3; +30.8 absolute); India -8.3%"
+Tripura,North-Eastern,False,Ambient particulate matter pollution,Clear worsening,62.6,73.5,104.2,30.7,41.8,16.1,69.9,52.5,-10.7,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 73.5 -> 104.2 per 100k (+41.8%, UI +16.1 to +69.9; +30.7 absolute); India +52.5%"
+Odisha,Eastern,False,Ambient particulate matter pollution,Clear worsening,23.3,27.9,56.7,28.8,103.0,67.6,149.5,52.5,50.5,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 27.9 -> 56.7 per 100k (+103.0%, UI +67.6 to +149.5; +28.8 absolute); India +52.5%"
+Gujarat,Western,False,Ambient particulate matter pollution,Clear worsening,62.1,67.2,96.0,28.8,42.7,17.0,70.8,52.5,-9.8,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 67.2 -> 96 per 100k (+42.7%, UI +17.0 to +70.8; +28.8 absolute); India +52.5%"
+West Bengal,Eastern,False,Ambient particulate matter pollution,Clear worsening,57.3,52.4,81.0,28.6,54.6,26.7,92.9,52.5,2.1,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 52.4 -> 81 per 100k (+54.6%, UI +26.7 to +92.9; +28.6 absolute); India +52.5%"
+Rajasthan,Northern,False,Ambient particulate matter pollution,Clear worsening,61.2,62.1,90.0,27.9,44.8,17.5,71.5,52.5,-7.7,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 62.1 -> 90 per 100k (+44.8%, UI +17.5 to +71.5; +27.9 absolute); India +52.5%"
+Kerala,Southern,False,Ambient particulate matter pollution,Clear worsening,21.2,25.1,52.6,27.5,109.6,72.3,157.4,52.5,57.1,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 25.1 -> 52.6 per 100k (+109.6%, UI +72.3 to +157.4; +27.5 absolute); India +52.5%"
+Madhya Pradesh,Central,False,Ambient particulate matter pollution,Clear worsening,49.7,55.3,81.6,26.3,47.6,23.2,76.8,52.5,-4.9,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 55.3 -> 81.6 per 100k (+47.6%, UI +23.2 to +76.8; +26.3 absolute); India +52.5%"
+Andhra Pradesh,Southern,False,Ambient particulate matter pollution,Clear worsening,44.7,58.4,81.7,23.3,39.9,13.3,66.5,52.5,-12.6,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 58.4 -> 81.7 per 100k (+39.9%, UI +13.3 to +66.5; +23.3 absolute); India +52.5%"
+Other Union Territories,Aggregate UTs,True,Ambient particulate matter pollution,Clear worsening,44.9,52.4,74.9,22.5,43.0,13.9,80.1,52.5,-9.5,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 52.4 -> 74.9 per 100k (+43.0%, UI +13.9 to +80.1; +22.5 absolute); India +52.5%"
+Assam,North-Eastern,False,Ambient particulate matter pollution,Clear worsening,34.9,39.7,60.8,21.1,53.3,21.4,85.7,52.5,0.8,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 39.7 -> 60.8 per 100k (+53.3%, UI +21.4 to +85.7; +21.1 absolute); India +52.5%"
+Chhattisgarh,Central,False,Lead exposure,Clear worsening,56.2,67.9,87.0,19.1,28.2,1.1,65.4,-8.3,36.5,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 67.9 -> 87 per 100k (+28.2%, UI +1.1 to +65.4; +19.1 absolute); India -8.3%"
+Karnataka,Southern,False,Lead exposure,Clear worsening,80.1,83.2,101.5,18.3,22.0,3.4,46.8,-8.3,30.3,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 83.2 -> 101.5 per 100k (+22.0%, UI +3.4 to +46.8; +18.3 absolute); India -8.3%"
+Manipur,North-Eastern,False,Ambient particulate matter pollution,Clear worsening,25.4,30.7,47.1,16.4,53.3,21.9,90.1,52.5,0.8,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 30.7 -> 47.1 per 100k (+53.3%, UI +21.9 to +90.1; +16.4 absolute); India +52.5%"
+Sikkim,North-Eastern,False,Ambient particulate matter pollution,Clear worsening,30.3,44.1,59.8,15.7,35.7,7.7,72.5,52.5,-16.8,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 44.1 -> 59.8 per 100k (+35.7%, UI +7.7 to +72.5; +15.7 absolute); India +52.5%"
+Meghalaya,North-Eastern,False,Ambient particulate matter pollution,Clear worsening,19.7,20.2,33.4,13.2,65.1,24.7,114.4,52.5,12.6,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 20.2 -> 33.4 per 100k (+65.1%, UI +24.7 to +114.4; +13.2 absolute); India +52.5%"
+Karnataka,Southern,False,Ambient ozone pollution,Clear worsening,7.9,11.4,24.3,12.9,112.4,50.8,205.0,34.8,77.6,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 11.4 -> 24.3 per 100k (+112.4%, UI +50.8 to +205.0; +12.9 absolute); India +34.8%"
+Uttar Pradesh,Central,False,Diet low in fruits,Clear worsening,34.4,37.7,49.9,12.2,32.5,6.7,59.0,-0.8,33.3,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 37.7 -> 49.9 per 100k (+32.5%, UI +6.7 to +59.0; +12.2 absolute); India -0.8%"
+Jharkhand,Eastern,False,Chewing tobacco,Clear worsening,19.3,18.4,30.5,12.1,66.0,12.5,144.0,6.1,59.9,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 18.4 -> 30.5 per 100k (+66.0%, UI +12.5 to +144.0; +12.1 absolute); India +6.1%"
+Bihar,Eastern,False,Diet low in fruits,Clear worsening,38.1,34.8,46.3,11.5,33.3,7.4,77.0,-0.8,34.1,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 34.8 -> 46.3 per 100k (+33.3%, UI +7.4 to +77.0; +11.5 absolute); India -0.8%"
+Maharashtra,Western,False,Ambient ozone pollution,Clear worsening,10.1,12.5,23.7,11.2,89.5,38.5,166.3,34.8,54.7,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 12.5 -> 23.7 per 100k (+89.5%, UI +38.5 to +166.3; +11.2 absolute); India +34.8%"
+Tamil Nadu,Southern,False,Ambient ozone pollution,Clear worsening,2.3,3.9,15.1,11.2,291.3,173.3,511.8,34.8,256.5,True,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 3.9 -> 15.1 per 100k (+291.3%, UI +173.3 to +511.8; +11.2 absolute); India +34.8% [small base: 2010 ASR < 5]"
+Andhra Pradesh,Southern,False,Ambient ozone pollution,Clear worsening,6.9,10.7,21.7,11.0,102.3,33.0,211.0,34.8,67.5,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 10.7 -> 21.7 per 100k (+102.3%, UI +33.0 to +211.0; +11.0 absolute); India +34.8%"
+Uttar Pradesh,Central,False,Chewing tobacco,Clear worsening,11.9,13.5,24.1,10.6,79.2,3.0,194.1,6.1,73.1,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 13.5 -> 24.1 per 100k (+79.2%, UI +3.0 to +194.1; +10.6 absolute); India +6.1%"
+Odisha,Eastern,False,Ambient ozone pollution,Clear worsening,3.4,7.1,17.1,10.0,141.3,69.5,274.5,34.8,106.5,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 7.1 -> 17.1 per 100k (+141.3%, UI +69.5 to +274.5; +10.0 absolute); India +34.8%"
+Chhattisgarh,Central,False,Ambient ozone pollution,Clear worsening,14.0,19.5,29.0,9.5,49.0,4.5,126.1,34.8,14.2,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 19.5 -> 29 per 100k (+49.0%, UI +4.5 to +126.1; +9.5 absolute); India +34.8%"
+Nagaland,North-Eastern,False,Ambient particulate matter pollution,Clear worsening,21.5,21.8,31.2,9.4,43.2,10.1,80.9,52.5,-9.3,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 21.8 -> 31.2 per 100k (+43.2%, UI +10.1 to +80.9; +9.4 absolute); India +52.5%"
+Bihar,Eastern,False,Diet low in vegetables,Clear worsening,18.3,17.8,25.1,7.3,41.1,1.7,97.1,-3.3,44.4,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 17.8 -> 25.1 per 100k (+41.1%, UI +1.7 to +97.1; +7.3 absolute); India -3.3%"
+Kerala,Southern,False,Ambient ozone pollution,Clear worsening,2.7,4.4,11.4,7.0,159.5,77.8,274.5,34.8,124.7,True,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 4.4 -> 11.4 per 100k (+159.5%, UI +77.8 to +274.5; +7.0 absolute); India +34.8% [small base: 2010 ASR < 5]"
+Rajasthan,Northern,False,Lead exposure,Clear worsening,26.7,23.8,30.7,6.9,28.9,0.4,61.4,-8.3,37.2,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 23.8 -> 30.7 per 100k (+28.9%, UI +0.4 to +61.4; +6.9 absolute); India -8.3%"
+Bihar,Eastern,False,Diet low in nuts and seeds,Clear worsening,19.4,19.2,25.4,6.2,32.0,1.5,65.9,-18.5,50.5,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 19.2 -> 25.4 per 100k (+32.0%, UI +1.5 to +65.9; +6.2 absolute); India -18.5%"
+Arunachal Pradesh,North-Eastern,False,Ambient particulate matter pollution,Clear worsening,15.0,15.1,20.8,5.7,37.9,7.3,72.3,52.5,-14.6,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 15.1 -> 20.8 per 100k (+37.9%, UI +7.3 to +72.3; +5.7 absolute); India +52.5%"
+Bihar,Eastern,False,Diet low in omega-6 polyunsaturated fatty acids,Clear worsening,12.0,11.3,16.0,4.7,41.5,8.2,71.8,-14.1,55.6,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 11.3 -> 16 per 100k (+41.5%, UI +8.2 to +71.8; +4.7 absolute); India -14.1%"
+Goa,Western,False,Ambient ozone pollution,Clear worsening,4.0,5.1,8.2,3.1,62.5,9.2,150.6,34.8,27.7,False,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 5.1 -> 8.2 per 100k (+62.5%, UI +9.2 to +150.6; +3.1 absolute); India +34.8%"
+Uttar Pradesh,Central,False,Diet high in processed meat,Clear worsening,0.6,0.9,2.1,1.2,123.9,30.2,292.2,50.1,73.8,True,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 0.9 -> 2.1 per 100k (+123.9%, UI +30.2 to +292.2; +1.2 absolute); India +50.1% [small base: 2010 ASR < 5]"
+Assam,North-Eastern,False,Diet high in processed meat,Clear worsening,0.8,1.0,1.8,0.8,74.4,15.7,174.8,50.1,24.3,True,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 1 -> 1.8 per 100k (+74.4%, UI +15.7 to +174.8; +0.8 absolute); India +50.1% [small base: 2010 ASR < 5]"
+Haryana,Northern,False,Diet high in processed meat,Clear worsening,0.7,0.9,1.7,0.8,80.6,14.5,212.0,50.1,30.5,True,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 0.9 -> 1.7 per 100k (+80.6%, UI +14.5 to +212.0; +0.8 absolute); India +50.1% [small base: 2010 ASR < 5]"
+Bihar,Eastern,False,Diet high in processed meat,Clear worsening,0.7,0.9,1.6,0.7,68.8,18.4,147.4,50.1,18.7,True,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 0.9 -> 1.6 per 100k (+68.8%, UI +18.4 to +147.4; +0.7 absolute); India +50.1% [small base: 2010 ASR < 5]"
+Chhattisgarh,Central,False,Diet high in processed meat,Clear worsening,0.9,1.3,2.0,0.7,58.7,3.4,132.9,50.1,8.6,True,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 1.3 -> 2 per 100k (+58.7%, UI +3.4 to +132.9; +0.7 absolute); India +50.1% [small base: 2010 ASR < 5]"
+Odisha,Eastern,False,Diet high in processed meat,Clear worsening,0.6,1.0,1.7,0.7,81.9,7.8,210.7,50.1,31.8,True,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 1 -> 1.7 per 100k (+81.9%, UI +7.8 to +210.7; +0.7 absolute); India +50.1% [small base: 2010 ASR < 5]"
+Manipur,North-Eastern,False,Diet high in processed meat,Clear worsening,0.8,1.0,1.4,0.4,45.9,1.0,104.9,50.1,-4.2,True,False,Clear worsening,Clear worsening,"Rose, interval wholly above zero: ASR 1 -> 1.4 per 100k (+45.9%, UI +1.0 to +104.9; +0.4 absolute); India +50.1% [small base: 2010 ASR < 5]"
+Tamil Nadu,Southern,False,Ambient particulate matter pollution,Possible worsening,33.7,57.3,69.1,11.8,20.7,-1.7,47.2,52.5,-31.8,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 57.3 -> 69.1 per 100k (+20.7%, UI -1.7 to +47.2; +11.8 absolute); India +52.5%"
+Mizoram,North-Eastern,False,Ambient particulate matter pollution,Possible worsening,31.1,42.8,53.3,10.5,24.6,-1.7,54.5,52.5,-27.9,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 42.8 -> 53.3 per 100k (+24.6%, UI -1.7 to +54.5; +10.5 absolute); India +52.5%"
+Assam,North-Eastern,False,Lead exposure,Possible worsening,43.1,40.3,49.3,9.0,22.3,-4.6,53.0,-8.3,30.6,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 40.3 -> 49.3 per 100k (+22.3%, UI -4.6 to +53.0; +9.0 absolute); India -8.3%"
+Himachal Pradesh,Northern,False,Ambient particulate matter pollution,Possible worsening,30.2,35.4,44.1,8.7,24.5,-0.2,50.2,52.5,-28.0,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 35.4 -> 44.1 per 100k (+24.5%, UI -0.2 to +50.2; +8.7 absolute); India +52.5%"
+Karnataka,Southern,False,Diet low in fruits,Possible worsening,59.1,52.5,60.5,8.0,15.3,-1.4,45.7,-0.8,16.1,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 52.5 -> 60.5 per 100k (+15.3%, UI -1.4 to +45.7; +8.0 absolute); India -0.8%"
+Jammu & Kashmir and Ladakh,Northern,False,Ambient particulate matter pollution,Possible worsening,34.3,43.0,50.7,7.7,18.0,-3.9,48.5,52.5,-34.5,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 43 -> 50.7 per 100k (+18.0%, UI -3.9 to +48.5; +7.7 absolute); India +52.5%"
+Telangana,Southern,False,Ambient ozone pollution,Possible worsening,13.3,20.6,28.3,7.7,37.3,-7.6,105.6,34.8,2.5,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 20.6 -> 28.3 per 100k (+37.3%, UI -7.6 to +105.6; +7.7 absolute); India +34.8%"
+Uttar Pradesh,Central,False,Ambient ozone pollution,Possible worsening,21.9,29.8,37.2,7.4,24.7,-7.8,73.9,34.8,-10.1,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 29.8 -> 37.2 per 100k (+24.7%, UI -7.8 to +73.9; +7.4 absolute); India +34.8%"
+Chhattisgarh,Central,False,Diet low in fruits,Possible worsening,47.6,49.2,56.6,7.4,15.0,-11.8,50.8,-0.8,15.8,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 49.2 -> 56.6 per 100k (+15.0%, UI -11.8 to +50.8; +7.4 absolute); India -0.8%"
+Bihar,Eastern,False,Ambient ozone pollution,Possible worsening,19.3,23.9,31.0,7.1,29.4,-3.9,86.6,34.8,-5.4,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 23.9 -> 31 per 100k (+29.4%, UI -3.9 to +86.6; +7.1 absolute); India +34.8%"
+Uttarakhand,Central,False,Ambient ozone pollution,Possible worsening,32.4,39.9,45.6,5.7,14.4,-17.0,56.1,34.8,-20.4,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 39.9 -> 45.6 per 100k (+14.4%, UI -17.0 to +56.1; +5.7 absolute); India +34.8%"
+Bihar,Eastern,False,Diet low in whole grains,Possible worsening,12.9,13.7,19.1,5.4,38.7,-17.8,125.1,-5.9,44.6,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 13.7 -> 19.1 per 100k (+38.7%, UI -17.8 to +125.1; +5.4 absolute); India -5.9%"
+Rajasthan,Northern,False,Diet low in fruits,Possible worsening,30.0,24.4,29.2,4.8,19.9,-6.8,52.8,-0.8,20.7,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 24.4 -> 29.2 per 100k (+19.9%, UI -6.8 to +52.8; +4.8 absolute); India -0.8% [recent reversal vs 1990-2023 direction]"
+Bihar,Eastern,False,Diet high in sodium,Possible worsening,13.4,12.4,17.0,4.6,36.6,-77.4,538.8,-5.0,41.6,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 12.4 -> 17 per 100k (+36.6%, UI -77.4 to +538.8; +4.6 absolute); India -5.0%"
+Uttar Pradesh,Central,False,Lead exposure,Possible worsening,39.6,45.8,50.3,4.5,9.8,-21.1,43.9,-8.3,18.1,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 45.8 -> 50.3 per 100k (+9.8%, UI -21.1 to +43.9; +4.5 absolute); India -8.3%"
+Chhattisgarh,Central,False,Diet low in whole grains,Possible worsening,14.3,16.4,20.7,4.3,26.1,-26.1,119.0,-5.9,32.0,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 16.4 -> 20.7 per 100k (+26.1%, UI -26.1 to +119.0; +4.3 absolute); India -5.9%"
+Odisha,Eastern,False,Diet low in fruits,Possible worsening,29.5,35.6,39.9,4.3,11.9,-7.4,35.8,-0.8,12.7,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 35.6 -> 39.9 per 100k (+11.9%, UI -7.4 to +35.8; +4.3 absolute); India -0.8%"
+Madhya Pradesh,Central,False,Ambient ozone pollution,Possible worsening,15.2,18.9,22.8,3.9,20.2,-11.4,69.0,34.8,-14.6,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 18.9 -> 22.8 per 100k (+20.2%, UI -11.4 to +69.0; +3.9 absolute); India +34.8%"
+Bihar,Eastern,False,Diet high in trans fatty acids,Possible worsening,12.2,10.2,14.1,3.9,37.8,-7.0,113.5,-14.3,52.1,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 10.2 -> 14.1 per 100k (+37.8%, UI -7.0 to +113.5; +3.9 absolute); India -14.3%"
+Chhattisgarh,Central,False,Diet low in vegetables,Possible worsening,21.1,20.0,23.7,3.7,18.6,-19.2,78.2,-3.3,21.9,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 20 -> 23.7 per 100k (+18.6%, UI -19.2 to +78.2; +3.7 absolute); India -3.3%"
+Chhattisgarh,Central,False,Diet low in omega-6 polyunsaturated fatty acids,Possible worsening,11.9,12.7,16.3,3.6,28.3,-5.0,65.1,-14.1,42.4,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 12.7 -> 16.3 per 100k (+28.3%, UI -5.0 to +65.1; +3.6 absolute); India -14.1%"
+Bihar,Eastern,False,Low temperature,Possible worsening,18.0,17.4,20.8,3.4,19.8,-2.5,46.9,-12.8,32.6,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 17.4 -> 20.8 per 100k (+19.8%, UI -2.5 to +46.9; +3.4 absolute); India -12.8%"
+Chhattisgarh,Central,False,Diet high in trans fatty acids,Possible worsening,12.3,11.5,14.8,3.3,27.9,-14.9,96.8,-14.3,42.2,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 11.5 -> 14.8 per 100k (+27.9%, UI -14.9 to +96.8; +3.3 absolute); India -14.3%"
+Uttar Pradesh,Central,False,Diet low in vegetables,Possible worsening,15.5,16.1,19.4,3.3,20.6,-11.0,55.4,-3.3,23.9,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 16.1 -> 19.4 per 100k (+20.6%, UI -11.0 to +55.4; +3.3 absolute); India -3.3%"
+Chhattisgarh,Central,False,Diet high in sodium,Possible worsening,18.7,19.4,22.6,3.2,16.7,-78.4,602.7,-5.0,21.7,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 19.4 -> 22.6 per 100k (+16.7%, UI -78.4 to +602.7; +3.2 absolute); India -5.0%"
+Haryana,Northern,False,Ambient ozone pollution,Possible worsening,14.8,19.4,22.6,3.2,16.3,-20.5,60.5,34.8,-18.5,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 19.4 -> 22.6 per 100k (+16.3%, UI -20.5 to +60.5; +3.2 absolute); India +34.8%"
+Bihar,Eastern,False,Diet low in seafood omega-3 fatty acids,Possible worsening,17.8,14.9,18.1,3.2,21.9,-12.0,64.1,-29.5,51.4,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 14.9 -> 18.1 per 100k (+21.9%, UI -12.0 to +64.1; +3.2 absolute); India -29.5%"
+Mizoram,North-Eastern,False,Ambient ozone pollution,Possible worsening,9.2,11.1,14.3,3.2,28.5,-11.2,91.3,34.8,-6.3,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 11.1 -> 14.3 per 100k (+28.5%, UI -11.2 to +91.3; +3.2 absolute); India +34.8%"
+Karnataka,Southern,False,Diet low in vegetables,Possible worsening,23.0,19.1,22.3,3.2,17.1,-9.9,54.3,-3.3,20.4,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 19.1 -> 22.3 per 100k (+17.1%, UI -9.9 to +54.3; +3.2 absolute); India -3.3% [recent reversal vs 1990-2023 direction]"
+Rajasthan,Northern,False,Ambient ozone pollution,Possible worsening,20.8,25.4,28.5,3.1,12.3,-13.7,45.3,34.8,-22.5,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 25.4 -> 28.5 per 100k (+12.3%, UI -13.7 to +45.3; +3.1 absolute); India +34.8%"
+Jharkhand,Eastern,False,Ambient ozone pollution,Possible worsening,14.7,19.6,22.7,3.1,15.4,-24.4,79.5,34.8,-19.4,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 19.6 -> 22.7 per 100k (+15.4%, UI -24.4 to +79.5; +3.1 absolute); India +34.8%"
+Chhattisgarh,Central,False,Diet low in nuts and seeds,Possible worsening,18.8,19.7,22.6,2.9,14.9,-27.1,61.2,-18.5,33.4,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 19.7 -> 22.6 per 100k (+14.9%, UI -27.1 to +61.2; +2.9 absolute); India -18.5%"
+Gujarat,Western,False,Ambient ozone pollution,Possible worsening,10.6,15.5,18.4,2.9,18.5,-15.0,73.2,34.8,-16.3,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 15.5 -> 18.4 per 100k (+18.5%, UI -15.0 to +73.2; +2.9 absolute); India +34.8%"
+Tripura,North-Eastern,False,Lead exposure,Possible worsening,62.9,55.7,58.6,2.9,5.2,-15.2,32.6,-8.3,13.5,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 55.7 -> 58.6 per 100k (+5.2%, UI -15.2 to +32.6; +2.9 absolute); India -8.3% [recent reversal vs 1990-2023 direction]"
+Assam,North-Eastern,False,Chewing tobacco,Possible worsening,37.8,30.4,33.2,2.8,9.2,-26.3,65.7,6.1,3.1,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 30.4 -> 33.2 per 100k (+9.2%, UI -26.3 to +65.7; +2.8 absolute); India +6.1% [recent reversal vs 1990-2023 direction]"
+Jharkhand,Eastern,False,Diet low in vegetables,Possible worsening,17.3,14.2,17.0,2.8,20.2,-15.3,67.4,-3.3,23.5,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 14.2 -> 17 per 100k (+20.2%, UI -15.3 to +67.4; +2.8 absolute); India -3.3% [recent reversal vs 1990-2023 direction]"
+Assam,North-Eastern,False,Ambient ozone pollution,Possible worsening,8.6,12.1,14.8,2.7,22.6,-14.4,80.9,34.8,-12.2,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 12.1 -> 14.8 per 100k (+22.6%, UI -14.4 to +80.9; +2.7 absolute); India +34.8%"
+Assam,North-Eastern,False,Diet low in whole grains,Possible worsening,11.1,10.6,13.3,2.7,26.0,-31.2,117.0,-5.9,31.9,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 10.6 -> 13.3 per 100k (+26.0%, UI -31.2 to +117.0; +2.7 absolute); India -5.9%"
+Tripura,North-Eastern,False,Ambient ozone pollution,Possible worsening,9.0,13.1,15.8,2.7,20.4,-12.1,78.5,34.8,-14.4,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 13.1 -> 15.8 per 100k (+20.4%, UI -12.1 to +78.5; +2.7 absolute); India +34.8%"
+Uttar Pradesh,Central,False,Diet high in sodium,Possible worsening,10.2,10.9,13.6,2.7,25.0,-77.0,463.1,-5.0,30.0,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 10.9 -> 13.6 per 100k (+25.0%, UI -77.0 to +463.1; +2.7 absolute); India -5.0%"
+Jharkhand,Eastern,False,Diet low in fruits,Possible worsening,37.6,32.8,35.4,2.6,8.2,-15.2,42.5,-0.8,9.0,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 32.8 -> 35.4 per 100k (+8.2%, UI -15.2 to +42.5; +2.6 absolute); India -0.8% [recent reversal vs 1990-2023 direction]"
+Karnataka,Southern,False,Diet low in omega-6 polyunsaturated fatty acids,Possible worsening,19.3,17.5,19.8,2.3,13.3,-8.6,35.0,-14.1,27.4,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 17.5 -> 19.8 per 100k (+13.3%, UI -8.6 to +35.0; +2.3 absolute); India -14.1%"
+Rajasthan,Northern,False,Diet low in whole grains,Possible worsening,10.6,9.2,11.5,2.3,24.9,-28.1,102.0,-5.9,30.8,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 9.2 -> 11.5 per 100k (+24.9%, UI -28.1 to +102.0; +2.3 absolute); India -5.9%"
+Assam,North-Eastern,False,Diet low in fruits,Possible worsening,43.9,35.9,38.1,2.2,5.9,-16.9,38.2,-0.8,6.7,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 35.9 -> 38.1 per 100k (+5.9%, UI -16.9 to +38.2; +2.2 absolute); India -0.8% [recent reversal vs 1990-2023 direction]"
+Rajasthan,Northern,False,Diet low in vegetables,Possible worsening,15.4,11.5,13.7,2.2,19.4,-17.5,66.3,-3.3,22.7,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 11.5 -> 13.7 per 100k (+19.4%, UI -17.5 to +66.3; +2.2 absolute); India -3.3% [recent reversal vs 1990-2023 direction]"
+Rajasthan,Northern,False,Diet high in sodium,Possible worsening,10.8,8.5,10.7,2.2,25.2,-71.7,619.0,-5.0,30.2,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 8.5 -> 10.7 per 100k (+25.2%, UI -71.7 to +619.0; +2.2 absolute); India -5.0% [recent reversal vs 1990-2023 direction]"
+Meghalaya,North-Eastern,False,Lead exposure,Possible worsening,25.0,28.2,30.3,2.1,7.6,-17.8,39.6,-8.3,15.9,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 28.2 -> 30.3 per 100k (+7.6%, UI -17.8 to +39.6; +2.1 absolute); India -8.3%"
+Assam,North-Eastern,False,Diet low in nuts and seeds,Possible worsening,13.3,11.1,13.1,2.0,17.6,-20.0,64.9,-18.5,36.1,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 11.1 -> 13.1 per 100k (+17.6%, UI -20.0 to +64.9; +2.0 absolute); India -18.5% [recent reversal vs 1990-2023 direction]"
+Karnataka,Southern,False,Diet low in whole grains,Possible worsening,9.2,9.1,11.1,2.0,22.3,-43.5,138.8,-5.9,28.2,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 9.1 -> 11.1 per 100k (+22.3%, UI -43.5 to +138.8; +2.0 absolute); India -5.9%"
+Rajasthan,Northern,False,Diet low in omega-6 polyunsaturated fatty acids,Possible worsening,9.6,7.6,9.6,2.0,25.6,-2.7,62.5,-14.1,39.7,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 7.6 -> 9.6 per 100k (+25.6%, UI -2.7 to +62.5; +2.0 absolute); India -14.1%"
+Karnataka,Southern,False,Diet high in trans fatty acids,Possible worsening,20.2,16.2,18.1,1.9,11.6,-23.6,60.4,-14.3,25.9,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 16.2 -> 18.1 per 100k (+11.6%, UI -23.6 to +60.4; +1.9 absolute); India -14.3% [recent reversal vs 1990-2023 direction]"
+Jharkhand,Eastern,False,Diet high in sodium,Possible worsening,13.9,12.1,14.0,1.9,16.2,-77.6,542.8,-5.0,21.2,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 12.1 -> 14 per 100k (+16.2%, UI -77.6 to +542.8; +1.9 absolute); India -5.0%"
+Rajasthan,Northern,False,Diet high in trans fatty acids,Possible worsening,10.0,7.1,9.0,1.9,26.7,-17.1,91.0,-14.3,41.0,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 7.1 -> 9 per 100k (+26.7%, UI -17.1 to +91.0; +1.9 absolute); India -14.3% [recent reversal vs 1990-2023 direction]"
+Karnataka,Southern,False,Diet high in sodium,Possible worsening,18.6,16.4,18.2,1.8,10.9,-78.4,448.3,-5.0,15.9,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 16.4 -> 18.2 per 100k (+10.9%, UI -78.4 to +448.3; +1.8 absolute); India -5.0% [recent reversal vs 1990-2023 direction]"
+Uttar Pradesh,Central,False,Low temperature,Possible worsening,20.9,23.3,25.1,1.8,7.8,-10.8,34.2,-12.8,20.6,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 23.3 -> 25.1 per 100k (+7.8%, UI -10.8 to +34.2; +1.8 absolute); India -12.8%"
+Odisha,Eastern,False,Lead exposure,Possible worsening,24.6,33.9,35.6,1.7,4.7,-16.0,30.6,-8.3,13.0,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 33.9 -> 35.6 per 100k (+4.7%, UI -16.0 to +30.6; +1.7 absolute); India -8.3%"
+Assam,North-Eastern,False,Diet low in omega-6 polyunsaturated fatty acids,Possible worsening,8.2,6.9,8.6,1.7,24.6,-8.9,66.6,-14.1,38.7,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 6.9 -> 8.6 per 100k (+24.6%, UI -8.9 to +66.6; +1.7 absolute); India -14.1%"
+Uttar Pradesh,Central,False,Diet low in whole grains,Possible worsening,14.3,15.3,17.0,1.7,10.9,-30.8,58.1,-5.9,16.8,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 15.3 -> 17 per 100k (+10.9%, UI -30.8 to +58.1; +1.7 absolute); India -5.9%"
+Assam,North-Eastern,False,Diet high in trans fatty acids,Possible worsening,8.6,6.3,7.9,1.6,25.1,-19.1,96.2,-14.3,39.4,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 6.3 -> 7.9 per 100k (+25.1%, UI -19.1 to +96.2; +1.6 absolute); India -14.3% [recent reversal vs 1990-2023 direction]"
+Bihar,Eastern,False,Diet low in legumes,Possible worsening,5.7,5.2,6.8,1.6,29.9,-15.0,94.9,-16.9,46.8,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 5.2 -> 6.8 per 100k (+29.9%, UI -15.0 to +94.9; +1.6 absolute); India -16.9%"
+Jammu & Kashmir and Ladakh,Northern,False,Ambient ozone pollution,Possible worsening,23.4,21.3,22.8,1.5,6.7,-21.1,49.5,34.8,-28.1,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 21.3 -> 22.8 per 100k (+6.7%, UI -21.1 to +49.5; +1.5 absolute); India +34.8% [recent reversal vs 1990-2023 direction]"
+Manipur,North-Eastern,False,Lead exposure,Possible worsening,41.2,41.7,43.2,1.5,3.8,-17.9,29.7,-8.3,12.1,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 41.7 -> 43.2 per 100k (+3.8%, UI -17.9 to +29.7; +1.5 absolute); India -8.3%"
+Rajasthan,Northern,False,Diet low in nuts and seeds,Possible worsening,15.5,12.0,13.5,1.5,12.5,-25.1,54.1,-18.5,31.0,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 12 -> 13.5 per 100k (+12.5%, UI -25.1 to +54.1; +1.5 absolute); India -18.5% [recent reversal vs 1990-2023 direction]"
+Meghalaya,North-Eastern,False,Ambient ozone pollution,Possible worsening,4.6,7.2,8.7,1.5,20.5,-23.8,70.9,34.8,-14.3,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 7.2 -> 8.7 per 100k (+20.5%, UI -23.8 to +70.9; +1.5 absolute); India +34.8%"
+Kerala,Southern,False,Chewing tobacco,Possible worsening,11.7,8.3,9.7,1.4,16.5,-32.2,101.9,6.1,10.4,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 8.3 -> 9.7 per 100k (+16.5%, UI -32.2 to +101.9; +1.4 absolute); India +6.1% [recent reversal vs 1990-2023 direction]"
+Arunachal Pradesh,North-Eastern,False,Lead exposure,Possible worsening,23.8,26.4,27.7,1.3,4.8,-21.8,34.2,-8.3,13.1,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 26.4 -> 27.7 per 100k (+4.8%, UI -21.8 to +34.2; +1.3 absolute); India -8.3%"
+Meghalaya,North-Eastern,False,Diet low in vegetables,Possible worsening,12.5,11.1,12.4,1.3,11.4,-22.9,55.1,-3.3,14.7,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 11.1 -> 12.4 per 100k (+11.4%, UI -22.9 to +55.1; +1.3 absolute); India -3.3% [recent reversal vs 1990-2023 direction]"
+Odisha,Eastern,False,"Occupational particulate matter, gases, and fumes",Possible worsening,2.3,2.9,4.2,1.3,46.6,-1.2,122.2,-14.6,61.2,True,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 2.9 -> 4.2 per 100k (+46.6%, UI -1.2 to +122.2; +1.3 absolute); India -14.6% [small base: 2010 ASR < 5]"
+Maharashtra,Western,False,"Occupational particulate matter, gases, and fumes",Possible worsening,7.4,6.0,7.3,1.3,21.1,-13.3,72.9,-14.6,35.7,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 6 -> 7.3 per 100k (+21.1%, UI -13.3 to +72.9; +1.3 absolute); India -14.6% [recent reversal vs 1990-2023 direction]"
+Manipur,North-Eastern,False,Ambient ozone pollution,Possible worsening,4.6,5.4,6.7,1.3,24.5,-20.1,82.4,34.8,-10.3,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 5.4 -> 6.7 per 100k (+24.5%, UI -20.1 to +82.4; +1.3 absolute); India +34.8%"
+Haryana,Northern,False,Diet high in sodium,Possible worsening,12.1,11.8,13.1,1.3,10.7,-79.6,291.5,-5.0,15.7,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 11.8 -> 13.1 per 100k (+10.7%, UI -79.6 to +291.5; +1.3 absolute); India -5.0%"
+Tripura,North-Eastern,False,Diet low in whole grains,Possible worsening,15.0,12.7,13.9,1.2,9.5,-35.6,91.4,-5.9,15.4,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 12.7 -> 13.9 per 100k (+9.5%, UI -35.6 to +91.4; +1.2 absolute); India -5.9% [recent reversal vs 1990-2023 direction]"
+Bihar,Eastern,False,Diet low in fiber,Possible worsening,9.9,11.9,13.1,1.2,10.1,-55.6,98.0,-30.8,40.9,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 11.9 -> 13.1 per 100k (+10.1%, UI -55.6 to +98.0; +1.2 absolute); India -30.8%"
+Assam,North-Eastern,False,Diet high in sodium,Possible worsening,17.2,14.0,15.1,1.1,7.5,-81.6,447.6,-5.0,12.5,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 14 -> 15.1 per 100k (+7.5%, UI -81.6 to +447.6; +1.1 absolute); India -5.0% [recent reversal vs 1990-2023 direction]"
+Manipur,North-Eastern,False,Diet low in whole grains,Possible worsening,10.4,10.1,11.2,1.1,11.2,-36.0,102.5,-5.9,17.1,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 10.1 -> 11.2 per 100k (+11.2%, UI -36.0 to +102.5; +1.1 absolute); India -5.9%"
+Assam,North-Eastern,False,Diet low in vegetables,Possible worsening,22.3,16.3,17.3,1.0,6.4,-23.8,47.8,-3.3,9.7,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 16.3 -> 17.3 per 100k (+6.4%, UI -23.8 to +47.8; +1.0 absolute); India -3.3% [recent reversal vs 1990-2023 direction]"
+Chhattisgarh,Central,False,Diet low in legumes,Possible worsening,5.4,5.0,6.0,1.0,18.8,-22.8,87.6,-16.9,35.7,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 5 -> 6 per 100k (+18.8%, UI -22.8 to +87.6; +1.0 absolute); India -16.9%"
+Haryana,Northern,False,Diet low in fruits,Possible worsening,36.3,34.8,35.8,1.0,2.9,-18.7,30.7,-0.8,3.7,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 34.8 -> 35.8 per 100k (+2.9%, UI -18.7 to +30.7; +1.0 absolute); India -0.8% [recent reversal vs 1990-2023 direction]"
+Uttar Pradesh,Central,False,Sexual violence against children,Possible worsening,4.1,5.4,6.4,1.0,20.0,-30.3,82.6,-10.1,30.1,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 5.4 -> 6.4 per 100k (+20.0%, UI -30.3 to +82.6; +1.0 absolute); India -10.1%"
+Rajasthan,Northern,False,Low temperature,Possible worsening,25.9,21.7,22.6,0.9,4.0,-14.5,26.5,-12.8,16.8,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 21.7 -> 22.6 per 100k (+4.0%, UI -14.5 to +26.5; +0.9 absolute); India -12.8% [recent reversal vs 1990-2023 direction]"
+Jharkhand,Eastern,False,Sexual violence against children,Possible worsening,3.6,4.0,4.9,0.9,22.7,-29.3,93.4,-10.1,32.8,True,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 4 -> 4.9 per 100k (+22.7%, UI -29.3 to +93.4; +0.9 absolute); India -10.1% [small base: 2010 ASR < 5]"
+Other Union Territories,Aggregate UTs,True,Ambient ozone pollution,Possible worsening,6.4,7.5,8.4,0.9,12.8,-27.3,65.6,34.8,-22.0,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 7.5 -> 8.4 per 100k (+12.8%, UI -27.3 to +65.6; +0.9 absolute); India +34.8%"
+Tripura,North-Eastern,False,Diet high in trans fatty acids,Possible worsening,13.9,9.5,10.4,0.9,10.0,-25.5,72.3,-14.3,24.3,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 9.5 -> 10.4 per 100k (+10.0%, UI -25.5 to +72.3; +0.9 absolute); India -14.3% [recent reversal vs 1990-2023 direction]"
+Uttarakhand,Central,False,Low temperature,Possible worsening,45.2,41.6,42.5,0.9,2.1,-13.0,19.1,-12.8,14.9,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 41.6 -> 42.5 per 100k (+2.1%, UI -13.0 to +19.1; +0.9 absolute); India -12.8% [recent reversal vs 1990-2023 direction]"
+Nagaland,North-Eastern,False,Lead exposure,Possible worsening,37.7,35.8,36.6,0.8,2.5,-23.0,30.2,-8.3,10.8,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 35.8 -> 36.6 per 100k (+2.5%, UI -23.0 to +30.2; +0.8 absolute); India -8.3% [recent reversal vs 1990-2023 direction]"
+Haryana,Northern,False,Low temperature,Possible worsening,23.6,26.0,26.8,0.8,3.3,-16.3,27.7,-12.8,16.1,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 26 -> 26.8 per 100k (+3.3%, UI -16.3 to +27.7; +0.8 absolute); India -12.8%"
+Karnataka,Southern,False,Diet low in legumes,Possible worsening,11.0,8.2,9.0,0.8,10.2,-26.3,61.6,-16.9,27.1,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 8.2 -> 9 per 100k (+10.2%, UI -26.3 to +61.6; +0.8 absolute); India -16.9% [recent reversal vs 1990-2023 direction]"
+Meghalaya,North-Eastern,False,Diet low in whole grains,Possible worsening,6.8,7.1,7.9,0.8,11.4,-34.1,90.5,-5.9,17.3,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 7.1 -> 7.9 per 100k (+11.4%, UI -34.1 to +90.5; +0.8 absolute); India -5.9%"
+Punjab,Northern,False,Diet low in whole grains,Possible worsening,21.4,22.2,23.0,0.8,3.7,-38.7,77.1,-5.9,9.6,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 22.2 -> 23 per 100k (+3.7%, UI -38.7 to +77.1; +0.8 absolute); India -5.9%"
+Tripura,North-Eastern,False,Diet low in omega-6 polyunsaturated fatty acids,Possible worsening,13.5,10.5,11.3,0.8,7.9,-15.7,42.8,-14.1,22.0,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 10.5 -> 11.3 per 100k (+7.9%, UI -15.7 to +42.8; +0.8 absolute); India -14.1% [recent reversal vs 1990-2023 direction]"
+Haryana,Northern,False,Chewing tobacco,Possible worsening,2.4,2.2,3.0,0.8,32.1,-32.8,149.4,6.1,26.0,True,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 2.2 -> 3 per 100k (+32.1%, UI -32.8 to +149.4; +0.8 absolute); India +6.1% [small base: 2010 ASR < 5]"
+Tamil Nadu,Southern,False,"Occupational particulate matter, gases, and fumes",Possible worsening,5.3,4.5,5.3,0.8,17.9,-23.8,83.3,-14.6,32.5,True,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 4.5 -> 5.3 per 100k (+17.9%, UI -23.8 to +83.3; +0.8 absolute); India -14.6% [small base: 2010 ASR < 5]"
+Odisha,Eastern,False,Diet low in nuts and seeds,Possible worsening,6.7,7.9,8.7,0.8,10.6,-23.1,49.7,-18.5,29.1,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 7.9 -> 8.7 per 100k (+10.6%, UI -23.1 to +49.7; +0.8 absolute); India -18.5%"
+Other Union Territories,Aggregate UTs,True,Diet low in whole grains,Possible worsening,16.8,14.9,15.7,0.8,5.8,-40.1,80.5,-5.9,11.7,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 14.9 -> 15.7 per 100k (+5.8%, UI -40.1 to +80.5; +0.8 absolute); India -5.9% [recent reversal vs 1990-2023 direction]"
+Rajasthan,Northern,False,Diet low in seafood omega-3 fatty acids,Possible worsening,13.8,9.4,10.2,0.8,7.7,-33.0,55.0,-29.5,37.2,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 9.4 -> 10.2 per 100k (+7.7%, UI -33.0 to +55.0; +0.8 absolute); India -29.5% [recent reversal vs 1990-2023 direction]"
+Haryana,Northern,False,Diet low in vegetables,Possible worsening,16.7,13.6,14.3,0.7,5.4,-38.4,44.5,-3.3,8.7,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 13.6 -> 14.3 per 100k (+5.4%, UI -38.4 to +44.5; +0.7 absolute); India -3.3% [recent reversal vs 1990-2023 direction]"
+Kerala,Southern,False,Diet high in processed meat,Possible worsening,1.1,1.4,2.1,0.7,49.9,-16.3,170.6,50.1,-0.2,True,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 1.4 -> 2.1 per 100k (+49.9%, UI -16.3 to +170.6; +0.7 absolute); India +50.1% [small base: 2010 ASR < 5]"
+Jharkhand,Eastern,False,Diet high in processed meat,Possible worsening,0.7,1.0,1.7,0.7,67.2,0.0,176.7,50.1,17.1,True,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 1 -> 1.7 per 100k (+67.2%, UI +0.0 to +176.7; +0.7 absolute); India +50.1% [small base: 2010 ASR < 5]"
+Assam,North-Eastern,False,Diet low in seafood omega-3 fatty acids,Possible worsening,12.2,8.9,9.6,0.7,7.1,-31.2,51.6,-29.5,36.6,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 8.9 -> 9.6 per 100k (+7.1%, UI -31.2 to +51.6; +0.7 absolute); India -29.5% [recent reversal vs 1990-2023 direction]"
+Nagaland,North-Eastern,False,Diet low in whole grains,Possible worsening,9.7,8.8,9.5,0.7,8.3,-33.5,84.9,-5.9,14.2,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 8.8 -> 9.5 per 100k (+8.3%, UI -33.5 to +84.9; +0.7 absolute); India -5.9% [recent reversal vs 1990-2023 direction]"
+Arunachal Pradesh,North-Eastern,False,Diet low in fruits,Possible worsening,22.6,22.2,22.8,0.6,2.5,-21.9,34.8,-0.8,3.3,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 22.2 -> 22.8 per 100k (+2.5%, UI -21.9 to +34.8; +0.6 absolute); India -0.8%"
+Meghalaya,North-Eastern,False,Diet low in omega-6 polyunsaturated fatty acids,Possible worsening,4.8,4.8,5.4,0.6,12.0,-15.7,55.1,-14.1,26.1,True,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 4.8 -> 5.4 per 100k (+12.0%, UI -15.7 to +55.1; +0.6 absolute); India -14.1% [small base: 2010 ASR < 5]"
+Gujarat,Western,False,Diet high in processed meat,Possible worsening,1.1,1.4,2.0,0.6,45.3,-14.0,162.5,50.1,-4.8,True,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 1.4 -> 2 per 100k (+45.3%, UI -14.0 to +162.5; +0.6 absolute); India +50.1% [small base: 2010 ASR < 5]"
+Manipur,North-Eastern,False,Diet high in trans fatty acids,Possible worsening,8.6,6.5,7.1,0.6,9.5,-30.3,69.0,-14.3,23.8,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 6.5 -> 7.1 per 100k (+9.5%, UI -30.3 to +69.0; +0.6 absolute); India -14.3% [recent reversal vs 1990-2023 direction]"
+Meghalaya,North-Eastern,False,Diet high in trans fatty acids,Possible worsening,5.1,4.4,5.0,0.6,13.4,-25.8,74.7,-14.3,27.7,True,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 4.4 -> 5 per 100k (+13.4%, UI -25.8 to +74.7; +0.6 absolute); India -14.3% [small base: 2010 ASR < 5] [recent reversal vs 1990-2023 direction]"
+Arunachal Pradesh,North-Eastern,False,Diet low in whole grains,Possible worsening,6.3,6.8,7.3,0.5,7.4,-37.9,85.2,-5.9,13.3,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 6.8 -> 7.3 per 100k (+7.4%, UI -37.9 to +85.2; +0.5 absolute); India -5.9%"
+Assam,North-Eastern,False,Diet low in legumes,Possible worsening,3.8,2.9,3.4,0.5,18.7,-24.6,88.9,-16.9,35.6,True,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 2.9 -> 3.4 per 100k (+18.7%, UI -24.6 to +88.9; +0.5 absolute); India -16.9% [small base: 2010 ASR < 5] [recent reversal vs 1990-2023 direction]"
+Bihar,Eastern,False,Chewing tobacco,Possible worsening,13.3,10.7,11.2,0.5,4.6,-31.6,55.5,6.1,-1.5,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 10.7 -> 11.2 per 100k (+4.6%, UI -31.6 to +55.5; +0.5 absolute); India +6.1% [recent reversal vs 1990-2023 direction]"
+Chhattisgarh,Central,False,Diet low in seafood omega-3 fatty acids,Possible worsening,15.9,13.6,14.1,0.5,3.1,-40.1,56.9,-29.5,32.6,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 13.6 -> 14.1 per 100k (+3.1%, UI -40.1 to +56.9; +0.5 absolute); India -29.5% [recent reversal vs 1990-2023 direction]"
+Himachal Pradesh,Northern,False,Ambient ozone pollution,Possible worsening,18.3,20.1,20.6,0.5,2.2,-25.2,35.9,34.8,-32.6,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 20.1 -> 20.6 per 100k (+2.2%, UI -25.2 to +35.9; +0.5 absolute); India +34.8%"
+Maharashtra,Western,False,Diet high in processed meat,Possible worsening,0.8,1.0,1.5,0.5,53.5,-5.1,164.3,50.1,3.4,True,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 1 -> 1.5 per 100k (+53.5%, UI -5.1 to +164.3; +0.5 absolute); India +50.1% [small base: 2010 ASR < 5]"
+Manipur,North-Eastern,False,Diet low in nuts and seeds,Possible worsening,13.4,11.6,12.1,0.5,4.4,-26.1,45.3,-18.5,22.9,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 11.6 -> 12.1 per 100k (+4.4%, UI -26.1 to +45.3; +0.5 absolute); India -18.5% [recent reversal vs 1990-2023 direction]"
+Manipur,North-Eastern,False,Diet low in omega-6 polyunsaturated fatty acids,Possible worsening,8.3,7.3,7.8,0.5,8.0,-15.3,42.8,-14.1,22.1,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 7.3 -> 7.8 per 100k (+8.0%, UI -15.3 to +42.8; +0.5 absolute); India -14.1% [recent reversal vs 1990-2023 direction]"
+Odisha,Eastern,False,Diet low in omega-6 polyunsaturated fatty acids,Possible worsening,4.6,5.5,6.0,0.5,7.9,-21.1,43.8,-14.1,22.0,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 5.5 -> 6 per 100k (+7.9%, UI -21.1 to +43.8; +0.5 absolute); India -14.1%"
+Odisha,Eastern,False,Diet high in trans fatty acids,Possible worsening,4.9,5.1,5.6,0.5,9.3,-23.3,72.5,-14.3,23.6,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 5.1 -> 5.6 per 100k (+9.3%, UI -23.3 to +72.5; +0.5 absolute); India -14.3%"
+Rajasthan,Northern,False,Diet low in legumes,Possible worsening,4.5,3.0,3.5,0.5,14.5,-25.4,74.8,-16.9,31.4,True,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 3 -> 3.5 per 100k (+14.5%, UI -25.4 to +74.8; +0.5 absolute); India -16.9% [small base: 2010 ASR < 5] [recent reversal vs 1990-2023 direction]"
+Uttarakhand,Central,False,Diet high in processed meat,Possible worsening,1.1,1.5,2.0,0.5,33.7,-9.5,100.7,50.1,-16.4,True,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 1.5 -> 2 per 100k (+33.7%, UI -9.5 to +100.7; +0.5 absolute); India +50.1% [small base: 2010 ASR < 5]"
+Arunachal Pradesh,North-Eastern,False,Diet low in vegetables,Possible worsening,10.9,9.9,10.3,0.4,3.4,-31.7,45.2,-3.3,6.7,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 9.9 -> 10.3 per 100k (+3.4%, UI -31.7 to +45.2; +0.4 absolute); India -3.3% [recent reversal vs 1990-2023 direction]"
+Arunachal Pradesh,North-Eastern,False,Diet high in trans fatty acids,Possible worsening,5.1,4.5,4.9,0.4,6.9,-30.6,70.2,-14.3,21.2,True,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 4.5 -> 4.9 per 100k (+6.9%, UI -30.6 to +70.2; +0.4 absolute); India -14.3% [small base: 2010 ASR < 5] [recent reversal vs 1990-2023 direction]"
+Nagaland,North-Eastern,False,Diet high in trans fatty acids,Possible worsening,8.3,5.8,6.2,0.4,5.9,-29.4,65.2,-14.3,20.2,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 5.8 -> 6.2 per 100k (+5.9%, UI -29.4 to +65.2; +0.4 absolute); India -14.3% [recent reversal vs 1990-2023 direction]"
+Odisha,Eastern,False,Sexual violence against children,Possible worsening,4.3,5.0,5.4,0.4,8.7,-28.9,65.2,-10.1,18.8,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 5 -> 5.4 per 100k (+8.7%, UI -28.9 to +65.2; +0.4 absolute); India -10.1%"
+Other Union Territories,Aggregate UTs,True,Diet high in trans fatty acids,Possible worsening,18.5,12.9,13.3,0.4,2.8,-29.4,46.2,-14.3,17.1,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 12.9 -> 13.3 per 100k (+2.8%, UI -29.4 to +46.2; +0.4 absolute); India -14.3% [recent reversal vs 1990-2023 direction]"
+Karnataka,Southern,False,Diet high in processed meat,Possible worsening,0.8,0.9,1.3,0.4,37.5,-3.2,97.5,50.1,-12.6,True,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 0.9 -> 1.3 per 100k (+37.5%, UI -3.2 to +97.5; +0.4 absolute); India +50.1% [small base: 2010 ASR < 5]"
+Telangana,Southern,False,Diet high in processed meat,Possible worsening,1.5,2.0,2.4,0.4,21.6,-15.8,76.3,50.1,-28.5,True,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 2 -> 2.4 per 100k (+21.6%, UI -15.8 to +76.3; +0.4 absolute); India +50.1% [small base: 2010 ASR < 5]"
+Assam,North-Eastern,False,Sexual violence against children,Possible worsening,5.2,4.9,5.3,0.4,6.8,-28.5,63.1,-10.1,16.9,True,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 4.9 -> 5.3 per 100k (+6.8%, UI -28.5 to +63.1; +0.4 absolute); India -10.1% [small base: 2010 ASR < 5]"
+Haryana,Northern,False,Sexual violence against children,Possible worsening,4.0,5.2,5.6,0.4,7.7,-33.2,68.5,-10.1,17.8,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 5.2 -> 5.6 per 100k (+7.7%, UI -33.2 to +68.5; +0.4 absolute); India -10.1%"
+Meghalaya,North-Eastern,False,Diet low in fruits,Possible worsening,25.0,24.5,24.9,0.4,1.9,-19.8,31.8,-0.8,2.7,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 24.5 -> 24.9 per 100k (+1.9%, UI -19.8 to +31.8; +0.4 absolute); India -0.8% [recent reversal vs 1990-2023 direction]"
+Odisha,Eastern,False,Diet low in vegetables,Possible worsening,9.6,9.8,10.2,0.4,3.2,-34.5,48.4,-3.3,6.5,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 9.8 -> 10.2 per 100k (+3.2%, UI -34.5 to +48.4; +0.4 absolute); India -3.3%"
+Meghalaya,North-Eastern,False,Diet high in sodium,Possible worsening,9.2,8.6,8.9,0.3,3.7,-80.4,671.2,-5.0,8.7,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 8.6 -> 8.9 per 100k (+3.7%, UI -80.4 to +671.2; +0.3 absolute); India -5.0% [recent reversal vs 1990-2023 direction]"
+Nagaland,North-Eastern,False,Diet low in fruits,Possible worsening,31.1,26.0,26.3,0.3,1.1,-21.2,31.3,-0.8,1.9,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 26 -> 26.3 per 100k (+1.1%, UI -21.2 to +31.3; +0.3 absolute); India -0.8% [recent reversal vs 1990-2023 direction]"
+Nagaland,North-Eastern,False,Diet high in sodium,Possible worsening,12.8,10.6,10.9,0.3,2.6,-78.5,726.0,-5.0,7.6,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 10.6 -> 10.9 per 100k (+2.6%, UI -78.5 to +726.0; +0.3 absolute); India -5.0% [recent reversal vs 1990-2023 direction]"
+Other Union Territories,Aggregate UTs,True,Diet low in omega-6 polyunsaturated fatty acids,Possible worsening,17.8,14.2,14.5,0.3,2.1,-17.8,30.5,-14.1,16.2,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 14.2 -> 14.5 per 100k (+2.1%, UI -17.8 to +30.5; +0.3 absolute); India -14.1% [recent reversal vs 1990-2023 direction]"
+Arunachal Pradesh,North-Eastern,False,Diet high in processed meat,Possible worsening,0.5,0.6,0.9,0.3,37.9,-4.9,99.8,50.1,-12.2,True,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 0.6 -> 0.9 per 100k (+37.9%, UI -4.9 to +99.8; +0.3 absolute); India +50.1% [small base: 2010 ASR < 5]"
+Nagaland,North-Eastern,False,Diet high in processed meat,Possible worsening,0.5,0.6,0.9,0.3,38.7,-0.2,95.2,50.1,-11.4,True,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 0.6 -> 0.9 per 100k (+38.7%, UI -0.2 to +95.2; +0.3 absolute); India +50.1% [small base: 2010 ASR < 5]"
+Punjab,Northern,False,Diet high in processed meat,Possible worsening,1.0,1.3,1.6,0.3,23.9,-17.5,77.6,50.1,-26.2,True,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 1.3 -> 1.6 per 100k (+23.9%, UI -17.5 to +77.6; +0.3 absolute); India +50.1% [small base: 2010 ASR < 5]"
+Rajasthan,Northern,False,Diet high in processed meat,Possible worsening,0.5,0.6,0.9,0.3,53.4,-1.8,133.2,50.1,3.3,True,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 0.6 -> 0.9 per 100k (+53.4%, UI -1.8 to +133.2; +0.3 absolute); India +50.1% [small base: 2010 ASR < 5]"
+Tripura,North-Eastern,False,Diet high in processed meat,Possible worsening,0.7,0.7,1.0,0.3,37.3,-7.5,91.6,50.1,-12.8,True,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 0.7 -> 1 per 100k (+37.3%, UI -7.5 to +91.6; +0.3 absolute); India +50.1% [small base: 2010 ASR < 5]"
+West Bengal,Eastern,False,Diet high in processed meat,Possible worsening,1.0,1.2,1.5,0.3,26.8,-26.0,99.8,50.1,-23.3,True,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 1.2 -> 1.5 per 100k (+26.8%, UI -26.0 to +99.8; +0.3 absolute); India +50.1% [small base: 2010 ASR < 5]"
+Madhya Pradesh,Central,False,Diet high in processed meat,Possible worsening,0.7,0.9,1.2,0.3,29.0,-12.3,84.9,50.1,-21.1,True,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 0.9 -> 1.2 per 100k (+29.0%, UI -12.3 to +84.9; +0.3 absolute); India +50.1% [small base: 2010 ASR < 5]"
+Other Union Territories,Aggregate UTs,True,Diet high in processed meat,Possible worsening,0.8,0.9,1.2,0.3,34.1,-7.7,92.4,50.1,-16.0,True,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 0.9 -> 1.2 per 100k (+34.1%, UI -7.7 to +92.4; +0.3 absolute); India +50.1% [small base: 2010 ASR < 5]"
+Arunachal Pradesh,North-Eastern,False,Diet low in omega-6 polyunsaturated fatty acids,Possible worsening,5.0,5.0,5.3,0.3,6.0,-23.0,44.3,-14.1,20.1,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 5 -> 5.3 per 100k (+6.0%, UI -23.0 to +44.3; +0.3 absolute); India -14.1%"
+Meghalaya,North-Eastern,False,Diet low in nuts and seeds,Possible worsening,7.9,7.4,7.7,0.3,4.2,-32.5,49.4,-18.5,22.7,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 7.4 -> 7.7 per 100k (+4.2%, UI -32.5 to +49.4; +0.3 absolute); India -18.5% [recent reversal vs 1990-2023 direction]"
+Mizoram,North-Eastern,False,Diet low in whole grains,Possible worsening,4.8,4.4,4.7,0.3,7.0,-33.7,80.0,-5.9,12.9,True,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 4.4 -> 4.7 per 100k (+7.0%, UI -33.7 to +80.0; +0.3 absolute); India -5.9% [small base: 2010 ASR < 5] [recent reversal vs 1990-2023 direction]"
+Nagaland,North-Eastern,False,Diet low in omega-6 polyunsaturated fatty acids,Possible worsening,7.9,6.5,6.8,0.3,4.2,-21.9,43.1,-14.1,18.3,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 6.5 -> 6.8 per 100k (+4.2%, UI -21.9 to +43.1; +0.3 absolute); India -14.1% [recent reversal vs 1990-2023 direction]"
+Manipur,North-Eastern,False,Diet low in vegetables,Possible worsening,16.0,13.6,13.8,0.2,1.3,-28.7,42.2,-3.3,4.6,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 13.6 -> 13.8 per 100k (+1.3%, UI -28.7 to +42.2; +0.2 absolute); India -3.3% [recent reversal vs 1990-2023 direction]"
+Punjab,Northern,False,Diet high in sodium,Possible worsening,17.0,15.9,16.1,0.2,1.2,-77.9,520.3,-5.0,6.2,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 15.9 -> 16.1 per 100k (+1.2%, UI -77.9 to +520.3; +0.2 absolute); India -5.0% [recent reversal vs 1990-2023 direction]"
+Mizoram,North-Eastern,False,Diet high in trans fatty acids,Possible worsening,2.7,1.9,2.1,0.2,9.4,-28.5,79.8,-14.3,23.7,True,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 1.9 -> 2.1 per 100k (+9.4%, UI -28.5 to +79.8; +0.2 absolute); India -14.3% [small base: 2010 ASR < 5] [recent reversal vs 1990-2023 direction]"
+Jammu & Kashmir and Ladakh,Northern,False,Diet high in processed meat,Possible worsening,0.6,0.7,0.9,0.2,18.4,-21.0,71.2,50.1,-31.7,True,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 0.7 -> 0.9 per 100k (+18.4%, UI -21.0 to +71.2; +0.2 absolute); India +50.1% [small base: 2010 ASR < 5]"
+Meghalaya,North-Eastern,False,Diet high in processed meat,Possible worsening,0.5,0.7,0.9,0.2,37.6,-6.5,98.0,50.1,-12.5,True,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 0.7 -> 0.9 per 100k (+37.6%, UI -6.5 to +98.0; +0.2 absolute); India +50.1% [small base: 2010 ASR < 5]"
+Mizoram,North-Eastern,False,Diet high in processed meat,Possible worsening,0.5,0.6,0.8,0.2,37.5,-4.6,100.1,50.1,-12.6,True,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 0.6 -> 0.8 per 100k (+37.5%, UI -4.6 to +100.1; +0.2 absolute); India +50.1% [small base: 2010 ASR < 5]"
+Goa,Western,False,Diet high in processed meat,Possible worsening,1.0,1.2,1.4,0.2,20.5,-16.4,79.1,50.1,-29.6,True,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 1.2 -> 1.4 per 100k (+20.5%, UI -16.4 to +79.1; +0.2 absolute); India +50.1% [small base: 2010 ASR < 5]"
+Tamil Nadu,Southern,False,Diet high in processed meat,Possible worsening,0.9,1.2,1.4,0.2,16.7,-22.2,82.4,50.1,-33.4,True,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 1.2 -> 1.4 per 100k (+16.7%, UI -22.2 to +82.4; +0.2 absolute); India +50.1% [small base: 2010 ASR < 5]"
+Mizoram,North-Eastern,False,Diet low in omega-6 polyunsaturated fatty acids,Possible worsening,2.5,2.1,2.3,0.2,6.6,-25.5,56.1,-14.1,20.7,True,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 2.1 -> 2.3 per 100k (+6.6%, UI -25.5 to +56.1; +0.2 absolute); India -14.1% [small base: 2010 ASR < 5] [recent reversal vs 1990-2023 direction]"
+Arunachal Pradesh,North-Eastern,False,Diet high in sodium,Possible worsening,9.2,8.9,9.1,0.2,3.0,-79.4,615.7,-5.0,8.0,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 8.9 -> 9.1 per 100k (+3.0%, UI -79.4 to +615.7; +0.2 absolute); India -5.0% [recent reversal vs 1990-2023 direction]"
+Bihar,Eastern,False,Secondhand smoke,Possible worsening,38.3,31.2,31.4,0.2,0.5,-20.0,24.0,-19.6,20.1,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 31.2 -> 31.4 per 100k (+0.5%, UI -20.0 to +24.0; +0.2 absolute); India -19.6% [recent reversal vs 1990-2023 direction]"
+Tamil Nadu,Southern,False,Chewing tobacco,Possible worsening,11.7,9.3,9.5,0.2,2.3,-47.9,84.1,6.1,-3.8,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 9.3 -> 9.5 per 100k (+2.3%, UI -47.9 to +84.1; +0.2 absolute); India +6.1% [recent reversal vs 1990-2023 direction]"
+Manipur,North-Eastern,False,Diet low in fruits,Possible worsening,36.8,33.5,33.6,0.1,0.3,-21.6,27.7,-0.8,1.1,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 33.5 -> 33.6 per 100k (+0.3%, UI -21.6 to +27.7; +0.1 absolute); India -0.8% [recent reversal vs 1990-2023 direction]"
+Punjab,Northern,False,Ambient ozone pollution,Possible worsening,7.8,8.2,8.3,0.1,2.1,-31.4,44.8,34.8,-32.7,False,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 8.2 -> 8.3 per 100k (+2.1%, UI -31.4 to +44.8; +0.1 absolute); India +34.8%"
+Punjab,Northern,False,Diet low in omega-6 polyunsaturated fatty acids,Possible worsening,22.8,21.0,21.1,0.1,0.4,-15.0,20.1,-14.1,14.5,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 21 -> 21.1 per 100k (+0.4%, UI -15.0 to +20.1; +0.1 absolute); India -14.1% [recent reversal vs 1990-2023 direction]"
+Tripura,North-Eastern,False,Diet low in nuts and seeds,Possible worsening,22.0,16.0,16.1,0.1,0.2,-34.0,38.1,-18.5,18.7,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 16 -> 16.1 per 100k (+0.2%, UI -34.0 to +38.1; +0.1 absolute); India -18.5% [recent reversal vs 1990-2023 direction]"
+Tripura,North-Eastern,False,Diet low in legumes,Possible worsening,6.5,4.1,4.2,0.1,2.3,-31.8,59.7,-16.9,19.2,True,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 4.1 -> 4.2 per 100k (+2.3%, UI -31.8 to +59.7; +0.1 absolute); India -16.9% [small base: 2010 ASR < 5] [recent reversal vs 1990-2023 direction]"
+Andhra Pradesh,Southern,False,Diet high in processed meat,Possible worsening,1.0,1.2,1.3,0.1,16.0,-17.4,74.3,50.1,-34.1,True,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 1.2 -> 1.3 per 100k (+16.0%, UI -17.4 to +74.3; +0.1 absolute); India +50.1% [small base: 2010 ASR < 5]"
+Manipur,North-Eastern,False,Diet low in legumes,Possible worsening,3.9,3.0,3.1,0.1,4.7,-29.7,67.8,-16.9,21.6,True,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 3 -> 3.1 per 100k (+4.7%, UI -29.7 to +67.8; +0.1 absolute); India -16.9% [small base: 2010 ASR < 5] [recent reversal vs 1990-2023 direction]"
+Meghalaya,North-Eastern,False,Diet low in legumes,Possible worsening,2.3,1.9,2.0,0.1,6.6,-29.1,77.0,-16.9,23.5,True,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 1.9 -> 2 per 100k (+6.6%, UI -29.1 to +77.0; +0.1 absolute); India -16.9% [small base: 2010 ASR < 5] [recent reversal vs 1990-2023 direction]"
+Nagaland,North-Eastern,False,Ambient ozone pollution,Possible worsening,3.0,3.8,3.9,0.1,5.1,-35.1,50.9,34.8,-29.7,True,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 3.8 -> 3.9 per 100k (+5.1%, UI -35.1 to +50.9; +0.1 absolute); India +34.8% [small base: 2010 ASR < 5]"
+Odisha,Eastern,False,Diet low in legumes,Possible worsening,2.3,2.5,2.6,0.1,3.8,-26.0,50.8,-16.9,20.7,True,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 2.5 -> 2.6 per 100k (+3.8%, UI -26.0 to +50.8; +0.1 absolute); India -16.9% [small base: 2010 ASR < 5]"
+Sikkim,North-Eastern,False,Diet high in processed meat,Possible worsening,0.5,0.7,0.8,0.1,13.4,-20.4,61.2,50.1,-36.7,True,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 0.7 -> 0.8 per 100k (+13.4%, UI -20.4 to +61.2; +0.1 absolute); India +50.1% [small base: 2010 ASR < 5]"
+Himachal Pradesh,Northern,False,Diet high in processed meat,Possible worsening,0.6,0.6,0.7,0.1,16.8,-16.8,65.8,50.1,-33.3,True,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 0.6 -> 0.7 per 100k (+16.8%, UI -16.8 to +65.8; +0.1 absolute); India +50.1% [small base: 2010 ASR < 5]"
+Manipur,North-Eastern,False,Diet high in sodium,Possible worsening,12.5,11.3,11.4,0.1,1.2,-77.2,629.8,-5.0,6.2,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 11.3 -> 11.4 per 100k (+1.2%, UI -77.2 to +629.8; +0.1 absolute); India -5.0% [recent reversal vs 1990-2023 direction]"
+Odisha,Eastern,False,Diet low in whole grains,Possible worsening,2.2,2.7,2.8,0.1,1.5,-57.1,113.4,-5.9,7.4,True,False,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 2.7 -> 2.8 per 100k (+1.5%, UI -57.1 to +113.4; +0.1 absolute); India -5.9% [small base: 2010 ASR < 5]"
+Other Union Territories,Aggregate UTs,True,Diet high in sodium,Possible worsening,15.6,12.5,12.6,0.1,0.7,-78.8,641.4,-5.0,5.7,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 12.5 -> 12.6 per 100k (+0.7%, UI -78.8 to +641.4; +0.1 absolute); India -5.0% [recent reversal vs 1990-2023 direction]"
+Tripura,North-Eastern,False,Diet low in vegetables,Possible worsening,21.9,15.3,15.4,0.1,0.2,-31.2,43.8,-3.3,3.5,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 15.3 -> 15.4 per 100k (+0.2%, UI -31.2 to +43.8; +0.1 absolute); India -3.3% [recent reversal vs 1990-2023 direction]"
+Maharashtra,Western,False,Chewing tobacco,Possible worsening,18.9,14.5,14.5,0.0,0.3,-44.2,77.1,6.1,-5.8,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 14.5 -> 14.5 per 100k (+0.3%, UI -44.2 to +77.1; +0.0 absolute); India +6.1% [recent reversal vs 1990-2023 direction]"
+Mizoram,North-Eastern,False,Diet low in legumes,Possible worsening,1.2,0.8,0.8,0.0,0.2,-34.7,62.6,-16.9,17.1,True,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 0.8 -> 0.8 per 100k (+0.2%, UI -34.7 to +62.6; +0.0 absolute); India -16.9% [small base: 2010 ASR < 5] [recent reversal vs 1990-2023 direction]"
+West Bengal,Eastern,False,Diet low in omega-6 polyunsaturated fatty acids,Possible worsening,17.3,13.0,13.0,0.0,0.2,-22.0,21.9,-14.1,14.3,False,True,Possible worsening,Possible worsening,"Rose, but interval crosses zero: ASR 13 -> 13 per 100k (+0.2%, UI -22.0 to +21.9; +0.0 absolute); India -14.1% [recent reversal vs 1990-2023 direction]"
+Chhattisgarh,Central,False,Sexual violence against children,Adverse divergence,6.1,6.3,6.3,0.0,-0.1,-37.5,49.5,-10.1,10.0,False,True,Adverse divergence,None,"Fell 10 pp less than India: ASR 6.3 -> 6.3 per 100k (-0.1%, UI -37.5 to +49.5; +0.0 absolute); India -10.1% [recent reversal vs 1990-2023 direction]"
+Jharkhand,Eastern,False,Secondhand smoke,Adverse divergence,25.5,19.4,19.4,0.0,0.0,-21.5,24.8,-19.6,19.6,False,False,Adverse divergence,Adverse divergence,"Fell 20 pp less than India: ASR 19.4 -> 19.4 per 100k (+0.0%, UI -21.5 to +24.8; +0.0 absolute); India -19.6%"
+Nagaland,North-Eastern,False,Diet low in legumes,Adverse divergence,3.7,2.5,2.5,0.0,-1.6,-35.2,59.0,-16.9,15.3,True,False,Adverse divergence,Adverse divergence,"Fell 15 pp less than India: ASR 2.5 -> 2.5 per 100k (-1.6%, UI -35.2 to +59.0; +0.0 absolute); India -16.9% [small base: 2010 ASR < 5]"
+Punjab,Northern,False,Diet high in trans fatty acids,Adverse divergence,23.0,17.2,17.1,-0.1,-0.3,-30.9,48.6,-14.3,14.0,False,False,Adverse divergence,None,"Fell 14 pp less than India: ASR 17.2 -> 17.1 per 100k (-0.3%, UI -30.9 to +48.6; -0.1 absolute); India -14.3%"
+Arunachal Pradesh,North-Eastern,False,Diet low in legumes,Adverse divergence,2.2,1.9,1.8,-0.1,-3.5,-37.9,57.0,-16.9,13.4,True,False,Adverse divergence,None,"Fell 13 pp less than India: ASR 1.9 -> 1.8 per 100k (-3.5%, UI -37.9 to +57.0; -0.1 absolute); India -16.9% [small base: 2010 ASR < 5]"
+Mizoram,North-Eastern,False,Diet low in nuts and seeds,Adverse divergence,4.1,3.2,3.1,-0.1,-2.3,-39.1,48.3,-18.5,16.2,True,False,Adverse divergence,Adverse divergence,"Fell 16 pp less than India: ASR 3.2 -> 3.1 per 100k (-2.3%, UI -39.1 to +48.3; -0.1 absolute); India -18.5% [small base: 2010 ASR < 5]"
+West Bengal,Eastern,False,Diet low in nuts and seeds,Adverse divergence,30.4,23.6,23.5,-0.1,-0.6,-21.6,24.8,-18.5,17.9,False,False,Adverse divergence,Adverse divergence,"Fell 18 pp less than India: ASR 23.6 -> 23.5 per 100k (-0.6%, UI -21.6 to +24.8; -0.1 absolute); India -18.5%"
+West Bengal,Eastern,False,Diet high in trans fatty acids,Adverse divergence,17.6,11.8,11.7,-0.1,-0.7,-33.9,46.9,-14.3,13.6,False,False,Adverse divergence,None,"Fell 14 pp less than India: ASR 11.8 -> 11.7 per 100k (-0.7%, UI -33.9 to +46.9; -0.1 absolute); India -14.3%"
+Other Union Territories,Aggregate UTs,True,Diet low in legumes,Adverse divergence,7.0,4.6,4.4,-0.2,-4.7,-32.8,46.2,-16.9,12.2,True,False,Adverse divergence,None,"Fell 12 pp less than India: ASR 4.6 -> 4.4 per 100k (-4.7%, UI -32.8 to +46.2; -0.2 absolute); India -16.9% [small base: 2010 ASR < 5]"
+West Bengal,Eastern,False,Diet low in legumes,Adverse divergence,17.3,12.0,11.8,-0.2,-1.7,-30.7,36.3,-16.9,15.2,False,False,Adverse divergence,Adverse divergence,"Fell 15 pp less than India: ASR 12 -> 11.8 per 100k (-1.7%, UI -30.7 to +36.3; -0.2 absolute); India -16.9%"
+Mizoram,North-Eastern,False,Diet low in seafood omega-3 fatty acids,Adverse divergence,3.8,2.8,2.6,-0.2,-8.7,-40.8,38.2,-29.5,20.8,True,False,Adverse divergence,Adverse divergence,"Fell 21 pp less than India: ASR 2.8 -> 2.6 per 100k (-8.7%, UI -40.8 to +38.2; -0.2 absolute); India -29.5% [small base: 2010 ASR < 5]"
+Meghalaya,North-Eastern,False,Diet low in seafood omega-3 fatty acids,Adverse divergence,7.4,6.5,6.3,-0.2,-2.4,-32.8,38.5,-29.5,27.1,False,False,Adverse divergence,Adverse divergence,"Fell 27 pp less than India: ASR 6.5 -> 6.3 per 100k (-2.4%, UI -32.8 to +38.5; -0.2 absolute); India -29.5%"
+Madhya Pradesh,Central,False,Diet low in omega-6 polyunsaturated fatty acids,Adverse divergence,13.5,12.1,11.8,-0.3,-2.2,-25.1,27.3,-14.1,11.9,False,False,Adverse divergence,None,"Fell 12 pp less than India: ASR 12.1 -> 11.8 per 100k (-2.2%, UI -25.1 to +27.3; -0.3 absolute); India -14.1%"
+Telangana,Southern,False,Diet high in trans fatty acids,Adverse divergence,37.0,30.4,30.0,-0.4,-1.3,-32.2,43.5,-14.3,13.0,False,False,Adverse divergence,None,"Fell 13 pp less than India: ASR 30.4 -> 30 per 100k (-1.3%, UI -32.2 to +43.5; -0.4 absolute); India -14.3%"
+Uttarakhand,Central,False,Diet high in trans fatty acids,Adverse divergence,19.9,19.4,19.0,-0.4,-2.5,-32.8,42.4,-14.3,11.8,False,False,Adverse divergence,None,"Fell 12 pp less than India: ASR 19.4 -> 19 per 100k (-2.5%, UI -32.8 to +42.4; -0.4 absolute); India -14.3%"
+Punjab,Northern,False,Diet low in legumes,Adverse divergence,9.4,7.6,7.2,-0.4,-5.4,-36.0,38.9,-16.9,11.5,False,False,Adverse divergence,None,"Fell 11 pp less than India: ASR 7.6 -> 7.2 per 100k (-5.4%, UI -36.0 to +38.9; -0.4 absolute); India -16.9%"
+Mizoram,North-Eastern,False,Diet low in fiber,Adverse divergence,2.3,1.7,1.3,-0.4,-20.6,-79.8,86.3,-30.8,10.2,True,False,Adverse divergence,None,"Fell 10 pp less than India: ASR 1.7 -> 1.3 per 100k (-20.6%, UI -79.8 to +86.3; -0.4 absolute); India -30.8% [small base: 2010 ASR < 5]"
+Madhya Pradesh,Central,False,Diet high in trans fatty acids,Adverse divergence,14.1,11.1,10.7,-0.4,-3.8,-35.4,47.9,-14.3,10.5,False,False,Adverse divergence,None,"Fell 10 pp less than India: ASR 11.1 -> 10.7 per 100k (-3.8%, UI -35.4 to +47.9; -0.4 absolute); India -14.3%"
+Nagaland,North-Eastern,False,Diet low in nuts and seeds,Adverse divergence,12.8,9.8,9.4,-0.4,-4.3,-36.8,38.1,-18.5,14.2,False,False,Adverse divergence,None,"Fell 14 pp less than India: ASR 9.8 -> 9.4 per 100k (-4.3%, UI -36.8 to +38.1; -0.4 absolute); India -18.5%"
+Arunachal Pradesh,North-Eastern,False,Diet low in nuts and seeds,Adverse divergence,7.8,7.6,7.1,-0.5,-6.3,-43.9,34.0,-18.5,12.2,False,False,Adverse divergence,None,"Fell 12 pp less than India: ASR 7.6 -> 7.1 per 100k (-6.3%, UI -43.9 to +34.0; -0.5 absolute); India -18.5%"
+Uttar Pradesh,Central,False,Diet low in fiber,Adverse divergence,7.1,8.0,7.4,-0.6,-7.3,-68.3,91.6,-30.8,23.5,False,True,Adverse divergence,Adverse divergence,"Fell 24 pp less than India: ASR 8 -> 7.4 per 100k (-7.3%, UI -68.3 to +91.6; -0.6 absolute); India -30.8% [recent reversal vs 1990-2023 direction]"
+Meghalaya,North-Eastern,False,Diet low in fiber,Adverse divergence,4.5,3.9,3.3,-0.6,-16.2,-76.9,99.2,-30.8,14.6,True,False,Adverse divergence,None,"Fell 15 pp less than India: ASR 3.9 -> 3.3 per 100k (-16.2%, UI -76.9 to +99.2; -0.6 absolute); India -30.8% [small base: 2010 ASR < 5]"
+Manipur,North-Eastern,False,Diet low in seafood omega-3 fatty acids,Adverse divergence,12.6,9.8,9.2,-0.6,-6.2,-34.2,34.8,-29.5,23.3,False,False,Adverse divergence,Adverse divergence,"Fell 23 pp less than India: ASR 9.8 -> 9.2 per 100k (-6.2%, UI -34.2 to +34.8; -0.6 absolute); India -29.5%"
+Uttarakhand,Central,False,Diet low in omega-6 polyunsaturated fatty acids,Adverse divergence,19.3,21.0,20.4,-0.6,-2.6,-24.0,23.9,-14.1,11.5,False,True,Adverse divergence,None,"Fell 12 pp less than India: ASR 21 -> 20.4 per 100k (-2.6%, UI -24.0 to +23.9; -0.6 absolute); India -14.1% [recent reversal vs 1990-2023 direction]"
+Arunachal Pradesh,North-Eastern,False,Diet low in seafood omega-3 fatty acids,Adverse divergence,7.4,6.6,5.9,-0.7,-9.6,-40.7,35.8,-29.5,19.9,False,False,Adverse divergence,Adverse divergence,"Fell 20 pp less than India: ASR 6.6 -> 5.9 per 100k (-9.6%, UI -40.7 to +35.8; -0.7 absolute); India -29.5%"
+Rajasthan,Northern,False,Diet low in fiber,Adverse divergence,7.3,5.2,4.5,-0.7,-13.2,-79.6,106.8,-30.8,17.6,False,False,Adverse divergence,Adverse divergence,"Fell 18 pp less than India: ASR 5.2 -> 4.5 per 100k (-13.2%, UI -79.6 to +106.8; -0.7 absolute); India -30.8%"
+Jharkhand,Eastern,False,Occupational injuries,Adverse divergence,16.4,20.1,19.4,-0.7,-3.3,-29.0,33.4,-41.1,37.8,False,True,Adverse divergence,Adverse divergence,"Fell 38 pp less than India: ASR 20.1 -> 19.4 per 100k (-3.3%, UI -29.0 to +33.4; -0.7 absolute); India -41.1% [recent reversal vs 1990-2023 direction]"
+Telangana,Southern,False,Diet low in omega-6 polyunsaturated fatty acids,Adverse divergence,36.0,33.2,32.5,-0.7,-2.4,-21.2,23.4,-14.1,11.7,False,False,Adverse divergence,None,"Fell 12 pp less than India: ASR 33.2 -> 32.5 per 100k (-2.4%, UI -21.2 to +23.4; -0.7 absolute); India -14.1%"
+Nagaland,North-Eastern,False,Diet low in seafood omega-3 fatty acids,Adverse divergence,12.0,8.7,7.9,-0.8,-8.5,-35.0,30.0,-29.5,21.0,False,False,Adverse divergence,Adverse divergence,"Fell 21 pp less than India: ASR 8.7 -> 7.9 per 100k (-8.5%, UI -35.0 to +30.0; -0.8 absolute); India -29.5%"
+Assam,North-Eastern,False,Diet low in fiber,Adverse divergence,9.3,8.0,7.2,-0.8,-9.3,-73.9,94.6,-30.8,21.5,False,False,Adverse divergence,Adverse divergence,"Fell 22 pp less than India: ASR 8 -> 7.2 per 100k (-9.3%, UI -73.9 to +94.6; -0.8 absolute); India -30.8%"
+Manipur,North-Eastern,False,Diet low in fiber,Adverse divergence,7.8,7.1,6.3,-0.8,-11.4,-71.2,90.1,-30.8,19.4,False,False,Adverse divergence,Adverse divergence,"Fell 19 pp less than India: ASR 7.1 -> 6.3 per 100k (-11.4%, UI -71.2 to +90.1; -0.8 absolute); India -30.8%"
+Odisha,Eastern,False,Diet low in seafood omega-3 fatty acids,Adverse divergence,6.3,5.9,5.1,-0.8,-14.4,-49.5,30.1,-29.5,15.1,False,False,Adverse divergence,Adverse divergence,"Fell 15 pp less than India: ASR 5.9 -> 5.1 per 100k (-14.4%, UI -49.5 to +30.1; -0.8 absolute); India -29.5%"
+Chhattisgarh,Central,False,Secondhand smoke,Adverse divergence,38.2,35.8,34.9,-0.9,-2.3,-24.8,20.0,-19.6,17.3,False,False,Adverse divergence,Adverse divergence,"Fell 17 pp less than India: ASR 35.8 -> 34.9 per 100k (-2.3%, UI -24.8 to +20.0; -0.9 absolute); India -19.6%"
+Odisha,Eastern,False,Secondhand smoke,Adverse divergence,26.3,20.5,19.6,-0.9,-4.6,-22.6,17.8,-19.6,15.0,False,False,Adverse divergence,Adverse divergence,"Fell 15 pp less than India: ASR 20.5 -> 19.6 per 100k (-4.6%, UI -22.6 to +17.8; -0.9 absolute); India -19.6%"
+Madhya Pradesh,Central,False,Diet low in nuts and seeds,Adverse divergence,21.8,21.1,20.2,-0.9,-4.3,-27.5,23.9,-18.5,14.2,False,False,Adverse divergence,None,"Fell 14 pp less than India: ASR 21.1 -> 20.2 per 100k (-4.3%, UI -27.5 to +23.9; -0.9 absolute); India -18.5%"
+Chhattisgarh,Central,False,Diet low in fiber,Adverse divergence,10.5,10.8,9.8,-1.0,-9.3,-74.4,111.0,-30.8,21.5,False,False,Adverse divergence,Adverse divergence,"Fell 22 pp less than India: ASR 10.8 -> 9.8 per 100k (-9.3%, UI -74.4 to +111.0; -1.0 absolute); India -30.8%"
+Tripura,North-Eastern,False,Diet low in seafood omega-3 fatty acids,Adverse divergence,20.2,13.9,12.8,-1.1,-7.3,-36.9,32.0,-29.5,22.2,False,False,Adverse divergence,Adverse divergence,"Fell 22 pp less than India: ASR 13.9 -> 12.8 per 100k (-7.3%, UI -36.9 to +32.0; -1.1 absolute); India -29.5%"
+Chhattisgarh,Central,False,Child growth failure,Adverse divergence,113.9,42.3,40.7,-1.6,-3.8,-22.8,20.2,-57.9,54.1,False,False,Adverse divergence,Adverse divergence,"Fell 54 pp less than India: ASR 42.3 -> 40.7 per 100k (-3.8%, UI -22.8 to +20.2; -1.6 absolute); India -57.9%"
+Karnataka,Southern,False,Diet low in fiber,Adverse divergence,14.1,9.9,8.0,-1.9,-19.5,-80.0,105.0,-30.8,11.3,False,False,Adverse divergence,None,"Fell 11 pp less than India: ASR 9.9 -> 8 per 100k (-19.5%, UI -80.0 to +105.0; -1.9 absolute); India -30.8%"
+Karnataka,Southern,False,Diet low in seafood omega-3 fatty acids,Adverse divergence,25.1,17.8,15.9,-1.9,-10.8,-46.7,26.7,-29.5,18.7,False,False,Adverse divergence,Adverse divergence,"Fell 19 pp less than India: ASR 17.8 -> 15.9 per 100k (-10.8%, UI -46.7 to +26.7; -1.9 absolute); India -29.5%"
+Haryana,Northern,False,Secondhand smoke,Adverse divergence,42.3,42.6,40.6,-2.0,-4.8,-23.2,14.9,-19.6,14.8,False,False,Adverse divergence,None,"Fell 15 pp less than India: ASR 42.6 -> 40.6 per 100k (-4.8%, UI -23.2 to +14.9; -2.0 absolute); India -19.6%"
+Nagaland,North-Eastern,False,Occupational injuries,Adverse divergence,11.6,9.7,7.5,-2.2,-22.9,-47.3,13.2,-41.1,18.2,False,False,Adverse divergence,Adverse divergence,"Fell 18 pp less than India: ASR 9.7 -> 7.5 per 100k (-22.9%, UI -47.3 to +13.2; -2.2 absolute); India -41.1%"
+Karnataka,Southern,False,Secondhand smoke,Adverse divergence,45.0,37.6,35.2,-2.4,-6.4,-24.0,13.8,-19.6,13.2,False,False,Adverse divergence,None,"Fell 13 pp less than India: ASR 37.6 -> 35.2 per 100k (-6.4%, UI -24.0 to +13.8; -2.4 absolute); India -19.6%"
+Meghalaya,North-Eastern,False,Secondhand smoke,Adverse divergence,37.4,32.4,30.0,-2.4,-7.5,-24.8,11.7,-19.6,12.1,False,False,Adverse divergence,None,"Fell 12 pp less than India: ASR 32.4 -> 30 per 100k (-7.5%, UI -24.8 to +11.7; -2.4 absolute); India -19.6%"
+Meghalaya,North-Eastern,False,Occupational injuries,Adverse divergence,13.9,14.4,11.7,-2.7,-18.6,-40.9,12.9,-41.1,22.5,False,False,Adverse divergence,Adverse divergence,"Fell 22 pp less than India: ASR 14.4 -> 11.7 per 100k (-18.6%, UI -40.9 to +12.9; -2.7 absolute); India -41.1%"
+Manipur,North-Eastern,False,Occupational injuries,Adverse divergence,14.5,13.7,10.4,-3.3,-24.2,-52.3,8.5,-41.1,16.9,False,False,Adverse divergence,Adverse divergence,"Fell 17 pp less than India: ASR 13.7 -> 10.4 per 100k (-24.2%, UI -52.3 to +8.5; -3.3 absolute); India -41.1%"
+Uttar Pradesh,Central,False,Secondhand smoke,Adverse divergence,52.3,43.0,39.5,-3.5,-8.2,-25.1,13.3,-19.6,11.4,False,False,Adverse divergence,None,"Fell 11 pp less than India: ASR 43 -> 39.5 per 100k (-8.2%, UI -25.1 to +13.3; -3.5 absolute); India -19.6%"
+Kerala,Southern,False,Unsafe sanitation,Adverse divergence,40.9,7.3,3.7,-3.6,-48.9,-68.5,10.1,-66.2,17.3,False,False,Adverse divergence,Adverse divergence,"Fell 17 pp less than India: ASR 7.3 -> 3.7 per 100k (-48.9%, UI -68.5 to +10.1; -3.6 absolute); India -66.2%"
+Arunachal Pradesh,North-Eastern,False,Occupational injuries,Adverse divergence,17.2,16.1,12.3,-3.8,-23.8,-47.9,6.3,-41.1,17.3,False,False,Adverse divergence,Adverse divergence,"Fell 17 pp less than India: ASR 16.1 -> 12.3 per 100k (-23.8%, UI -47.9 to +6.3; -3.8 absolute); India -41.1%"
+Punjab,Northern,False,Diet low in seafood omega-3 fatty acids,Adverse divergence,32.9,26.5,22.4,-4.1,-15.4,-41.9,14.9,-29.5,14.1,False,False,Adverse divergence,None,"Fell 14 pp less than India: ASR 26.5 -> 22.4 per 100k (-15.4%, UI -41.9 to +14.9; -4.1 absolute); India -29.5%"
+Tripura,North-Eastern,False,Occupational injuries,Adverse divergence,14.5,14.6,10.2,-4.4,-30.1,-50.8,0.0,-41.1,11.0,False,False,Adverse divergence,None,"Fell 11 pp less than India: ASR 14.6 -> 10.2 per 100k (-30.1%, UI -50.8 to +0.0; -4.4 absolute); India -41.1%"
+Assam,North-Eastern,False,Occupational injuries,Adverse divergence,18.1,18.8,14.2,-4.6,-24.3,-47.5,3.3,-41.1,16.8,False,False,Adverse divergence,Adverse divergence,"Fell 17 pp less than India: ASR 18.8 -> 14.2 per 100k (-24.3%, UI -47.5 to +3.3; -4.6 absolute); India -41.1%"
+Uttarakhand,Central,False,Diet low in seafood omega-3 fatty acids,Adverse divergence,27.9,26.5,21.8,-4.7,-18.0,-45.3,17.8,-29.5,11.5,False,False,Adverse divergence,None,"Fell 12 pp less than India: ASR 26.5 -> 21.8 per 100k (-18.0%, UI -45.3 to +17.8; -4.7 absolute); India -29.5%"
+Kerala,Southern,False,Unsafe water source,Adverse divergence,53.1,16.5,11.4,-5.1,-31.2,-57.3,34.2,-57.5,26.3,False,False,Adverse divergence,Adverse divergence,"Fell 26 pp less than India: ASR 16.5 -> 11.4 per 100k (-31.2%, UI -57.3 to +34.2; -5.1 absolute); India -57.5%"
+Nagaland,North-Eastern,False,No access to handwashing facility,Adverse divergence,41.6,14.2,6.2,-8.0,-56.6,-76.9,0.9,-69.0,12.4,False,False,Adverse divergence,None,"Fell 12 pp less than India: ASR 14.2 -> 6.2 per 100k (-56.6%, UI -76.9 to +0.9; -8.0 absolute); India -69.0%"
+Nagaland,North-Eastern,False,Child growth failure,Adverse divergence,50.0,17.5,9.5,-8.0,-45.6,-61.5,-17.1,-57.9,12.3,False,False,Adverse divergence,None,"Fell 12 pp less than India: ASR 17.5 -> 9.5 per 100k (-45.6%, UI -61.5 to -17.1; -8.0 absolute); India -57.9%"
+Jharkhand,Eastern,False,Smoking,Adverse divergence,62.2,43.7,35.2,-8.5,-19.5,-42.2,16.9,-34.4,14.9,False,False,Adverse divergence,None,"Fell 15 pp less than India: ASR 43.7 -> 35.2 per 100k (-19.5%, UI -42.2 to +16.9; -8.5 absolute); India -34.4%"
+Telangana,Southern,False,Occupational injuries,Adverse divergence,38.3,33.4,23.9,-9.5,-28.4,-53.6,2.1,-41.1,12.7,False,False,Adverse divergence,None,"Fell 13 pp less than India: ASR 33.4 -> 23.9 per 100k (-28.4%, UI -53.6 to +2.1; -9.5 absolute); India -41.1%"
+Tripura,North-Eastern,False,No access to handwashing facility,Adverse divergence,62.7,22.6,10.2,-12.4,-54.9,-75.1,-29.0,-69.0,14.1,False,False,Adverse divergence,None,"Fell 14 pp less than India: ASR 22.6 -> 10.2 per 100k (-54.9%, UI -75.1 to -29.0; -12.4 absolute); India -69.0%"
+Bihar,Eastern,False,Household air pollution from solid fuels,Adverse divergence,210.4,174.1,155.9,-18.2,-10.5,-27.0,10.1,-42.8,32.3,False,False,Adverse divergence,Adverse divergence,"Fell 32 pp less than India: ASR 174.1 -> 155.9 per 100k (-10.5%, UI -27.0 to +10.1; -18.2 absolute); India -42.8%"
+Tripura,North-Eastern,False,Unsafe water source,Adverse divergence,117.9,42.3,23.1,-19.2,-45.3,-62.1,-18.5,-57.5,12.2,False,False,Adverse divergence,None,"Fell 12 pp less than India: ASR 42.3 -> 23.1 per 100k (-45.3%, UI -62.1 to -18.5; -19.2 absolute); India -57.5%"
+Haryana,Northern,False,Smoking,Adverse divergence,117.7,123.8,104.2,-19.6,-15.8,-34.4,8.1,-34.4,18.6,False,False,Adverse divergence,Adverse divergence,"Fell 19 pp less than India: ASR 123.8 -> 104.2 per 100k (-15.8%, UI -34.4 to +8.1; -19.6 absolute); India -34.4%"
+Tripura,North-Eastern,False,Unsafe sanitation,Adverse divergence,108.4,37.3,17.1,-20.2,-54.1,-67.2,-35.9,-66.2,12.1,False,False,Adverse divergence,None,"Fell 12 pp less than India: ASR 37.3 -> 17.1 per 100k (-54.1%, UI -67.2 to -35.9; -20.2 absolute); India -66.2%"
+Bihar,Eastern,False,No access to handwashing facility,Adverse divergence,111.9,40.4,17.2,-23.2,-57.3,-77.5,-34.8,-69.0,11.7,False,False,Adverse divergence,None,"Fell 12 pp less than India: ASR 40.4 -> 17.2 per 100k (-57.3%, UI -77.5 to -34.8; -23.2 absolute); India -69.0%"
+Meghalaya,North-Eastern,False,Smoking,Adverse divergence,145.6,103.9,79.6,-24.3,-23.4,-39.4,-1.8,-34.4,11.0,False,False,Adverse divergence,None,"Fell 11 pp less than India: ASR 103.9 -> 79.6 per 100k (-23.4%, UI -39.4 to -1.8; -24.3 absolute); India -34.4%"
+Manipur,North-Eastern,False,Smoking,Adverse divergence,169.1,116.0,90.7,-25.3,-21.8,-38.9,0.3,-34.4,12.6,False,False,Adverse divergence,None,"Fell 13 pp less than India: ASR 116 -> 90.7 per 100k (-21.8%, UI -38.9 to +0.3; -25.3 absolute); India -34.4%"
+Mizoram,North-Eastern,False,Smoking,Adverse divergence,186.4,138.6,108.6,-30.0,-21.6,-39.2,2.1,-34.4,12.8,False,False,Adverse divergence,None,"Fell 13 pp less than India: ASR 138.6 -> 108.6 per 100k (-21.6%, UI -39.2 to +2.1; -30.0 absolute); India -34.4%"
+Meghalaya,North-Eastern,False,Household air pollution from solid fuels,Adverse divergence,127.7,106.5,72.5,-34.0,-31.9,-44.4,-18.2,-42.8,10.9,False,False,Adverse divergence,None,"Fell 11 pp less than India: ASR 106.5 -> 72.5 per 100k (-31.9%, UI -44.4 to -18.2; -34.0 absolute); India -42.8%"
+Odisha,Eastern,False,Household air pollution from solid fuels,Adverse divergence,147.7,129.2,94.9,-34.3,-26.6,-40.2,-9.6,-42.8,16.2,False,False,Adverse divergence,Adverse divergence,"Fell 16 pp less than India: ASR 129.2 -> 94.9 per 100k (-26.6%, UI -40.2 to -9.6; -34.3 absolute); India -42.8%"
+Nagaland,North-Eastern,False,Household air pollution from solid fuels,Adverse divergence,156.1,109.6,74.8,-34.8,-31.7,-43.7,-19.0,-42.8,11.1,False,False,Adverse divergence,None,"Fell 11 pp less than India: ASR 109.6 -> 74.8 per 100k (-31.7%, UI -43.7 to -19.0; -34.8 absolute); India -42.8%"
+Telangana,Southern,False,Smoking,Adverse divergence,147.8,160.6,122.3,-38.3,-23.8,-42.6,5.4,-34.4,10.6,False,False,Adverse divergence,None,"Fell 11 pp less than India: ASR 160.6 -> 122.3 per 100k (-23.8%, UI -42.6 to +5.4; -38.3 absolute); India -34.4%"
+Jharkhand,Eastern,False,Household air pollution from solid fuels,Adverse divergence,200.0,151.7,112.7,-39.0,-25.7,-40.7,-8.5,-42.8,17.1,False,False,Adverse divergence,Adverse divergence,"Fell 17 pp less than India: ASR 151.7 -> 112.7 per 100k (-25.7%, UI -40.7 to -8.5; -39.0 absolute); India -42.8%"
+Uttar Pradesh,Central,False,Household air pollution from solid fuels,Adverse divergence,200.7,169.4,128.5,-40.9,-24.1,-38.5,-8.5,-42.8,18.7,False,False,Adverse divergence,Adverse divergence,"Fell 19 pp less than India: ASR 169.4 -> 128.5 per 100k (-24.1%, UI -38.5 to -8.5; -40.9 absolute); India -42.8%"
+Rajasthan,Northern,False,Household air pollution from solid fuels,Adverse divergence,220.0,163.5,117.5,-46.0,-28.1,-40.9,-13.9,-42.8,14.7,False,False,Adverse divergence,None,"Fell 15 pp less than India: ASR 163.5 -> 117.5 per 100k (-28.1%, UI -40.9 to -13.9; -46.0 absolute); India -42.8%"
+Bihar,Eastern,False,Unsafe sanitation,Adverse divergence,246.9,87.9,41.4,-46.5,-52.9,-68.2,-34.5,-66.2,13.3,False,False,Adverse divergence,None,"Fell 13 pp less than India: ASR 87.9 -> 41.4 per 100k (-52.9%, UI -68.2 to -34.5; -46.5 absolute); India -66.2%"
+Bihar,Eastern,False,Unsafe water source,Adverse divergence,282.4,105.0,58.3,-46.7,-44.5,-62.7,-22.8,-57.5,13.0,False,False,Adverse divergence,None,"Fell 13 pp less than India: ASR 105 -> 58.3 per 100k (-44.5%, UI -62.7 to -22.8; -46.7 absolute); India -57.5%"
+Assam,North-Eastern,False,Household air pollution from solid fuels,Adverse divergence,220.4,166.1,113.7,-52.4,-31.6,-43.5,-18.1,-42.8,11.2,False,False,Adverse divergence,None,"Fell 11 pp less than India: ASR 166.1 -> 113.7 per 100k (-31.6%, UI -43.5 to -18.1; -52.4 absolute); India -42.8%"
+Chhattisgarh,Central,False,Household air pollution from solid fuels,Adverse divergence,263.8,216.3,148.7,-67.6,-31.3,-44.0,-16.3,-42.8,11.5,False,False,Adverse divergence,None,"Fell 11 pp less than India: ASR 216.3 -> 148.7 per 100k (-31.3%, UI -44.0 to -16.3; -67.6 absolute); India -42.8%"
+Delhi,Northern,False,Diet high in processed meat,None,1.0,1.0,1.0,0.0,-2.4,-31.1,39.9,50.1,-52.5,True,False,None,None,
+Gujarat,Western,False,Chewing tobacco,None,7.7,6.5,6.5,0.0,-0.5,-42.1,71.9,6.1,-6.6,False,False,None,None,
+Nagaland,North-Eastern,False,Diet low in vegetables,None,15.8,12.2,12.2,0.0,0.0,-28.8,39.7,-3.3,3.3,False,False,None,None,
+Rajasthan,Northern,False,Sexual violence against children,None,3.6,3.8,3.8,0.0,-0.6,-35.7,52.1,-10.1,9.5,True,True,Adverse divergence,None,
+Mizoram,North-Eastern,False,Lead exposure,None,13.3,13.4,13.3,-0.1,-0.5,-26.0,32.0,-8.3,7.8,False,False,Adverse divergence,None,
+Rajasthan,Northern,False,Chewing tobacco,None,5.6,3.8,3.7,-0.1,-1.8,-47.4,71.8,6.1,-7.9,True,False,None,None,
+Bihar,Eastern,False,Sexual violence against children,None,2.7,3.0,2.9,-0.1,-3.2,-39.4,51.8,-10.1,6.9,True,True,Adverse divergence,None,
+Meghalaya,North-Eastern,False,Sexual violence against children,None,3.4,2.9,2.8,-0.1,-5.2,-41.9,54.5,-10.1,4.9,True,False,None,None,
+Uttarakhand,Central,False,Sexual violence against children,None,6.2,6.7,6.6,-0.1,-0.3,-35.2,52.8,-10.1,9.8,False,True,Adverse divergence,None,
+Uttarakhand,Central,False,Diet low in whole grains,None,20.1,23.8,23.7,-0.1,-0.4,-41.0,68.0,-5.9,5.5,False,True,Adverse divergence,None,
+Odisha,Eastern,False,Chewing tobacco,None,25.5,31.3,31.1,-0.2,-0.6,-34.5,39.6,6.1,-6.7,False,True,None,None,
+Tripura,North-Eastern,False,Diet high in sodium,None,18.8,15.2,15.0,-0.2,-1.5,-82.8,468.6,-5.0,3.5,False,False,None,None,
+West Bengal,Eastern,False,Diet low in whole grains,None,18.5,15.6,15.4,-0.2,-1.3,-40.4,63.4,-5.9,4.6,False,False,None,None,
+Punjab,Northern,False,Chewing tobacco,None,2.8,2.0,1.8,-0.2,-11.5,-51.7,69.2,6.1,-17.6,True,False,None,None,
+Maharashtra,Western,False,Sexual violence against children,None,3.6,5.3,5.1,-0.2,-3.9,-46.8,53.6,-10.1,6.2,False,True,Adverse divergence,None,
+Other Union Territories,Aggregate UTs,True,Low temperature,None,8.2,6.7,6.4,-0.3,-4.9,-19.1,15.2,-12.8,7.9,False,False,Adverse divergence,None,
+Other Union Territories,Aggregate UTs,True,Chewing tobacco,None,7.3,5.1,4.8,-0.3,-6.1,-46.8,63.5,6.1,-12.2,False,False,None,None,
+Himachal Pradesh,Northern,False,Chewing tobacco,None,2.0,1.7,1.4,-0.3,-18.2,-59.2,56.7,6.1,-24.3,True,False,None,None,
+Odisha,Eastern,False,Diet high in sodium,None,10.2,12.0,11.7,-0.3,-2.7,-79.3,394.3,-5.0,2.3,False,True,None,None,
+Other Union Territories,Aggregate UTs,True,Lead exposure,None,71.9,65.3,64.9,-0.4,-0.6,-17.4,23.1,-8.3,7.7,False,False,Adverse divergence,None,
+Telangana,Southern,False,Diet low in whole grains,None,35.2,35.5,35.1,-0.4,-1.1,-44.6,65.8,-5.9,4.8,False,False,None,None,
+Arunachal Pradesh,North-Eastern,False,Sexual violence against children,None,4.6,4.6,4.2,-0.4,-9.1,-38.6,35.1,-10.1,1.0,True,False,None,None,
+Punjab,Northern,False,Sexual violence against children,None,3.0,3.6,3.2,-0.4,-11.5,-45.3,44.4,-10.1,-1.4,True,True,None,None,
+Gujarat,Western,False,Sexual violence against children,None,4.3,5.5,5.1,-0.4,-7.3,-39.4,39.7,-10.1,2.8,False,True,None,None,
+Madhya Pradesh,Central,False,Diet low in whole grains,None,14.5,14.6,14.2,-0.4,-2.5,-42.4,63.7,-5.9,3.4,False,False,None,None,
+Goa,Western,False,"Occupational particulate matter, gases, and fumes",None,2.4,1.8,1.3,-0.5,-28.3,-56.7,2.1,-14.6,-13.7,True,False,None,None,
+Haryana,Northern,False,Diet low in whole grains,None,13.0,14.2,13.7,-0.5,-3.4,-46.2,68.3,-5.9,2.5,False,True,None,None,
+Jammu & Kashmir and Ladakh,Northern,False,Diet low in whole grains,None,13.5,13.3,12.8,-0.5,-4.1,-45.0,59.2,-5.9,1.8,False,False,None,None,
+Jharkhand,Eastern,False,Diet low in whole grains,None,13.3,11.9,11.4,-0.5,-4.4,-47.4,64.7,-5.9,1.5,False,False,None,None,
+Madhya Pradesh,Central,False,Diet low in legumes,None,6.2,5.4,4.9,-0.5,-9.4,-33.9,32.5,-16.9,7.5,False,False,Adverse divergence,None,
+Meghalaya,North-Eastern,False,Chewing tobacco,None,14.9,15.4,14.9,-0.5,-3.4,-40.9,47.9,6.1,-9.5,False,False,None,None,
+Nagaland,North-Eastern,False,"Occupational particulate matter, gases, and fumes",None,2.2,1.8,1.3,-0.5,-27.0,-54.5,2.9,-14.6,-12.4,True,False,None,None,
+Gujarat,Western,False,Diet high in sodium,None,15.5,13.7,13.1,-0.6,-4.3,-82.2,345.0,-5.0,0.7,False,False,None,None,
+Jammu & Kashmir and Ladakh,Northern,False,Diet low in legumes,None,6.3,4.8,4.2,-0.6,-12.8,-39.3,33.4,-16.9,4.1,True,False,None,None,
+Jammu & Kashmir and Ladakh,Northern,False,Diet high in trans fatty acids,None,13.8,11.0,10.4,-0.6,-5.2,-35.6,39.5,-14.3,9.1,False,False,Adverse divergence,None,
+Jammu & Kashmir and Ladakh,Northern,False,Sexual violence against children,None,3.0,2.8,2.2,-0.6,-20.3,-51.1,26.0,-10.1,-10.2,True,False,None,None,
+Mizoram,North-Eastern,False,Diet high in sodium,None,7.1,5.8,5.2,-0.6,-10.6,-81.4,519.3,-5.0,-5.6,False,False,None,None,
+Goa,Western,False,Chewing tobacco,None,3.9,2.5,1.9,-0.6,-25.6,-58.5,38.3,6.1,-31.7,True,False,None,None,
+Uttar Pradesh,Central,False,Diet low in legumes,None,4.0,3.7,3.1,-0.6,-15.5,-44.5,29.0,-16.9,1.4,True,False,None,None,
+Arunachal Pradesh,North-Eastern,False,Ambient ozone pollution,None,5.2,6.6,5.9,-0.7,-10.2,-37.6,29.1,34.8,-45.0,False,True,None,None,
+Chhattisgarh,Central,False,Low temperature,None,15.9,18.9,18.2,-0.7,-3.5,-21.4,19.2,-12.8,9.3,False,True,Adverse divergence,None,
+Haryana,Northern,False,"Occupational particulate matter, gases, and fumes",None,6.8,6.6,5.9,-0.7,-11.0,-44.2,31.8,-14.6,3.6,False,False,None,None,
+Kerala,Southern,False,"Occupational particulate matter, gases, and fumes",None,4.7,3.9,3.2,-0.7,-18.3,-45.7,12.7,-14.6,-3.7,True,False,None,None,
+Arunachal Pradesh,North-Eastern,False,"Occupational particulate matter, gases, and fumes",None,4.6,4.2,3.5,-0.7,-15.6,-43.5,18.3,-14.6,-1.0,True,False,None,None,
+Bihar,Eastern,False,"Occupational particulate matter, gases, and fumes",None,8.1,7.3,6.6,-0.7,-10.2,-39.5,43.2,-14.6,4.4,False,False,None,None,
+Jharkhand,Eastern,False,"Occupational particulate matter, gases, and fumes",None,7.3,6.7,6.0,-0.7,-9.7,-45.0,52.7,-14.6,4.9,False,False,None,None,
+Madhya Pradesh,Central,False,Sexual violence against children,None,4.7,5.3,4.6,-0.7,-12.8,-40.2,27.4,-10.1,-2.7,False,False,None,None,
+Manipur,North-Eastern,False,"Occupational particulate matter, gases, and fumes",None,3.7,3.1,2.4,-0.7,-21.9,-49.0,10.4,-14.6,-7.3,True,False,None,None,
+Manipur,North-Eastern,False,Sexual violence against children,None,3.8,5.2,4.5,-0.7,-13.3,-42.7,43.4,-10.1,-3.2,False,True,None,None,
+Jammu & Kashmir and Ladakh,Northern,False,Diet low in omega-6 polyunsaturated fatty acids,None,13.5,12.1,11.3,-0.8,-6.6,-26.9,17.5,-14.1,7.5,False,False,Adverse divergence,None,
+Himachal Pradesh,Northern,False,Diet low in legumes,None,5.1,3.8,3.0,-0.8,-21.7,-46.5,22.1,-16.9,-4.8,True,False,None,None,
+Himachal Pradesh,Northern,False,Sexual violence against children,None,3.5,4.0,3.2,-0.8,-21.9,-48.7,23.3,-10.1,-11.8,True,False,None,None,
+Chhattisgarh,Central,False,"Occupational particulate matter, gases, and fumes",None,9.3,9.4,8.6,-0.8,-8.6,-40.6,33.6,-14.6,6.0,False,False,Adverse divergence,None,
+Goa,Western,False,Sexual violence against children,None,4.7,5.4,4.6,-0.8,-15.9,-45.1,22.2,-10.1,-5.8,False,False,None,None,
+Manipur,North-Eastern,False,Chewing tobacco,None,13.0,11.8,11.0,-0.8,-6.5,-41.5,45.1,6.1,-12.6,False,False,None,None,
+Meghalaya,North-Eastern,False,Low temperature,None,11.0,9.9,9.1,-0.8,-8.9,-24.4,12.4,-12.8,3.9,False,False,None,None,
+Mizoram,North-Eastern,False,Chewing tobacco,None,12.7,10.8,10.0,-0.8,-7.9,-42.0,37.9,6.1,-14.0,False,False,None,None,
+Meghalaya,North-Eastern,False,"Occupational particulate matter, gases, and fumes",None,4.1,4.1,3.2,-0.9,-20.5,-49.3,13.3,-14.6,-5.9,True,False,None,None,
+Sikkim,North-Eastern,False,Sexual violence against children,None,4.0,4.1,3.2,-0.9,-22.7,-47.9,16.3,-10.1,-12.6,True,False,None,None,
+Delhi,Northern,False,Sexual violence against children,None,3.5,3.5,2.6,-0.9,-25.1,-54.1,21.1,-10.1,-15.0,True,False,None,None,
+Goa,Western,False,Low temperature,None,3.0,1.4,0.5,-0.9,-64.5,-78.1,-51.1,-12.8,-51.7,True,False,None,None,
+Other Union Territories,Aggregate UTs,True,"Occupational particulate matter, gases, and fumes",None,3.3,2.5,1.6,-0.9,-35.4,-57.6,-9.2,-14.6,-20.8,True,False,None,None,
+Punjab,Northern,False,"Occupational particulate matter, gases, and fumes",None,3.5,2.5,1.6,-0.9,-34.0,-57.1,-2.8,-14.6,-19.4,True,False,None,None,
+Arunachal Pradesh,North-Eastern,False,Chewing tobacco,None,15.5,15.0,14.0,-1.0,-6.7,-41.2,41.3,6.1,-12.8,False,False,None,None,
+Assam,North-Eastern,False,Low temperature,None,10.6,9.6,8.6,-1.0,-10.7,-25.9,11.3,-12.8,2.1,False,False,None,None,
+Mizoram,North-Eastern,False,Diet low in vegetables,None,10.9,9.0,8.0,-1.0,-11.0,-38.7,20.1,-3.3,-7.7,False,False,None,None,
+Sikkim,North-Eastern,False,Diet low in legumes,None,3.4,2.9,1.9,-1.0,-34.0,-57.7,1.5,-16.9,-17.1,True,False,None,None,
+Tripura,North-Eastern,False,Sexual violence against children,None,6.9,6.8,5.8,-1.0,-14.5,-42.9,29.8,-10.1,-4.4,False,False,None,None,
+Uttarakhand,Central,False,Diet low in legumes,None,8.5,7.8,6.8,-1.0,-12.9,-40.5,36.7,-16.9,4.0,False,False,None,None,
+Uttar Pradesh,Central,False,Diet high in trans fatty acids,None,9.3,8.3,7.3,-1.0,-12.3,-39.0,35.1,-14.3,2.0,False,False,None,None,
+Gujarat,Western,False,Diet low in vegetables,None,20.7,17.7,16.6,-1.1,-6.2,-31.2,22.3,-3.3,-2.9,False,False,None,None,
+Punjab,Northern,False,Diet low in vegetables,None,20.1,17.4,16.3,-1.1,-6.4,-32.9,22.8,-3.3,-3.1,False,False,None,None,
+Uttarakhand,Central,False,Diet high in sodium,None,18.6,19.7,18.6,-1.1,-5.7,-78.7,426.1,-5.0,-0.7,False,False,None,None,
+Andhra Pradesh,Southern,False,Chewing tobacco,None,9.1,6.1,5.0,-1.1,-18.5,-57.1,42.8,6.1,-24.6,False,False,None,None,
+Assam,North-Eastern,False,"Occupational particulate matter, gases, and fumes",None,6.7,5.8,4.7,-1.1,-19.2,-47.9,24.6,-14.6,-4.6,False,False,None,None,
+Madhya Pradesh,Central,False,Diet high in sodium,None,16.2,14.0,12.9,-1.1,-8.1,-80.3,418.0,-5.0,-3.1,False,False,None,None,
+West Bengal,Eastern,False,Diet low in vegetables,None,18.1,14.9,13.8,-1.1,-7.2,-31.2,25.2,-3.3,-3.9,False,False,None,None,
+Jammu & Kashmir and Ladakh,Northern,False,Chewing tobacco,None,4.4,3.0,1.9,-1.1,-38.1,-69.3,13.6,6.1,-44.2,True,False,None,None,
+Jharkhand,Eastern,False,Diet low in legumes,None,5.8,3.9,2.8,-1.1,-27.3,-54.4,13.8,-16.9,-10.4,True,False,None,None,
+Kerala,Southern,False,Low temperature,None,3.1,1.6,0.5,-1.1,-70.7,-76.5,-63.3,-12.8,-57.9,True,False,None,None,
+Madhya Pradesh,Central,False,Lead exposure,None,59.0,58.6,57.5,-1.1,-1.8,-20.1,25.5,-8.3,6.5,False,False,Adverse divergence,None,
+Other Union Territories,Aggregate UTs,True,Diet low in vegetables,None,17.3,12.8,11.7,-1.1,-8.4,-48.5,31.5,-3.3,-5.1,False,False,None,None,
+Himachal Pradesh,Northern,False,Diet high in trans fatty acids,None,11.8,9.7,8.5,-1.2,-12.7,-40.0,29.5,-14.3,1.6,False,False,None,None,
+Madhya Pradesh,Central,False,Low temperature,None,16.5,16.5,15.3,-1.2,-7.3,-23.0,15.3,-12.8,5.5,False,False,Adverse divergence,None,
+Madhya Pradesh,Central,False,Diet low in vegetables,None,22.2,19.9,18.7,-1.2,-6.0,-32.1,23.4,-3.3,-2.7,False,False,None,None,
+Nagaland,North-Eastern,False,Diet low in fiber,None,7.0,4.8,3.6,-1.2,-24.4,-82.4,90.5,-30.8,6.4,True,False,Adverse divergence,None,
+Arunachal Pradesh,North-Eastern,False,Diet low in fiber,None,4.0,3.7,2.5,-1.2,-31.0,-84.8,79.4,-30.8,-0.2,True,False,None,None,
+Haryana,Northern,False,Diet low in legumes,None,5.6,4.5,3.3,-1.2,-26.0,-53.9,13.0,-16.9,-9.1,True,False,None,None,
+Karnataka,Southern,False,Low temperature,None,8.2,7.2,6.0,-1.2,-16.8,-31.1,1.8,-12.8,-4.0,False,False,None,None,
+Kerala,Southern,False,Sexual violence against children,None,4.5,4.9,3.7,-1.2,-24.3,-50.3,12.4,-10.1,-14.2,True,False,None,None,
+Uttar Pradesh,Central,False,Diet low in omega-6 polyunsaturated fatty acids,None,9.1,8.9,7.7,-1.2,-13.4,-35.3,15.0,-14.1,0.7,False,False,None,None,
+West Bengal,Eastern,False,Lead exposure,None,75.7,69.0,67.7,-1.3,-1.9,-19.1,21.4,-8.3,6.4,False,False,Adverse divergence,None,
+Himachal Pradesh,Northern,False,Diet high in sodium,None,11.2,10.1,8.8,-1.3,-12.6,-84.2,427.7,-5.0,-7.6,False,False,None,None,
+Mizoram,North-Eastern,False,Diet low in fruits,None,19.5,16.7,15.4,-1.3,-8.2,-29.7,20.3,-0.8,-7.4,False,False,None,None,
+Goa,Western,False,Diet low in legumes,None,9.1,5.5,4.2,-1.3,-24.4,-49.0,17.8,-16.9,-7.5,False,False,None,None,
+Other Union Territories,Aggregate UTs,True,Sexual violence against children,None,5.8,6.0,4.7,-1.3,-20.4,-45.9,18.3,-10.1,-10.3,False,False,None,None,
+West Bengal,Eastern,False,Sexual violence against children,None,6.4,5.5,4.2,-1.3,-23.8,-49.5,15.2,-10.1,-13.7,False,False,None,None,
+Delhi,Northern,False,"Occupational particulate matter, gases, and fumes",None,5.2,3.6,2.3,-1.3,-35.9,-61.2,-1.5,-14.6,-21.3,True,False,None,None,
+Himachal Pradesh,Northern,False,Diet low in whole grains,None,11.6,11.5,10.2,-1.3,-11.4,-49.3,47.0,-5.9,-5.5,False,False,None,None,
+Odisha,Eastern,False,Diet low in fiber,None,5.8,5.9,4.6,-1.3,-21.4,-78.6,72.6,-30.8,9.4,False,False,Adverse divergence,None,
+Tripura,North-Eastern,False,Diet low in fruits,None,48.7,39.6,38.3,-1.3,-3.1,-22.5,25.4,-0.8,-2.3,False,False,None,None,
+Arunachal Pradesh,North-Eastern,False,Low temperature,None,18.7,16.7,15.3,-1.4,-8.3,-24.0,12.0,-12.8,4.5,False,False,None,None,
+Madhya Pradesh,Central,False,Diet low in fruits,None,49.9,45.0,43.6,-1.4,-3.0,-19.1,23.0,-0.8,-2.2,False,False,None,None,
+Other Union Territories,Aggregate UTs,True,Diet low in fiber,None,7.0,4.6,3.2,-1.4,-31.0,-90.1,117.5,-30.8,-0.2,True,False,None,None,
+Himachal Pradesh,Northern,False,Diet low in omega-6 polyunsaturated fatty acids,None,11.3,10.4,9.0,-1.4,-13.6,-33.3,10.1,-14.1,0.5,False,False,None,None,
+Karnataka,Southern,False,Diet low in nuts and seeds,None,18.7,9.3,7.9,-1.4,-14.7,-69.3,82.8,-18.5,3.8,False,False,None,None,
+Uttarakhand,Central,False,Chewing tobacco,None,8.4,8.2,6.7,-1.5,-18.4,-53.8,46.4,6.1,-24.5,False,False,None,None,
+Gujarat,Western,False,Diet low in fruits,None,51.7,47.6,46.1,-1.5,-3.1,-17.7,14.8,-0.8,-2.3,False,False,None,None,
+Jharkhand,Eastern,False,Lead exposure,None,55.4,48.2,46.7,-1.5,-3.1,-30.7,28.8,-8.3,5.2,False,False,Adverse divergence,None,
+Other Union Territories,Aggregate UTs,True,Diet low in fruits,None,45.2,36.5,35.0,-1.5,-3.9,-22.9,22.7,-0.8,-3.1,False,False,None,None,
+Punjab,Northern,False,Low temperature,None,28.7,26.3,24.8,-1.5,-5.4,-18.5,11.5,-12.8,7.4,False,False,Adverse divergence,None,
+Telangana,Southern,False,Diet low in legumes,None,17.3,13.0,11.5,-1.5,-11.4,-38.6,32.2,-16.9,5.5,False,False,Adverse divergence,None,
+Karnataka,Southern,False,"Occupational particulate matter, gases, and fumes",None,9.9,8.8,7.3,-1.5,-16.8,-40.8,16.6,-14.6,-2.2,False,False,None,None,
+Punjab,Northern,False,Diet low in fruits,None,51.0,46.8,45.2,-1.6,-3.5,-22.2,18.8,-0.8,-2.7,False,False,None,None,
+Gujarat,Western,False,Diet low in legumes,None,6.4,4.8,3.2,-1.6,-33.0,-54.0,-2.9,-16.9,-16.1,True,False,None,None,
+Kerala,Southern,False,Diet low in whole grains,None,9.0,8.6,7.0,-1.6,-18.6,-60.8,51.1,-5.9,-12.7,False,False,None,None,
+Sikkim,North-Eastern,False,Diet high in trans fatty acids,None,7.9,7.5,5.9,-1.6,-21.7,-47.8,21.6,-14.3,-7.4,False,False,None,None,
+Tripura,North-Eastern,False,"Occupational particulate matter, gases, and fumes",None,5.4,4.7,3.1,-1.6,-33.2,-56.1,-3.4,-14.6,-18.6,True,False,None,None,
+Andhra Pradesh,Southern,False,Diet high in sodium,None,17.8,15.8,14.2,-1.6,-10.6,-85.0,565.8,-5.0,-5.6,False,False,None,None,
+Uttar Pradesh,Central,False,"Occupational particulate matter, gases, and fumes",None,11.1,11.8,10.2,-1.6,-13.7,-40.5,28.8,-14.6,0.9,False,False,None,None,
+Nagaland,North-Eastern,False,Low temperature,None,18.6,14.1,12.4,-1.7,-11.9,-26.9,4.9,-12.8,0.9,False,False,None,None,
+Nagaland,North-Eastern,False,Sexual violence against children,None,2.1,4.3,2.6,-1.7,-39.6,-69.1,64.8,-10.1,-29.5,True,True,None,None,
+West Bengal,Eastern,False,"Occupational particulate matter, gases, and fumes",None,6.8,5.3,3.6,-1.7,-31.3,-55.3,1.8,-14.6,-16.7,False,False,None,None,
+Delhi,Northern,False,Chewing tobacco,None,6.0,5.2,3.5,-1.7,-34.0,-63.4,22.6,6.1,-40.1,False,False,None,None,
+Mizoram,North-Eastern,False,"Occupational particulate matter, gases, and fumes",None,8.7,7.2,5.5,-1.7,-24.2,-45.0,-1.1,-14.6,-9.6,False,False,None,None,
+Odisha,Eastern,False,Low temperature,None,5.4,7.3,5.6,-1.7,-23.1,-38.7,-1.5,-12.8,-10.3,False,True,None,None,
+Sikkim,North-Eastern,False,"Occupational particulate matter, gases, and fumes",None,7.0,5.4,3.7,-1.7,-30.6,-52.1,-4.5,-14.6,-16.0,False,False,None,None,
+Gujarat,Western,False,Low temperature,None,16.5,13.8,12.1,-1.7,-12.4,-29.4,5.5,-12.8,0.4,False,False,None,None,
+West Bengal,Eastern,False,Ambient ozone pollution,None,12.4,17.3,15.6,-1.7,-9.9,-34.4,32.1,34.8,-44.7,False,True,None,None,
+Nagaland,North-Eastern,False,Chewing tobacco,None,24.2,20.1,18.4,-1.7,-8.6,-43.9,39.8,6.1,-14.7,False,False,None,None,
+West Bengal,Eastern,False,Diet high in sodium,None,22.3,17.7,15.9,-1.8,-10.1,-82.8,433.9,-5.0,-5.1,False,False,None,None,
+Andhra Pradesh,Southern,False,Diet low in legumes,None,10.7,9.5,7.7,-1.8,-19.1,-41.5,13.4,-16.9,-2.2,False,False,None,None,
+Delhi,Northern,False,Diet low in legumes,None,7.9,5.0,3.2,-1.8,-35.4,-56.8,-3.9,-16.9,-18.5,False,False,None,None,
+Gujarat,Western,False,"Occupational particulate matter, gases, and fumes",None,8.4,8.0,6.2,-1.8,-22.5,-47.5,12.6,-14.6,-7.9,False,False,None,None,
+Karnataka,Southern,False,Sexual violence against children,None,6.7,8.5,6.7,-1.8,-20.9,-46.4,13.6,-10.1,-10.8,False,False,None,None,
+Mizoram,North-Eastern,False,Sexual violence against children,None,2.9,5.1,3.3,-1.8,-35.3,-62.0,39.9,-10.1,-25.2,False,True,None,None,
+Sikkim,North-Eastern,False,Diet low in omega-6 polyunsaturated fatty acids,None,7.5,8.1,6.3,-1.8,-22.6,-42.7,2.0,-14.1,-8.5,False,False,None,None,
+Tripura,North-Eastern,False,Diet low in fiber,None,13.3,8.4,6.6,-1.8,-21.3,-80.4,85.7,-30.8,9.5,False,False,Adverse divergence,None,
+Punjab,Northern,False,Lead exposure,None,71.7,77.4,75.6,-1.8,-2.3,-17.0,16.2,-8.3,6.0,False,True,Adverse divergence,None,
+Jharkhand,Eastern,False,Diet low in fiber,None,10.0,8.5,6.6,-1.9,-21.7,-75.2,63.8,-30.8,9.1,False,False,Adverse divergence,None,
+Goa,Western,False,No access to handwashing facility,None,18.8,3.1,1.1,-2.0,-64.1,-86.1,-26.4,-69.0,4.9,True,False,None,None,
+Jharkhand,Eastern,False,Low temperature,None,14.8,13.0,11.0,-2.0,-15.0,-31.9,7.9,-12.8,-2.2,False,False,None,None,
+Jharkhand,Eastern,False,Diet high in trans fatty acids,None,12.7,8.4,6.4,-2.0,-24.4,-51.4,19.4,-14.3,-10.1,False,False,None,None,
+Rajasthan,Northern,False,"Occupational particulate matter, gases, and fumes",None,14.2,13.7,11.7,-2.0,-14.6,-35.0,11.9,-14.6,0.0,False,False,None,None,
+Sikkim,North-Eastern,False,Diet high in sodium,None,9.0,9.1,7.1,-2.0,-22.3,-87.6,353.8,-5.0,-17.3,False,False,None,None,
+Andhra Pradesh,Southern,False,"Occupational particulate matter, gases, and fumes",None,9.7,8.0,5.9,-2.1,-26.3,-51.7,7.2,-14.6,-11.7,False,False,None,None,
+Himachal Pradesh,Northern,False,Diet low in fiber,None,7.7,4.8,2.7,-2.1,-44.6,-90.0,52.8,-30.8,-13.8,True,False,None,None,
+Karnataka,Southern,False,Chewing tobacco,None,18.6,14.1,12.0,-2.1,-15.0,-56.3,53.0,6.1,-21.1,False,False,None,None,
+Maharashtra,Western,False,Low temperature,None,7.6,6.6,4.5,-2.1,-32.3,-46.6,-15.9,-12.8,-19.5,False,False,None,None,
+Manipur,North-Eastern,False,Low temperature,None,19.6,15.0,12.9,-2.1,-13.9,-26.3,2.2,-12.8,-1.1,False,False,None,None,
+Sikkim,North-Eastern,False,Diet low in whole grains,None,8.4,9.7,7.6,-2.1,-20.9,-57.8,36.6,-5.9,-15.0,False,False,None,None,
+Telangana,Southern,False,Sexual violence against children,None,8.3,11.1,9.0,-2.1,-19.0,-41.9,20.1,-10.1,-8.9,False,True,None,None,
+Goa,Western,False,Diet low in fiber,None,10.1,3.7,1.6,-2.1,-58.0,-97.1,78.1,-30.8,-27.2,True,False,None,None,
+Chhattisgarh,Central,False,Chewing tobacco,None,33.3,32.3,30.1,-2.2,-6.9,-41.0,42.2,6.1,-13.0,False,False,None,None,
+Delhi,Northern,False,Ambient ozone pollution,None,14.3,14.2,12.0,-2.2,-15.5,-43.2,24.9,34.8,-50.3,False,False,None,None,
+Sikkim,North-Eastern,False,Ambient ozone pollution,None,11.1,11.2,9.0,-2.2,-19.2,-47.0,14.9,34.8,-54.0,False,False,None,None,
+Telangana,Southern,False,Diet high in sodium,None,33.8,30.0,27.8,-2.2,-7.1,-80.6,625.6,-5.0,-2.1,False,False,None,None,
+Haryana,Northern,False,Diet low in fiber,None,6.8,5.3,3.1,-2.2,-41.3,-90.0,68.4,-30.8,-10.5,False,False,None,None,
+Maharashtra,Western,False,Diet low in legumes,None,5.6,4.5,2.3,-2.2,-49.0,-64.3,-24.8,-16.9,-32.1,True,False,None,None,
+Jharkhand,Eastern,False,Diet low in omega-6 polyunsaturated fatty acids,None,12.4,9.3,7.1,-2.2,-23.3,-43.1,4.6,-14.1,-9.2,False,False,None,None,
+Uttar Pradesh,Central,False,Diet low in nuts and seeds,None,15.6,15.9,13.7,-2.2,-13.5,-36.1,13.6,-18.5,5.0,False,False,Adverse divergence,None,
+Haryana,Northern,False,Lead exposure,None,49.0,54.6,52.4,-2.2,-3.9,-28.8,21.3,-8.3,4.4,False,True,None,None,
+Andhra Pradesh,Southern,False,Diet high in trans fatty acids,None,22.8,18.4,16.1,-2.3,-12.6,-40.4,28.6,-14.3,1.7,False,False,None,None,
+Himachal Pradesh,Northern,False,Diet low in vegetables,None,15.2,12.1,9.8,-2.3,-18.4,-45.0,13.7,-3.3,-15.1,False,False,None,None,
+Kerala,Southern,False,Diet high in sodium,None,18.9,15.3,13.0,-2.3,-15.3,-86.9,304.5,-5.0,-10.3,False,False,None,None,
+Uttarakhand,Central,False,Diet low in vegetables,None,22.9,21.3,19.0,-2.3,-10.6,-40.5,22.7,-3.3,-7.3,False,False,None,None,
+Goa,Western,False,Diet low in whole grains,None,21.3,18.9,16.5,-2.4,-13.0,-51.9,47.6,-5.9,-7.1,False,False,None,None,
+Haryana,Northern,False,Diet high in trans fatty acids,None,13.9,12.2,9.8,-2.4,-19.5,-46.9,21.1,-14.3,-5.2,False,False,None,None,
+Haryana,Northern,False,Diet low in omega-6 polyunsaturated fatty acids,None,13.3,13.0,10.6,-2.4,-18.4,-40.5,2.9,-14.1,-4.3,False,False,None,None,
+Tripura,North-Eastern,False,Low temperature,None,11.3,9.4,7.0,-2.4,-26.0,-39.3,-9.5,-12.8,-13.2,False,False,None,None,
+Goa,Western,False,Diet high in trans fatty acids,None,23.4,17.4,14.9,-2.5,-14.5,-41.7,27.8,-14.3,-0.2,False,False,None,None,
+Jammu & Kashmir and Ladakh,Northern,False,Diet low in nuts and seeds,None,21.6,18.8,16.3,-2.5,-13.5,-38.5,14.2,-18.5,5.0,False,False,Adverse divergence,None,
+Madhya Pradesh,Central,False,"Occupational particulate matter, gases, and fumes",None,10.8,9.9,7.4,-2.5,-25.6,-47.6,7.7,-14.6,-11.0,False,False,None,None,
+Delhi,Northern,False,Diet low in fiber,None,7.6,4.4,1.9,-2.5,-57.9,-95.1,48.5,-30.8,-27.1,True,False,None,None,
+Kerala,Southern,False,Diet low in vegetables,None,21.1,16.6,14.1,-2.5,-14.9,-33.8,10.8,-3.3,-11.6,False,False,None,None,
+Andhra Pradesh,Southern,False,Sexual violence against children,None,6.2,8.6,6.0,-2.6,-30.9,-58.9,18.2,-10.1,-20.8,False,False,None,None,
+Jammu & Kashmir and Ladakh,Northern,False,Diet low in vegetables,None,18.0,14.5,11.9,-2.6,-18.0,-38.9,10.2,-3.3,-14.7,False,False,None,None,
+Jammu & Kashmir and Ladakh,Northern,False,Diet low in fiber,None,10.1,8.0,5.4,-2.6,-32.1,-82.4,54.7,-30.8,-1.3,False,False,None,None,
+Sikkim,North-Eastern,False,Diet low in fiber,None,5.2,4.0,1.4,-2.6,-64.6,-95.0,-1.6,-30.8,-33.8,True,False,None,None,
+Other Union Territories,Aggregate UTs,True,Diet low in nuts and seeds,None,25.4,18.3,15.7,-2.6,-14.3,-48.6,22.4,-18.5,4.2,False,False,None,None,
+Andhra Pradesh,Southern,False,Diet low in omega-6 polyunsaturated fatty acids,None,22.0,20.0,17.3,-2.7,-13.4,-32.5,8.8,-14.1,0.7,False,False,None,None,
+Telangana,Southern,False,"Occupational particulate matter, gases, and fumes",None,12.1,11.6,8.9,-2.7,-23.0,-49.0,10.5,-14.6,-8.4,False,False,None,None,
+Uttar Pradesh,Central,False,Diet low in seafood omega-3 fatty acids,None,13.2,11.4,8.7,-2.7,-23.8,-50.4,9.1,-29.5,5.7,False,False,Adverse divergence,None,
+Telangana,Southern,False,Chewing tobacco,None,17.9,13.2,10.4,-2.8,-21.1,-55.3,43.2,6.1,-27.2,False,False,None,None,
+Kerala,Southern,False,Child growth failure,None,16.8,3.9,1.1,-2.8,-72.2,-79.4,-62.1,-57.9,-14.3,True,False,None,None,
+Mizoram,North-Eastern,False,Low temperature,None,10.4,7.7,4.9,-2.8,-36.0,-48.0,-23.2,-12.8,-23.2,False,False,None,None,
+Punjab,Northern,False,Diet low in fiber,None,10.7,9.5,6.7,-2.8,-29.2,-85.8,91.0,-30.8,1.6,False,False,None,None,
+Goa,Western,False,Diet high in sodium,None,20.4,16.7,13.8,-2.9,-17.4,-85.6,519.6,-5.0,-12.4,False,False,None,None,
+Madhya Pradesh,Central,False,Diet low in seafood omega-3 fatty acids,None,17.9,12.9,10.0,-2.9,-22.9,-56.0,14.0,-29.5,6.6,False,False,Adverse divergence,None,
+Himachal Pradesh,Northern,False,"Occupational particulate matter, gases, and fumes",None,10.9,9.6,6.6,-3.0,-31.4,-50.5,-11.5,-14.6,-16.8,False,False,None,None,
+Madhya Pradesh,Central,False,Diet low in fiber,None,9.6,9.9,6.9,-3.0,-29.9,-78.8,46.0,-30.8,0.9,False,False,None,None,
+West Bengal,Eastern,False,Diet low in seafood omega-3 fatty acids,None,22.6,13.7,10.7,-3.0,-21.7,-52.3,6.7,-29.5,7.8,False,False,Adverse divergence,None,
+Kerala,Southern,False,No access to handwashing facility,None,18.4,4.9,1.9,-3.0,-61.5,-81.6,-18.4,-69.0,7.5,True,False,Adverse divergence,None,
+Jammu & Kashmir and Ladakh,Northern,False,Diet high in sodium,None,22.7,22.9,19.8,-3.1,-13.9,-66.3,157.4,-5.0,-8.9,False,False,None,None,
+Manipur,North-Eastern,False,Secondhand smoke,None,41.6,30.7,27.6,-3.1,-10.3,-25.0,6.7,-19.6,9.3,False,False,Adverse divergence,None,
+Other Union Territories,Aggregate UTs,True,Secondhand smoke,None,34.8,22.4,19.3,-3.1,-13.9,-30.7,2.5,-19.6,5.7,False,False,Adverse divergence,None,
+Tamil Nadu,Southern,False,Sexual violence against children,None,8.8,9.5,6.4,-3.1,-32.7,-56.0,-4.3,-10.1,-22.6,False,False,None,None,
+West Bengal,Eastern,False,Diet low in fiber,None,13.9,9.9,6.8,-3.1,-31.1,-82.4,68.2,-30.8,-0.3,False,False,None,None,
+Andhra Pradesh,Southern,False,Diet low in vegetables,None,27.1,22.7,19.5,-3.2,-14.0,-37.2,14.8,-3.3,-10.7,False,False,None,None,
+Goa,Western,False,Diet low in omega-6 polyunsaturated fatty acids,None,22.7,19.0,15.8,-3.2,-16.6,-31.9,6.8,-14.1,-2.5,False,False,None,None,
+Jammu & Kashmir and Ladakh,Northern,False,Diet low in seafood omega-3 fatty acids,None,19.6,15.6,12.4,-3.2,-20.5,-46.2,9.6,-29.5,9.0,False,False,Adverse divergence,None,
+Sikkim,North-Eastern,False,Chewing tobacco,None,9.5,8.6,5.4,-3.2,-36.8,-63.2,4.6,6.1,-42.9,False,False,None,None,
+West Bengal,Eastern,False,Low temperature,None,16.1,13.2,10.0,-3.2,-24.4,-36.7,-8.4,-12.8,-11.6,False,False,None,None,
+Maharashtra,Western,False,Diet low in fiber,None,7.6,5.6,2.4,-3.2,-57.3,-92.1,20.0,-30.8,-26.5,False,False,None,None,
+Uttarakhand,Central,False,Lead exposure,None,75.9,90.8,87.6,-3.2,-3.5,-22.8,22.1,-8.3,4.8,False,True,None,None,
+Maharashtra,Western,False,Diet low in vegetables,None,22.4,17.1,13.8,-3.3,-19.7,-41.4,6.2,-3.3,-16.4,False,False,None,None,
+Punjab,Northern,False,Diet low in nuts and seeds,None,34.2,30.6,27.3,-3.3,-10.7,-38.8,20.3,-18.5,7.8,False,False,Adverse divergence,None,
+Uttarakhand,Central,False,Diet low in fruits,None,53.2,56.2,52.9,-3.3,-5.9,-27.7,22.6,-0.8,-5.1,False,False,None,None,
+Gujarat,Western,False,Diet low in whole grains,None,18.3,16.7,13.3,-3.4,-20.2,-55.3,33.8,-5.9,-14.3,False,False,None,None,
+Himachal Pradesh,Northern,False,Low temperature,None,31.1,23.4,20.0,-3.4,-14.6,-27.2,-1.5,-12.8,-1.8,False,False,None,None,
+Sikkim,North-Eastern,False,Diet low in vegetables,None,11.8,10.5,7.1,-3.4,-31.9,-62.5,-5.8,-3.3,-28.6,False,False,None,None,
+Other Union Territories,Aggregate UTs,True,Diet low in seafood omega-3 fatty acids,None,23.6,15.4,11.9,-3.5,-22.7,-56.6,15.0,-29.5,6.8,False,False,Adverse divergence,None,
+West Bengal,Eastern,False,Diet low in fruits,None,64.1,51.4,47.7,-3.7,-7.3,-20.2,15.6,-0.8,-6.5,False,False,None,None,
+Sikkim,North-Eastern,False,Diet low in seafood omega-3 fatty acids,None,11.1,10.6,6.9,-3.7,-35.1,-55.8,-7.5,-29.5,-5.6,False,False,None,None,
+Jammu & Kashmir and Ladakh,Northern,False,"Occupational particulate matter, gases, and fumes",None,11.0,7.9,4.2,-3.7,-46.9,-63.0,-26.1,-14.6,-32.3,False,False,None,None,
+Uttarakhand,Central,False,"Occupational particulate matter, gases, and fumes",None,16.7,16.8,13.1,-3.7,-21.7,-46.1,7.6,-14.6,-7.1,False,False,None,None,
+Madhya Pradesh,Central,False,Chewing tobacco,None,23.4,18.4,14.6,-3.8,-20.5,-51.6,24.5,6.1,-26.6,False,False,None,None,
+Gujarat,Western,False,Diet low in fiber,None,12.1,9.6,5.8,-3.8,-39.5,-79.0,14.7,-30.8,-8.7,False,False,None,None,
+Himachal Pradesh,Northern,False,Diet low in seafood omega-3 fatty acids,None,16.4,13.3,9.5,-3.8,-28.3,-53.9,3.8,-29.5,1.2,False,False,None,None,
+Kerala,Southern,False,Diet low in fiber,None,12.8,7.7,3.8,-3.9,-50.9,-89.4,28.7,-30.8,-20.1,False,False,None,None,
+Mizoram,North-Eastern,False,Occupational injuries,None,15.8,12.6,8.7,-3.9,-31.3,-57.2,2.7,-41.1,9.8,False,False,Adverse divergence,None,
+Delhi,Northern,False,No access to handwashing facility,None,24.8,5.2,1.2,-4.0,-76.2,-89.5,-50.0,-69.0,-7.2,False,False,None,None,
+Himachal Pradesh,Northern,False,Diet low in nuts and seeds,None,18.0,15.3,11.3,-4.0,-26.0,-51.4,3.8,-18.5,-7.5,False,False,None,None,
+Jharkhand,Eastern,False,Diet low in seafood omega-3 fatty acids,None,18.4,12.2,8.2,-4.0,-32.7,-56.6,-4.3,-29.5,-3.2,False,False,None,None,
+Andhra Pradesh,Southern,False,Diet low in whole grains,None,36.0,32.4,28.3,-4.1,-12.6,-42.3,21.1,-5.9,-6.7,False,False,None,None,
+Delhi,Northern,False,Diet high in trans fatty acids,None,20.9,14.5,10.4,-4.1,-28.2,-51.4,8.2,-14.3,-13.9,False,False,None,None,
+Maharashtra,Western,False,Diet high in sodium,None,21.2,19.1,15.0,-4.1,-21.8,-68.6,61.4,-5.0,-16.8,False,False,None,None,
+Tamil Nadu,Southern,False,Diet low in legumes,None,8.3,7.8,3.6,-4.2,-54.0,-67.5,-36.2,-16.9,-37.1,False,False,None,None,
+Jharkhand,Eastern,False,Diet low in nuts and seeds,None,19.8,14.9,10.7,-4.2,-28.4,-51.5,-1.3,-18.5,-9.9,False,False,None,None,
+Kerala,Southern,False,Diet low in legumes,None,11.4,9.3,5.1,-4.2,-45.1,-61.2,-23.1,-16.9,-28.2,False,False,None,None,
+Jammu & Kashmir and Ladakh,Northern,False,Diet low in fruits,None,38.4,33.9,29.6,-4.3,-12.7,-30.5,8.5,-0.8,-11.9,False,False,None,None,
+Tamil Nadu,Southern,False,Low temperature,None,7.7,6.4,2.1,-4.3,-67.6,-75.4,-58.0,-12.8,-54.8,False,False,None,None,
+Delhi,Northern,False,Diet low in omega-6 polyunsaturated fatty acids,None,20.4,15.8,11.4,-4.4,-28.2,-45.1,-11.2,-14.1,-14.1,False,False,None,None,
+Gujarat,Western,False,Diet high in trans fatty acids,None,19.6,14.3,9.9,-4.4,-30.7,-53.8,2.0,-14.3,-16.4,False,False,None,None,
+Uttarakhand,Central,False,Diet low in fiber,None,11.8,10.9,6.5,-4.4,-40.5,-88.2,58.6,-30.8,-9.7,False,False,None,None,
+Delhi,Northern,False,Diet low in whole grains,None,19.4,16.7,12.2,-4.5,-27.1,-58.2,23.5,-5.9,-21.2,False,False,None,None,
+Gujarat,Western,False,Diet low in omega-6 polyunsaturated fatty acids,None,18.8,15.3,10.8,-4.5,-29.8,-45.8,-12.1,-14.1,-15.7,False,False,None,None,
+Andhra Pradesh,Southern,False,Diet low in fiber,None,16.3,11.6,7.0,-4.6,-40.2,-85.5,44.2,-30.8,-9.4,False,False,None,None,
+Delhi,Northern,False,Diet low in vegetables,None,18.3,13.7,9.1,-4.6,-33.7,-70.7,-2.0,-3.3,-30.4,False,False,None,None,
+Goa,Western,False,Secondhand smoke,None,26.4,21.0,16.4,-4.6,-21.9,-37.7,-6.2,-19.6,-2.3,False,False,None,None,
+Goa,Western,False,Diet low in vegetables,None,20.7,13.5,8.8,-4.7,-34.7,-84.8,10.0,-3.3,-31.4,False,False,None,None,
+Himachal Pradesh,Northern,False,Diet low in fruits,None,31.6,28.6,23.9,-4.7,-16.4,-33.4,6.4,-0.8,-15.6,False,False,None,None,
+Goa,Western,False,Child growth failure,None,33.0,8.7,3.9,-4.8,-55.6,-68.0,-38.4,-57.9,2.3,False,False,None,None,
+Other Union Territories,Aggregate UTs,True,No access to handwashing facility,None,43.6,7.0,2.2,-4.8,-68.2,-85.0,-39.2,-69.0,0.8,False,False,None,None,
+Maharashtra,Western,False,Diet low in whole grains,None,19.6,18.3,13.5,-4.8,-26.5,-50.7,-2.9,-5.9,-20.6,False,False,None,None,
+Sikkim,North-Eastern,False,Diet low in nuts and seeds,None,12.0,11.8,6.9,-4.9,-41.5,-66.9,-13.7,-18.5,-23.0,False,False,None,None,
+Maharashtra,Western,False,Diet high in trans fatty acids,None,13.7,11.1,6.1,-5.0,-44.9,-62.6,-14.7,-14.3,-30.6,False,False,None,None,
+Telangana,Southern,False,Secondhand smoke,None,48.3,49.1,44.1,-5.0,-10.1,-28.6,9.0,-19.6,9.5,False,False,Adverse divergence,None,
+Telangana,Southern,False,Diet low in vegetables,None,44.5,34.6,29.6,-5.0,-14.4,-38.1,18.5,-3.3,-11.1,False,False,None,None,
+Haryana,Northern,False,Diet low in seafood omega-3 fatty acids,None,18.8,16.0,10.9,-5.1,-32.2,-58.0,-7.0,-29.5,-2.7,False,False,None,None,
+Arunachal Pradesh,North-Eastern,False,Secondhand smoke,None,30.4,27.8,22.6,-5.2,-18.5,-34.2,-1.5,-19.6,1.1,False,False,None,None,
+Kerala,Southern,False,Occupational injuries,None,10.7,12.5,7.3,-5.2,-41.9,-60.3,-21.2,-41.1,-0.8,False,False,None,None,
+Tripura,North-Eastern,False,Chewing tobacco,None,38.2,31.9,26.6,-5.3,-16.6,-44.0,23.1,6.1,-22.7,False,False,None,None,
+Other Union Territories,Aggregate UTs,True,Occupational injuries,None,15.3,13.9,8.6,-5.3,-38.1,-59.5,0.2,-41.1,3.0,False,False,None,None,
+Punjab,Northern,False,Secondhand smoke,None,33.7,30.6,25.3,-5.3,-17.5,-33.1,0.5,-19.6,2.1,False,False,None,None,
+Maharashtra,Western,False,Diet low in omega-6 polyunsaturated fatty acids,None,13.4,11.9,6.5,-5.4,-45.2,-57.6,-32.3,-14.1,-31.1,False,False,None,None,
+Delhi,Northern,False,Diet high in sodium,None,27.3,22.2,16.7,-5.5,-24.5,-79.9,197.3,-5.0,-19.5,False,False,None,None,
+Himachal Pradesh,Northern,False,Lead exposure,None,43.8,43.7,38.2,-5.5,-12.5,-28.9,8.3,-8.3,-4.2,False,False,None,None,
+Maharashtra,Western,False,Secondhand smoke,None,32.3,24.8,19.3,-5.5,-22.3,-38.6,-5.4,-19.6,-2.7,False,False,None,None,
+Mizoram,North-Eastern,False,Low birth weight and short gestation,None,35.3,16.3,10.8,-5.5,-34.2,-48.7,-14.7,-32.0,-2.2,False,False,None,None,
+Himachal Pradesh,Northern,False,No access to handwashing facility,None,60.5,7.7,2.1,-5.6,-72.6,-86.1,-50.6,-69.0,-3.6,False,False,None,None,
+Sikkim,North-Eastern,False,No access to handwashing facility,None,48.8,8.8,3.2,-5.6,-63.4,-82.9,-22.3,-69.0,5.6,False,False,Adverse divergence,None,
+Maharashtra,Western,False,Diet low in fruits,None,48.9,41.9,36.2,-5.7,-13.5,-26.6,0.7,-0.8,-12.7,False,False,None,None,
+Andhra Pradesh,Southern,False,Diet low in nuts and seeds,None,36.0,30.2,24.5,-5.7,-19.0,-43.2,8.2,-18.5,-0.5,False,False,None,None,
+Kerala,Southern,False,Diet high in trans fatty acids,None,17.3,13.7,8.0,-5.7,-41.5,-60.2,-12.1,-14.3,-27.2,False,False,None,None,
+Mizoram,North-Eastern,False,No access to handwashing facility,None,34.5,8.1,2.4,-5.7,-70.2,-88.8,-24.4,-69.0,-1.2,False,False,None,None,
+Uttarakhand,Central,False,Diet low in nuts and seeds,None,30.1,31.3,25.6,-5.7,-18.2,-48.7,14.7,-18.5,0.3,False,False,None,None,
+Kerala,Southern,False,Low birth weight and short gestation,None,27.7,10.9,5.2,-5.7,-51.8,-64.4,-36.4,-32.0,-19.8,False,False,None,None,
+Punjab,Northern,False,No access to handwashing facility,None,36.0,7.9,2.1,-5.8,-73.0,-87.3,-43.8,-69.0,-4.0,False,False,None,None,
+Andhra Pradesh,Southern,False,Diet low in fruits,None,69.8,63.0,57.1,-5.9,-9.3,-27.6,12.3,-0.8,-8.5,False,False,None,None,
+Andhra Pradesh,Southern,False,Low temperature,None,10.5,11.2,5.1,-6.1,-53.9,-62.4,-44.3,-12.8,-41.1,False,False,None,None,
+Kerala,Southern,False,Diet low in omega-6 polyunsaturated fatty acids,None,16.8,14.9,8.8,-6.1,-41.2,-52.9,-25.8,-14.1,-27.1,False,False,None,None,
+West Bengal,Eastern,False,Chewing tobacco,None,28.0,22.3,16.2,-6.1,-27.5,-54.2,23.1,6.1,-33.6,False,False,None,None,
+Sikkim,North-Eastern,False,Diet low in fruits,None,24.3,25.3,19.1,-6.2,-24.7,-41.6,-1.6,-0.8,-23.9,False,False,None,None,
+Haryana,Northern,False,Diet low in nuts and seeds,None,20.2,18.3,12.1,-6.2,-34.1,-63.0,-4.5,-18.5,-15.6,False,False,None,None,
+Assam,North-Eastern,False,Secondhand smoke,None,43.0,40.2,33.9,-6.3,-15.8,-31.9,2.5,-19.6,3.8,False,False,None,None,
+Nagaland,North-Eastern,False,Secondhand smoke,None,31.9,22.9,16.5,-6.4,-28.1,-41.6,-12.0,-19.6,-8.5,False,False,None,None,
+Telangana,Southern,False,Diet low in nuts and seeds,None,60.0,52.1,45.7,-6.4,-12.3,-38.1,15.0,-18.5,6.2,False,False,Adverse divergence,None,
+Tamil Nadu,Southern,False,Diet low in vegetables,None,23.0,19.5,13.1,-6.4,-33.0,-50.9,-12.4,-3.3,-29.7,False,False,None,None,
+Tamil Nadu,Southern,False,Low birth weight and short gestation,None,64.0,21.5,14.9,-6.6,-30.8,-46.2,-8.5,-32.0,1.2,False,False,None,None,
+Jammu & Kashmir and Ladakh,Northern,False,No access to handwashing facility,None,44.1,9.2,2.5,-6.7,-73.2,-90.0,-49.7,-69.0,-4.2,False,False,None,None,
+Goa,Western,False,Unsafe water source,None,76.4,13.8,7.1,-6.7,-48.7,-72.4,-19.2,-57.5,8.8,False,False,Adverse divergence,None,
+Sikkim,North-Eastern,False,Lead exposure,None,30.8,35.3,28.5,-6.8,-19.4,-40.2,4.3,-8.3,-11.1,False,False,None,None,
+Uttarakhand,Central,False,Secondhand smoke,None,59.8,67.1,60.2,-6.9,-10.3,-27.0,6.9,-19.6,9.3,False,True,Adverse divergence,None,
+Delhi,Northern,False,Occupational injuries,None,8.9,11.1,4.2,-6.9,-61.7,-77.7,-39.3,-41.1,-20.6,False,False,None,None,
+Bihar,Eastern,False,Occupational injuries,None,20.1,20.8,13.9,-6.9,-33.3,-50.9,-6.6,-41.1,7.8,False,False,Adverse divergence,None,
+Maharashtra,Western,False,Diet low in seafood omega-3 fatty acids,None,16.8,11.8,4.9,-6.9,-58.3,-80.2,-37.1,-29.5,-28.8,False,False,None,None,
+Tamil Nadu,Southern,False,Diet low in fiber,None,14.6,11.3,4.4,-6.9,-61.0,-91.3,7.8,-30.8,-30.2,False,False,None,None,
+Andhra Pradesh,Southern,False,Diet low in seafood omega-3 fatty acids,None,28.9,21.0,14.0,-7.0,-33.3,-63.8,2.8,-29.5,-3.8,False,False,None,None,
+West Bengal,Eastern,False,Occupational injuries,None,15.8,15.6,8.5,-7.1,-45.6,-60.7,-23.7,-41.1,-4.5,False,False,None,None,
+Goa,Western,False,Occupational injuries,None,18.6,19.3,12.2,-7.1,-36.9,-63.4,1.1,-41.1,4.2,False,False,None,None,
+Gujarat,Western,False,Diet low in seafood omega-3 fatty acids,None,24.2,15.5,8.3,-7.2,-46.1,-72.4,-19.1,-29.5,-16.6,False,False,None,None,
+Manipur,North-Eastern,False,Low birth weight and short gestation,None,45.1,22.8,15.6,-7.2,-31.5,-49.7,-9.8,-32.0,0.5,False,False,None,None,
+Arunachal Pradesh,North-Eastern,False,Low birth weight and short gestation,None,53.8,22.8,15.5,-7.3,-32.3,-48.5,-12.8,-32.0,-0.3,False,False,None,None,
+Mizoram,North-Eastern,False,Secondhand smoke,None,56.7,39.1,31.7,-7.4,-19.0,-33.5,-3.0,-19.6,0.6,False,False,None,None,
+Jammu & Kashmir and Ladakh,Northern,False,Low temperature,None,43.6,31.8,24.3,-7.5,-23.5,-35.0,-9.6,-12.8,-10.7,False,False,None,None,
+Kerala,Southern,False,Diet low in fruits,None,48.9,42.1,34.6,-7.5,-17.8,-31.2,1.1,-0.8,-17.0,False,False,None,None,
+Telangana,Southern,False,Diet low in fruits,None,87.9,79.1,71.6,-7.5,-9.5,-28.7,18.5,-0.8,-8.7,False,False,None,None,
+Haryana,Northern,False,Occupational injuries,None,21.6,20.0,12.4,-7.6,-38.1,-60.2,-10.4,-41.1,3.0,False,False,None,None,
+Goa,Western,False,Low birth weight and short gestation,None,43.0,21.8,14.2,-7.6,-34.9,-49.1,-16.3,-32.0,-2.9,False,False,None,None,
+Goa,Western,False,Diet low in seafood omega-3 fatty acids,None,30.0,20.3,12.7,-7.6,-37.4,-65.7,-7.9,-29.5,-7.9,False,False,None,None,
+Goa,Western,False,Unsafe sanitation,None,83.4,12.9,5.2,-7.7,-59.8,-77.5,-32.3,-66.2,6.4,False,False,Adverse divergence,None,
+Telangana,Southern,False,Diet low in fiber,None,26.0,18.6,10.9,-7.7,-41.6,-87.2,45.1,-30.8,-10.8,False,False,None,None,
+Delhi,Northern,False,Diet low in seafood omega-3 fatty acids,None,28.8,19.2,11.4,-7.8,-40.8,-61.0,-18.4,-29.5,-11.3,False,False,None,None,
+Jammu & Kashmir and Ladakh,Northern,False,Occupational injuries,None,16.7,17.3,9.5,-7.8,-45.1,-67.0,-12.6,-41.1,-4.0,False,False,None,None,
+Maharashtra,Western,False,Low birth weight and short gestation,None,70.0,28.2,20.4,-7.8,-27.8,-42.5,-9.6,-32.0,4.2,False,False,None,None,
+Gujarat,Western,False,Diet low in nuts and seeds,None,34.5,27.7,19.8,-7.9,-28.5,-44.2,-11.3,-18.5,-10.0,False,False,None,None,
+Jammu & Kashmir and Ladakh,Northern,False,Lead exposure,None,47.2,48.9,41.0,-7.9,-16.2,-31.4,3.3,-8.3,-7.9,False,False,None,None,
+Maharashtra,Western,False,Child growth failure,None,61.4,15.7,7.8,-7.9,-50.4,-61.2,-36.4,-57.9,7.5,False,False,Adverse divergence,None,
+Odisha,Eastern,False,Occupational injuries,None,16.9,22.9,14.9,-8.0,-34.7,-55.1,-8.7,-41.1,6.4,False,False,Adverse divergence,None,
+Gujarat,Western,False,Secondhand smoke,None,45.7,34.9,26.9,-8.0,-23.0,-39.1,-5.3,-19.6,-3.4,False,False,None,None,
+Maharashtra,Western,False,Diet low in nuts and seeds,None,19.3,14.5,6.5,-8.0,-55.2,-74.6,-34.3,-18.5,-36.7,False,False,None,None,
+Telangana,Southern,False,Low temperature,None,20.6,21.8,13.8,-8.0,-36.8,-47.1,-21.7,-12.8,-24.0,False,False,None,None,
+Chhattisgarh,Central,False,Occupational injuries,None,24.0,24.1,15.9,-8.2,-33.8,-55.8,-3.4,-41.1,7.3,False,False,Adverse divergence,None,
+Sikkim,North-Eastern,False,Low birth weight and short gestation,None,55.3,26.5,18.1,-8.4,-31.9,-50.1,-11.6,-32.0,0.1,False,False,None,None,
+Kerala,Southern,False,Diet low in seafood omega-3 fatty acids,None,21.8,15.4,7.0,-8.4,-54.7,-75.9,-35.4,-29.5,-25.2,False,False,None,None,
+Goa,Western,False,Diet low in nuts and seeds,None,32.9,20.9,12.4,-8.5,-40.8,-73.5,0.3,-18.5,-22.3,False,False,None,None,
+Sikkim,North-Eastern,False,Low temperature,None,35.4,27.9,19.3,-8.6,-30.9,-46.2,-16.3,-12.8,-18.1,False,False,None,None,
+Tamil Nadu,Southern,False,Child growth failure,None,62.2,13.0,4.3,-8.7,-66.7,-75.2,-54.3,-57.9,-8.8,False,False,None,None,
+Delhi,Northern,False,Diet low in nuts and seeds,None,28.7,19.7,10.8,-8.9,-45.5,-71.7,-17.7,-18.5,-27.0,False,False,None,None,
+Goa,Western,False,Diet low in fruits,None,56.4,47.0,38.1,-8.9,-18.9,-34.3,2.9,-0.8,-18.1,False,False,None,None,
+Rajasthan,Northern,False,Occupational injuries,None,20.0,22.4,13.5,-8.9,-40.0,-60.2,-13.4,-41.1,1.1,False,False,None,None,
+Rajasthan,Northern,False,Secondhand smoke,None,65.3,44.0,35.1,-8.9,-20.3,-34.9,-0.7,-19.6,-0.7,False,False,None,None,
+Andhra Pradesh,Southern,False,Occupational injuries,None,31.4,26.3,17.4,-8.9,-33.9,-55.1,-10.0,-41.1,7.2,False,False,Adverse divergence,None,
+Delhi,Northern,False,Low temperature,None,37.0,30.8,21.9,-8.9,-28.9,-39.8,-17.4,-12.8,-16.1,False,False,None,None,
+Himachal Pradesh,Northern,False,Secondhand smoke,None,34.6,31.0,22.0,-9.0,-29.1,-41.3,-16.6,-19.6,-9.5,False,False,None,None,
+Telangana,Southern,False,Diet low in seafood omega-3 fatty acids,None,47.2,35.0,26.0,-9.0,-25.7,-59.1,11.3,-29.5,3.8,False,False,None,None,
+Telangana,Southern,False,Child growth failure,None,61.7,16.6,7.6,-9.0,-54.1,-65.7,-39.6,-57.9,3.8,False,False,None,None,
+Tamil Nadu,Southern,False,Diet high in sodium,None,22.0,25.4,16.3,-9.1,-35.6,-77.6,76.7,-5.0,-30.6,False,False,None,None,
+Himachal Pradesh,Northern,False,Occupational injuries,None,19.9,18.5,9.3,-9.2,-49.8,-67.5,-23.5,-41.1,-8.7,False,False,None,None,
+Manipur,North-Eastern,False,Child growth failure,None,46.6,15.1,5.9,-9.2,-60.8,-70.7,-46.8,-57.9,-2.9,False,False,None,None,
+Punjab,Northern,False,Occupational injuries,None,16.3,18.3,9.1,-9.2,-50.0,-69.3,-25.0,-41.1,-8.9,False,False,None,None,
+Maharashtra,Western,False,Occupational injuries,None,16.6,18.2,8.8,-9.4,-51.7,-68.8,-32.2,-41.1,-10.6,False,False,None,None,
+Kerala,Southern,False,Secondhand smoke,None,42.9,30.7,21.2,-9.5,-31.0,-44.5,-15.2,-19.6,-11.4,False,False,None,None,
+Tamil Nadu,Southern,False,Diet low in whole grains,None,20.9,22.7,13.2,-9.5,-41.7,-66.5,-5.4,-5.9,-35.8,False,False,None,None,
+Nagaland,North-Eastern,False,Low birth weight and short gestation,None,59.3,31.2,21.6,-9.6,-30.7,-46.3,-9.8,-32.0,1.3,False,False,None,None,
+Gujarat,Western,False,Occupational injuries,None,16.7,20.9,11.2,-9.7,-46.3,-64.1,-25.3,-41.1,-5.2,False,False,None,None,
+Sikkim,North-Eastern,False,Secondhand smoke,None,40.9,30.7,21.0,-9.7,-31.6,-45.5,-17.5,-19.6,-12.0,False,False,None,None,
+Mizoram,North-Eastern,False,Child growth failure,None,43.5,14.8,5.0,-9.8,-66.2,-75.7,-56.5,-57.9,-8.3,False,False,None,None,
+Other Union Territories,Aggregate UTs,True,Child growth failure,None,57.0,15.4,5.6,-9.8,-63.4,-73.5,-45.4,-57.9,-5.5,False,False,None,None,
+West Bengal,Eastern,False,No access to handwashing facility,None,52.1,16.1,6.1,-10.0,-62.0,-85.5,-36.1,-69.0,7.0,False,False,Adverse divergence,None,
+Karnataka,Southern,False,Occupational injuries,None,21.1,22.4,12.3,-10.1,-44.9,-62.2,-23.5,-41.1,-3.8,False,False,None,None,
+West Bengal,Eastern,False,Child growth failure,None,73.5,17.4,7.3,-10.1,-58.2,-68.0,-46.3,-57.9,-0.3,False,False,None,None,
+Other Union Territories,Aggregate UTs,True,Low birth weight and short gestation,None,57.2,30.6,20.5,-10.1,-33.2,-46.9,-13.7,-32.0,-1.2,False,False,None,None,
+Maharashtra,Western,False,No access to handwashing facility,None,76.5,13.9,3.7,-10.2,-73.2,-87.1,-55.6,-69.0,-4.2,False,False,None,None,
+Meghalaya,North-Eastern,False,Low birth weight and short gestation,None,55.6,29.8,19.6,-10.2,-34.2,-49.0,-16.7,-32.0,-2.2,False,False,None,None,
+Tamil Nadu,Southern,False,Diet high in trans fatty acids,None,21.5,20.5,10.3,-10.2,-49.8,-66.1,-23.2,-14.3,-35.5,False,False,None,None,
+Tamil Nadu,Southern,False,Secondhand smoke,None,37.3,33.3,22.8,-10.5,-31.6,-44.9,-17.5,-19.6,-12.0,False,False,None,None,
+Kerala,Southern,False,Diet low in nuts and seeds,None,26.7,21.5,11.0,-10.5,-48.9,-67.3,-31.5,-18.5,-30.4,False,False,None,None,
+Uttarakhand,Central,False,Occupational injuries,None,19.3,18.6,8.1,-10.5,-56.7,-74.7,-30.4,-41.1,-15.6,False,False,None,None,
+Uttar Pradesh,Central,False,Occupational injuries,None,19.6,25.1,14.4,-10.7,-42.4,-57.0,-24.6,-41.1,-1.3,False,False,None,None,
+Andhra Pradesh,Southern,False,Secondhand smoke,None,46.4,42.0,31.1,-10.9,-26.0,-40.3,-8.5,-19.6,-6.4,False,False,None,None,
+Tamil Nadu,Southern,False,Occupational injuries,None,17.3,20.1,9.2,-10.9,-54.5,-70.4,-35.9,-41.1,-13.4,False,False,None,None,
+Telangana,Southern,False,Lead exposure,None,140.7,153.5,142.6,-10.9,-7.1,-23.9,14.4,-8.3,1.2,False,True,None,None,
+Karnataka,Southern,False,No access to handwashing facility,None,57.2,17.2,6.2,-11.0,-63.7,-84.9,-29.7,-69.0,5.3,False,False,Adverse divergence,None,
+Odisha,Eastern,False,Smoking,None,61.9,42.3,31.2,-11.1,-26.2,-44.5,3.5,-34.4,8.2,False,False,Adverse divergence,None,
+Tamil Nadu,Southern,False,Diet low in omega-6 polyunsaturated fatty acids,None,21.0,22.2,11.1,-11.1,-50.1,-58.8,-38.6,-14.1,-36.0,False,False,None,None,
+Sikkim,North-Eastern,False,Child growth failure,None,63.2,17.8,6.7,-11.1,-62.7,-72.8,-50.6,-57.9,-4.8,False,False,None,None,
+Tripura,North-Eastern,False,Secondhand smoke,None,68.4,46.4,35.2,-11.2,-24.1,-36.6,-10.7,-19.6,-4.5,False,False,None,None,
+Uttarakhand,Central,False,Child growth failure,None,65.1,22.8,11.5,-11.3,-49.4,-60.9,-33.7,-57.9,8.5,False,False,Adverse divergence,None,
+Delhi,Northern,False,Unsafe sanitation,None,74.0,15.6,4.2,-11.4,-73.4,-84.8,-54.9,-66.2,-7.2,False,False,None,None,
+Uttarakhand,Central,False,Low birth weight and short gestation,None,53.1,34.0,22.6,-11.4,-33.6,-49.4,-14.3,-32.0,-1.6,False,False,None,None,
+Delhi,Northern,False,Child growth failure,None,56.5,17.0,5.5,-11.5,-67.5,-75.7,-56.1,-57.9,-9.6,False,False,None,None,
+Tamil Nadu,Southern,False,Diet low in nuts and seeds,None,24.2,17.7,6.2,-11.5,-65.0,-78.9,-45.6,-18.5,-46.5,False,False,None,None,
+Sikkim,North-Eastern,False,Occupational injuries,None,17.6,20.4,8.8,-11.6,-57.0,-70.5,-38.7,-41.1,-15.9,False,False,None,None,
+Manipur,North-Eastern,False,No access to handwashing facility,None,47.1,19.1,7.5,-11.6,-60.4,-81.9,-29.4,-69.0,8.6,False,False,Adverse divergence,None,
+Madhya Pradesh,Central,False,Occupational injuries,None,22.3,24.7,13.0,-11.7,-47.5,-63.0,-28.2,-41.1,-6.4,False,False,None,None,
+Delhi,Northern,False,Diet low in fruits,None,46.7,37.9,25.9,-12.0,-31.7,-45.5,-12.9,-0.8,-30.9,False,False,None,None,
+Haryana,Northern,False,No access to handwashing facility,None,69.3,15.9,3.8,-12.1,-76.0,-90.6,-55.1,-69.0,-7.0,False,False,None,None,
+Punjab,Northern,False,Child growth failure,None,58.9,18.4,6.2,-12.2,-66.0,-75.0,-55.2,-57.9,-8.1,False,False,None,None,
+Karnataka,Southern,False,Low birth weight and short gestation,None,72.7,30.1,17.9,-12.2,-40.6,-51.7,-24.6,-32.0,-8.6,False,False,None,None,
+Punjab,Northern,False,Smoking,None,49.7,35.8,23.5,-12.3,-34.5,-50.5,-6.5,-34.4,-0.1,False,False,None,None,
+Karnataka,Southern,False,Child growth failure,None,68.0,20.0,7.7,-12.3,-61.2,-71.9,-45.2,-57.9,-3.3,False,False,None,None,
+Tripura,North-Eastern,False,Low birth weight and short gestation,None,68.2,39.7,27.3,-12.4,-31.3,-47.2,-12.8,-32.0,0.7,False,False,None,None,
+Andhra Pradesh,Southern,False,Child growth failure,None,79.9,19.8,7.3,-12.5,-63.1,-73.0,-50.5,-57.9,-5.2,False,False,None,None,
+West Bengal,Eastern,False,Secondhand smoke,None,65.4,46.1,33.6,-12.5,-27.2,-41.0,-11.7,-19.6,-7.6,False,False,None,None,
+Sikkim,North-Eastern,False,Unsafe sanitation,None,117.5,18.6,6.1,-12.5,-67.0,-79.9,-46.0,-66.2,-0.8,False,False,None,None,
+West Bengal,Eastern,False,Low birth weight and short gestation,None,83.9,36.2,23.7,-12.5,-34.6,-49.2,-17.4,-32.0,-2.6,False,False,None,None,
+Jammu & Kashmir and Ladakh,Northern,False,Unsafe water source,None,90.9,18.8,6.1,-12.7,-67.6,-80.6,-49.6,-57.5,-10.1,False,False,None,None,
+Telangana,Southern,False,Low birth weight and short gestation,None,80.3,36.7,23.9,-12.8,-34.8,-49.7,-17.5,-32.0,-2.8,False,False,None,None,
+Andhra Pradesh,Southern,False,Lead exposure,None,84.7,88.4,75.5,-12.9,-14.6,-32.2,5.7,-8.3,-6.3,False,False,None,None,
+Gujarat,Western,False,Low birth weight and short gestation,None,87.7,39.3,26.3,-13.0,-33.1,-48.3,-16.9,-32.0,-1.1,False,False,None,None,
+Delhi,Northern,False,Low birth weight and short gestation,None,64.1,31.2,18.2,-13.0,-41.5,-54.6,-27.0,-32.0,-9.5,False,False,None,None,
+Gujarat,Western,False,No access to handwashing facility,None,74.2,17.3,4.3,-13.0,-75.1,-86.6,-56.0,-69.0,-6.1,False,False,None,None,
+Jammu & Kashmir and Ladakh,Northern,False,Child growth failure,None,57.7,19.2,6.2,-13.0,-67.5,-76.3,-54.0,-57.9,-9.6,False,False,None,None,
+Tamil Nadu,Southern,False,No access to handwashing facility,None,79.9,18.5,5.3,-13.2,-71.4,-85.3,-51.1,-69.0,-2.4,False,False,None,None,
+Himachal Pradesh,Northern,False,Unsafe water source,None,162.7,23.4,10.1,-13.3,-56.8,-72.2,-36.7,-57.5,0.7,False,False,None,None,
+Uttarakhand,Central,False,No access to handwashing facility,None,90.2,21.2,7.9,-13.3,-62.6,-86.9,-27.1,-69.0,6.4,False,False,Adverse divergence,None,
+Himachal Pradesh,Northern,False,Child growth failure,None,66.0,19.4,6.0,-13.4,-69.2,-77.7,-58.8,-57.9,-11.3,False,False,None,None,
+Himachal Pradesh,Northern,False,Unsafe sanitation,None,153.0,19.0,5.6,-13.4,-70.3,-80.1,-55.2,-66.2,-4.1,False,False,None,None,
+Delhi,Northern,False,Household air pollution from solid fuels,None,65.6,14.9,1.3,-13.6,-91.3,-96.5,-81.3,-42.8,-48.5,False,False,None,None,
+Jammu & Kashmir and Ladakh,Northern,False,Unsafe sanitation,None,90.5,19.0,5.4,-13.6,-71.6,-82.5,-53.7,-66.2,-5.4,False,False,None,None,
+Gujarat,Western,False,Lead exposure,None,78.0,72.0,58.4,-13.6,-18.8,-34.7,2.8,-8.3,-10.5,False,False,None,None,
+Tamil Nadu,Southern,False,Diet low in seafood omega-3 fatty acids,None,27.0,22.7,8.9,-13.8,-60.9,-78.0,-44.7,-29.5,-31.4,False,False,None,None,
+Other Union Territories,Aggregate UTs,True,Unsafe water source,None,138.6,26.8,12.9,-13.9,-51.7,-71.5,-22.2,-57.5,5.8,False,False,Adverse divergence,None,
+Other Union Territories,Aggregate UTs,True,Unsafe sanitation,None,121.4,20.1,6.1,-14.0,-69.7,-82.2,-50.7,-66.2,-3.5,False,False,None,None,
+Arunachal Pradesh,North-Eastern,False,No access to handwashing facility,None,77.0,20.9,6.8,-14.1,-67.2,-86.9,-39.7,-69.0,1.8,False,False,None,None,
+Madhya Pradesh,Central,False,Secondhand smoke,None,59.8,45.6,31.5,-14.1,-31.0,-43.1,-15.8,-19.6,-11.4,False,False,None,None,
+Meghalaya,North-Eastern,False,No access to handwashing facility,None,93.2,22.2,8.0,-14.2,-63.9,-84.6,-34.1,-69.0,5.1,False,False,Adverse divergence,None,
+Himachal Pradesh,Northern,False,Low birth weight and short gestation,None,56.1,32.2,18.0,-14.2,-44.0,-56.9,-30.0,-32.0,-12.0,False,False,None,None,
+Arunachal Pradesh,North-Eastern,False,Child growth failure,None,86.6,23.1,8.4,-14.7,-63.8,-75.6,-38.4,-57.9,-5.9,False,False,None,None,
+Tripura,North-Eastern,False,Child growth failure,None,81.4,29.1,14.4,-14.7,-50.5,-60.8,-34.4,-57.9,7.4,False,False,Adverse divergence,None,
+Sikkim,North-Eastern,False,Unsafe water source,None,124.4,26.4,11.6,-14.8,-56.2,-74.3,-31.8,-57.5,1.3,False,False,None,None,
+Mizoram,North-Eastern,False,Unsafe water source,None,90.6,23.9,9.0,-14.9,-62.4,-78.7,-40.2,-57.5,-4.9,False,False,None,None,
+Mizoram,North-Eastern,False,Unsafe sanitation,None,87.5,20.7,5.8,-14.9,-71.9,-81.9,-55.3,-66.2,-5.7,False,False,None,None,
+Haryana,Northern,False,Low birth weight and short gestation,None,71.1,42.2,27.3,-14.9,-35.4,-48.5,-19.6,-32.0,-3.4,False,False,None,None,
+Punjab,Northern,False,Low birth weight and short gestation,None,62.4,39.2,24.1,-15.1,-38.5,-51.8,-21.7,-32.0,-6.5,False,False,None,None,
+Jammu & Kashmir and Ladakh,Northern,False,Secondhand smoke,None,57.1,50.0,34.8,-15.2,-30.4,-41.8,-17.5,-19.6,-10.8,False,False,None,None,
+Jammu & Kashmir and Ladakh,Northern,False,Low birth weight and short gestation,None,71.6,40.8,25.2,-15.6,-38.3,-51.9,-22.4,-32.0,-6.3,False,False,None,None,
+Andhra Pradesh,Southern,False,Low birth weight and short gestation,None,85.4,41.9,26.2,-15.7,-37.5,-50.7,-20.8,-32.0,-5.5,False,False,None,None,
+Delhi,Northern,False,Lead exposure,None,68.3,61.6,45.8,-15.8,-25.7,-39.9,-10.4,-8.3,-17.4,False,False,None,None,
+Uttar Pradesh,Central,False,Low birth weight and short gestation,None,129.2,61.6,45.4,-16.2,-26.3,-38.5,-12.3,-32.0,5.7,False,False,Adverse divergence,None,
+Delhi,Northern,False,Secondhand smoke,None,55.8,39.7,23.4,-16.3,-40.9,-52.1,-29.4,-19.6,-21.3,False,False,None,None,
+Nagaland,North-Eastern,False,Unsafe water source,None,81.0,31.6,15.2,-16.4,-51.8,-67.0,-27.7,-57.5,5.7,False,False,Adverse divergence,None,
+Nagaland,North-Eastern,False,Unsafe sanitation,None,77.1,27.3,10.2,-17.1,-62.7,-74.8,-42.9,-66.2,3.5,False,False,None,None,
+Other Union Territories,Aggregate UTs,True,Smoking,None,92.2,54.5,37.4,-17.1,-31.4,-48.0,-9.3,-34.4,3.0,False,False,None,None,
+Haryana,Northern,False,Child growth failure,None,89.8,31.5,14.3,-17.2,-54.6,-63.8,-42.8,-57.9,3.3,False,False,None,None,
+Goa,Western,False,Lead exposure,None,90.0,83.3,65.5,-17.8,-21.4,-35.3,-2.8,-8.3,-13.1,False,False,None,None,
+Tamil Nadu,Southern,False,Diet low in fruits,None,63.4,63.4,45.6,-17.8,-28.1,-39.3,-14.9,-0.8,-27.3,False,False,None,None,
+Goa,Western,False,Smoking,None,53.1,40.1,22.3,-17.8,-44.3,-60.2,-18.3,-34.4,-9.9,False,False,None,None,
+Jharkhand,Eastern,False,Child growth failure,None,91.2,28.5,10.7,-17.8,-62.5,-70.8,-46.7,-57.9,-4.6,False,False,None,None,
+Meghalaya,North-Eastern,False,Child growth failure,None,96.5,28.1,10.3,-17.8,-63.2,-73.9,-45.8,-57.9,-5.3,False,False,None,None,
+Punjab,Northern,False,Unsafe sanitation,None,101.6,26.3,8.4,-17.9,-68.2,-80.8,-52.4,-66.2,-2.0,False,False,None,None,
+Rajasthan,Northern,False,Low birth weight and short gestation,None,97.0,53.0,35.1,-17.9,-33.8,-46.3,-20.1,-32.0,-1.8,False,False,None,None,
+Delhi,Northern,False,Unsafe water source,None,98.9,29.8,11.6,-18.2,-61.0,-78.7,-32.9,-57.5,-3.5,False,False,None,None,
+Maharashtra,Western,False,Smoking,None,67.1,49.8,31.5,-18.3,-36.8,-60.3,-8.5,-34.4,-2.4,False,False,None,None,
+West Bengal,Eastern,False,Unsafe sanitation,None,99.6,27.0,8.7,-18.3,-67.8,-80.6,-49.6,-66.2,-1.6,False,False,None,None,
+Jharkhand,Eastern,False,Low birth weight and short gestation,None,85.4,49.7,31.3,-18.4,-37.1,-52.0,-21.5,-32.0,-5.1,False,False,None,None,
+Madhya Pradesh,Central,False,Low birth weight and short gestation,None,111.1,58.4,39.8,-18.6,-31.9,-44.7,-13.0,-32.0,0.1,False,False,None,None,
+Gujarat,Western,False,Child growth failure,None,87.1,28.7,10.0,-18.7,-65.2,-73.1,-54.9,-57.9,-7.3,False,False,None,None,
+Rajasthan,Northern,False,No access to handwashing facility,None,88.5,28.4,9.7,-18.7,-66.0,-89.5,-31.8,-69.0,3.0,False,False,None,None,
+West Bengal,Eastern,False,Unsafe water source,None,114.2,35.2,15.6,-19.6,-55.8,-73.0,-31.5,-57.5,1.7,False,False,None,None,
+Odisha,Eastern,False,Low birth weight and short gestation,None,117.3,55.6,35.9,-19.7,-35.6,-48.3,-19.9,-32.0,-3.6,False,False,None,None,
+Punjab,Northern,False,Unsafe water source,None,117.9,36.5,16.1,-20.4,-56.0,-74.4,-31.5,-57.5,1.5,False,False,None,None,
+Chhattisgarh,Central,False,Low birth weight and short gestation,None,106.8,63.2,42.8,-20.4,-32.3,-45.3,-16.7,-32.0,-0.3,False,False,None,None,
+Assam,North-Eastern,False,Child growth failure,None,94.6,31.5,11.0,-20.5,-65.0,-72.9,-53.4,-57.9,-7.1,False,False,None,None,
+Maharashtra,Western,False,Lead exposure,None,55.6,58.0,36.9,-21.1,-36.3,-49.8,-21.6,-8.3,-28.0,False,False,None,None,
+Assam,North-Eastern,False,Low birth weight and short gestation,None,81.6,48.2,26.9,-21.3,-44.2,-56.1,-31.5,-32.0,-12.2,False,False,None,None,
+Kerala,Southern,False,Lead exposure,None,71.0,71.5,49.3,-22.2,-31.0,-45.8,-11.8,-8.3,-22.7,False,False,None,None,
+Uttar Pradesh,Central,False,No access to handwashing facility,None,83.8,33.9,10.6,-23.3,-68.6,-80.8,-47.8,-69.0,0.4,False,False,None,None,
+Odisha,Eastern,False,Child growth failure,None,133.5,39.8,16.2,-23.6,-59.2,-67.5,-48.3,-57.9,-1.3,False,False,None,None,
+Maharashtra,Western,False,Unsafe sanitation,None,185.9,37.5,13.7,-23.8,-63.5,-73.2,-51.2,-66.2,2.7,False,False,None,None,
+Bihar,Eastern,False,Low birth weight and short gestation,None,87.5,50.1,25.8,-24.3,-48.6,-61.5,-33.6,-32.0,-16.6,False,False,None,None,
+Maharashtra,Western,False,Unsafe water source,None,213.0,46.2,21.9,-24.3,-52.6,-68.9,-34.8,-57.5,4.9,False,False,None,None,
+Andhra Pradesh,Southern,False,No access to handwashing facility,None,140.8,37.6,13.2,-24.4,-65.0,-84.3,-39.7,-69.0,4.0,False,False,None,None,
+Arunachal Pradesh,North-Eastern,False,Smoking,None,98.0,100.3,75.6,-24.7,-24.6,-42.2,0.8,-34.4,9.8,False,False,Adverse divergence,None,
+Uttar Pradesh,Central,False,Child growth failure,None,149.7,48.5,23.0,-25.5,-52.6,-61.5,-41.5,-57.9,5.3,False,False,Adverse divergence,None,
+Bihar,Eastern,False,Child growth failure,None,137.2,36.3,10.6,-25.7,-70.9,-77.5,-61.5,-57.9,-13.0,False,False,None,None,
+Rajasthan,Northern,False,Child growth failure,None,123.8,41.4,15.4,-26.0,-62.9,-71.1,-53.7,-57.9,-5.0,False,False,None,None,
+Kerala,Southern,False,Smoking,None,108.3,71.7,45.2,-26.5,-37.0,-54.6,-12.3,-34.4,-2.6,False,False,None,None,
+Assam,North-Eastern,False,No access to handwashing facility,None,96.7,35.7,8.6,-27.1,-75.9,-86.7,-61.0,-69.0,-6.9,False,False,None,None,
+Madhya Pradesh,Central,False,No access to handwashing facility,None,112.1,38.1,10.8,-27.3,-71.8,-86.4,-49.3,-69.0,-2.8,False,False,None,None,
+Karnataka,Southern,False,Smoking,None,114.6,100.4,73.1,-27.3,-27.1,-45.6,0.1,-34.4,7.3,False,False,Adverse divergence,None,
+Karnataka,Southern,False,Unsafe sanitation,None,134.9,44.5,17.1,-27.4,-61.7,-75.3,-43.4,-66.2,4.5,False,False,None,None,
+Tamil Nadu,Southern,False,Smoking,None,76.4,76.4,48.9,-27.5,-36.0,-56.1,-6.5,-34.4,-1.6,False,False,None,None,
+Nagaland,North-Eastern,False,Smoking,None,93.5,65.1,37.3,-27.8,-42.7,-56.4,-24.8,-34.4,-8.3,False,False,None,None,
+Telangana,Southern,False,No access to handwashing facility,None,171.7,42.6,14.8,-27.8,-65.3,-86.4,-37.3,-69.0,3.7,False,False,None,None,
+Karnataka,Southern,False,Unsafe water source,None,151.5,51.7,23.9,-27.8,-53.7,-71.4,-32.9,-57.5,3.8,False,False,None,None,
+Gujarat,Western,False,Unsafe sanitation,None,172.8,40.4,12.2,-28.2,-69.7,-80.3,-53.3,-66.2,-3.5,False,False,None,None,
+Tamil Nadu,Southern,False,Unsafe water source,None,197.2,52.8,24.2,-28.6,-54.2,-72.7,-35.1,-57.5,3.3,False,False,None,None,
+Haryana,Northern,False,Unsafe sanitation,None,163.5,42.3,13.0,-29.3,-69.3,-83.3,-49.5,-66.2,-3.1,False,False,None,None,
+Tamil Nadu,Southern,False,Unsafe sanitation,None,184.8,44.8,15.5,-29.3,-65.4,-78.4,-52.1,-66.2,0.8,False,False,None,None,
+Chhattisgarh,Central,False,No access to handwashing facility,None,130.5,47.2,17.9,-29.3,-62.2,-87.8,-22.4,-69.0,6.8,False,False,Adverse divergence,None,
+Gujarat,Western,False,Unsafe water source,None,205.5,53.0,22.4,-30.6,-57.8,-74.6,-36.1,-57.5,-0.3,False,False,None,None,
+Madhya Pradesh,Central,False,Child growth failure,None,147.6,48.4,17.5,-30.9,-63.8,-72.2,-54.5,-57.9,-5.9,False,False,None,None,
+Arunachal Pradesh,North-Eastern,False,Unsafe water source,None,167.2,52.6,21.7,-30.9,-58.8,-76.5,-36.3,-57.5,-1.3,False,False,None,None,
+Uttarakhand,Central,False,Unsafe water source,None,236.1,63.1,32.1,-31.0,-49.1,-70.2,-12.9,-57.5,8.4,False,False,Adverse divergence,None,
+Bihar,Eastern,False,Smoking,None,90.6,83.6,52.3,-31.3,-37.4,-57.4,-9.3,-34.4,-3.0,False,False,None,None,
+Haryana,Northern,False,Unsafe water source,None,189.5,57.1,25.8,-31.3,-54.9,-77.0,-28.5,-57.5,2.6,False,False,None,None,
+Arunachal Pradesh,North-Eastern,False,Unsafe sanitation,None,162.4,49.9,18.3,-31.6,-63.4,-77.4,-44.4,-66.2,2.8,False,False,None,None,
+Manipur,North-Eastern,False,Unsafe sanitation,None,106.5,51.1,18.3,-32.8,-64.2,-74.7,-48.7,-66.2,2.0,False,False,None,None,
+Manipur,North-Eastern,False,Unsafe water source,None,117.2,61.2,28.4,-32.8,-53.6,-69.2,-35.5,-57.5,3.9,False,False,None,None,
+Uttarakhand,Central,False,Unsafe sanitation,None,215.7,53.5,20.5,-33.0,-61.7,-77.1,-31.6,-66.2,4.5,False,False,None,None,
+Rajasthan,Northern,False,Unsafe sanitation,None,160.8,48.3,14.8,-33.5,-69.3,-80.9,-52.6,-66.2,-3.1,False,False,None,None,
+Arunachal Pradesh,North-Eastern,False,Household air pollution from solid fuels,None,136.4,99.2,65.0,-34.2,-34.5,-48.7,-19.8,-42.8,8.3,False,False,Adverse divergence,None,
+Rajasthan,Northern,False,Smoking,None,184.4,136.7,101.6,-35.1,-25.7,-49.3,8.4,-34.4,8.7,False,False,Adverse divergence,None,
+Sikkim,North-Eastern,False,Smoking,None,110.7,80.5,44.9,-35.6,-44.2,-57.9,-23.9,-34.4,-9.8,False,False,None,None,
+Rajasthan,Northern,False,Unsafe water source,None,187.5,56.4,20.2,-36.2,-64.2,-78.6,-42.9,-57.5,-6.7,False,False,None,None,
+Chhattisgarh,Central,False,Smoking,None,92.2,100.7,63.7,-37.0,-36.8,-55.5,-12.1,-34.4,-2.4,False,False,None,None,
+Himachal Pradesh,Northern,False,Smoking,None,125.3,112.9,75.1,-37.8,-33.5,-46.1,-16.4,-34.4,0.9,False,False,None,None,
+Jammu & Kashmir and Ladakh,Northern,False,Smoking,None,112.8,114.2,76.0,-38.2,-33.4,-49.1,-12.9,-34.4,1.0,False,False,None,None,
+Gujarat,Western,False,Smoking,None,140.0,99.3,61.0,-38.3,-38.6,-54.0,-15.6,-34.4,-4.2,False,False,None,None,
+Meghalaya,North-Eastern,False,Unsafe sanitation,None,236.9,55.2,16.9,-38.3,-69.3,-78.9,-55.4,-66.2,-3.1,False,False,None,None,
+Meghalaya,North-Eastern,False,Unsafe water source,None,252.8,66.2,27.8,-38.4,-58.1,-71.2,-39.2,-57.5,-0.6,False,False,None,None,
+Delhi,Northern,False,Ambient particulate matter pollution,None,175.1,164.9,125.0,-39.9,-24.2,-42.1,-2.6,52.5,-76.7,False,False,None,None,
+Manipur,North-Eastern,False,Household air pollution from solid fuels,None,158.3,110.3,69.3,-41.0,-37.1,-50.8,-20.0,-42.8,5.7,False,False,Adverse divergence,None,
+Tripura,North-Eastern,False,Smoking,None,191.0,138.1,96.9,-41.2,-29.9,-44.9,-10.7,-34.4,4.5,False,False,None,None,
+Mizoram,North-Eastern,False,Household air pollution from solid fuels,None,130.4,70.9,29.4,-41.5,-58.5,-69.1,-43.1,-42.8,-15.7,False,False,None,None,
+West Bengal,Eastern,False,Smoking,None,168.3,120.8,79.0,-41.8,-34.6,-52.3,-11.2,-34.4,-0.2,False,False,None,None,
+Odisha,Eastern,False,No access to handwashing facility,None,184.3,55.5,13.1,-42.4,-76.5,-86.9,-64.7,-69.0,-7.5,False,False,None,None,
+Uttar Pradesh,Central,False,Smoking,None,157.9,137.0,93.2,-43.8,-32.0,-48.6,-8.8,-34.4,2.4,False,False,None,None,
+Madhya Pradesh,Central,False,Smoking,None,135.6,106.7,62.5,-44.2,-41.4,-57.7,-20.7,-34.4,-7.0,False,False,None,None,
+Assam,North-Eastern,False,Smoking,None,125.8,122.4,77.7,-44.7,-36.5,-49.4,-14.8,-34.4,-2.1,False,False,None,None,
+Delhi,Northern,False,Smoking,None,114.2,80.7,35.8,-44.9,-55.6,-67.6,-39.6,-34.4,-21.2,False,False,None,None,
+Tamil Nadu,Southern,False,Lead exposure,None,87.9,104.4,59.1,-45.3,-43.4,-54.1,-30.8,-8.3,-35.1,False,False,None,None,
+Uttar Pradesh,Central,False,Unsafe sanitation,None,185.6,78.6,32.4,-46.2,-58.7,-70.2,-43.0,-66.2,7.5,False,False,Adverse divergence,None,
+Jharkhand,Eastern,False,No access to handwashing facility,None,136.9,61.5,14.1,-47.4,-77.1,-89.0,-61.1,-69.0,-8.1,False,False,None,None,
+Haryana,Northern,False,Household air pollution from solid fuels,None,144.3,117.0,69.2,-47.8,-40.9,-54.7,-26.0,-42.8,1.9,False,False,None,None,
+Uttar Pradesh,Central,False,Unsafe water source,None,213.3,95.7,47.9,-47.8,-49.9,-64.0,-31.0,-57.5,7.6,False,False,Adverse divergence,None,
+Sikkim,North-Eastern,False,Household air pollution from solid fuels,None,142.3,85.9,36.3,-49.6,-57.7,-68.9,-46.3,-42.8,-14.9,False,False,None,None,
+Andhra Pradesh,Southern,False,Smoking,None,145.5,125.2,75.4,-49.8,-39.8,-54.4,-19.5,-34.4,-5.4,False,False,None,None,
+Other Union Territories,Aggregate UTs,True,Household air pollution from solid fuels,None,134.6,71.8,18.8,-53.0,-73.8,-86.6,-58.4,-42.8,-31.0,False,False,None,None,
+Andhra Pradesh,Southern,False,Unsafe sanitation,None,320.6,83.4,27.5,-55.9,-67.1,-77.7,-50.5,-66.2,-0.9,False,False,None,None,
+Madhya Pradesh,Central,False,Unsafe sanitation,None,234.1,79.9,23.4,-56.5,-70.8,-80.6,-59.2,-66.2,-4.6,False,False,None,None,
+Maharashtra,Western,False,Household air pollution from solid fuels,None,167.0,103.2,45.7,-57.5,-55.7,-67.9,-44.0,-42.8,-12.9,False,False,None,None,
+Assam,North-Eastern,False,Unsafe sanitation,None,212.5,80.5,21.0,-59.5,-73.9,-82.2,-63.9,-66.2,-7.7,False,False,None,None,
+Chhattisgarh,Central,False,Unsafe sanitation,None,274.6,90.5,30.8,-59.7,-65.9,-82.2,-41.6,-66.2,0.3,False,False,None,None,
+Assam,North-Eastern,False,Unsafe water source,None,229.9,92.4,31.7,-60.7,-65.7,-76.7,-53.0,-57.5,-8.2,False,False,None,None,
+Goa,Western,False,Household air pollution from solid fuels,None,167.9,69.2,8.2,-61.0,-88.1,-94.3,-78.1,-42.8,-45.3,False,False,None,None,
+Andhra Pradesh,Southern,False,Unsafe water source,None,371.6,107.7,46.5,-61.2,-56.8,-71.8,-35.2,-57.5,0.7,False,False,None,None,
+Chhattisgarh,Central,False,Unsafe water source,None,316.5,108.3,46.1,-62.2,-57.4,-77.9,-25.4,-57.5,0.1,False,False,None,None,
+Punjab,Northern,False,Household air pollution from solid fuels,None,155.5,108.7,46.2,-62.5,-57.5,-68.4,-44.0,-42.8,-14.7,False,False,None,None,
+Madhya Pradesh,Central,False,Unsafe water source,None,275.7,96.9,34.4,-62.5,-64.4,-76.3,-50.4,-57.5,-6.9,False,False,None,None,
+Himachal Pradesh,Northern,False,Household air pollution from solid fuels,None,173.0,124.7,61.5,-63.2,-50.7,-62.4,-39.2,-42.8,-7.9,False,False,None,None,
+Gujarat,Western,False,Household air pollution from solid fuels,None,181.1,127.2,61.0,-66.2,-52.1,-63.5,-37.7,-42.8,-9.3,False,False,None,None,
+Telangana,Southern,False,Unsafe sanitation,None,407.0,105.7,36.6,-69.1,-65.3,-78.1,-46.4,-66.2,0.9,False,False,None,None,
+Tripura,North-Eastern,False,Household air pollution from solid fuels,None,228.8,151.7,82.4,-69.3,-45.7,-56.9,-34.1,-42.8,-2.9,False,False,None,None,
+Uttarakhand,Central,False,Smoking,None,229.3,252.3,182.9,-69.4,-27.5,-43.7,-7.2,-34.4,6.9,False,False,Adverse divergence,None,
+Madhya Pradesh,Central,False,Household air pollution from solid fuels,None,244.2,180.7,106.9,-73.8,-40.8,-50.8,-29.4,-42.8,2.0,False,False,None,None,
+West Bengal,Eastern,False,Household air pollution from solid fuels,None,248.7,174.7,99.6,-75.1,-43.0,-54.6,-30.8,-42.8,-0.2,False,False,None,None,
+Telangana,Southern,False,Unsafe water source,None,480.2,137.5,61.6,-75.9,-55.2,-70.8,-31.3,-57.5,2.3,False,False,None,None,
+Karnataka,Southern,False,Household air pollution from solid fuels,None,230.1,160.5,81.4,-79.1,-49.2,-62.5,-33.4,-42.8,-6.4,False,False,None,None,
+Jammu & Kashmir and Ladakh,Northern,False,Household air pollution from solid fuels,None,215.0,134.4,54.3,-80.1,-59.6,-69.0,-48.5,-42.8,-16.8,False,False,None,None,
+Tamil Nadu,Southern,False,Household air pollution from solid fuels,None,198.6,127.0,41.7,-85.3,-67.1,-77.2,-55.2,-42.8,-24.3,False,False,None,None,
+Kerala,Southern,False,Household air pollution from solid fuels,None,188.5,130.3,43.2,-87.1,-66.9,-79.9,-53.6,-42.8,-24.1,False,False,None,None,
+Odisha,Eastern,False,Unsafe sanitation,None,413.9,125.3,32.8,-92.5,-73.9,-80.4,-59.4,-66.2,-7.7,False,False,None,None,
+Andhra Pradesh,Southern,False,Household air pollution from solid fuels,None,237.2,156.2,61.6,-94.6,-60.5,-71.8,-48.3,-42.8,-17.7,False,False,None,None,
+Uttarakhand,Central,False,Household air pollution from solid fuels,None,273.0,225.7,127.0,-98.7,-43.7,-56.3,-30.0,-42.8,-0.9,False,False,None,None,
+Odisha,Eastern,False,Unsafe water source,None,461.6,143.3,42.6,-100.7,-70.2,-78.0,-54.9,-57.5,-12.7,False,False,None,None,
+Jharkhand,Eastern,False,Unsafe sanitation,None,302.5,143.8,36.7,-107.1,-74.4,-83.9,-60.6,-66.2,-8.2,False,False,None,None,
+Jharkhand,Eastern,False,Unsafe water source,None,338.9,165.7,49.3,-116.4,-70.2,-81.4,-54.5,-57.5,-12.7,False,False,None,None,
+Telangana,Southern,False,Household air pollution from solid fuels,None,334.4,215.5,85.9,-129.6,-60.1,-72.3,-46.8,-42.8,-17.3,False,False,None,None,

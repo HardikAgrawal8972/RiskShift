@@ -1,0 +1,21 @@
+risk,PC1,PC2,PC1_var,PC2_var
+"Unsafe water, sanitation, and handwashing",0.1315,0.3991,0.4214,0.222
+Air pollution,0.2579,0.2524,0.4214,0.222
+Non-optimal temperature,0.1296,0.1238,0.4214,0.222
+Other environmental risks,0.3129,-0.1433,0.4214,0.222
+Occupational risks,0.1732,0.3088,0.4214,0.222
+Child and maternal malnutrition,0.0878,0.4184,0.4214,0.222
+Tobacco,0.0992,0.335,0.4214,0.222
+High alcohol use,0.0563,0.2237,0.4214,0.222
+Drug use,-0.0105,0.0247,0.4214,0.222
+Dietary risks,0.3266,-0.067,0.4214,0.222
+Intimate partner violence,0.2381,0.142,0.4214,0.222
+Sexual violence against children and bullying,0.2479,-0.0037,0.4214,0.222
+Unsafe sex,0.1028,-0.0117,0.4214,0.222
+Low physical activity,0.2826,-0.1466,0.4214,0.222
+High fasting plasma glucose,0.2469,-0.2544,0.4214,0.222
+High LDL cholesterol,0.2941,-0.1637,0.4214,0.222
+High systolic blood pressure,0.3105,-0.0774,0.4214,0.222
+High body-mass index,0.0764,-0.3973,0.4214,0.222
+Low bone mineral density,0.291,-0.0087,0.4214,0.222
+Kidney dysfunction,0.3178,-0.0789,0.4214,0.222

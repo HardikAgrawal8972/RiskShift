@@ -1,0 +1,89 @@
+order,risk,risk_level,parent_risk,level_source,level1_risk,level2_risk
+0,All risk factors,0,,GBD 2023 Appendix 2 Table S1,,
+1,Environmental/occupational risks,1,All risk factors,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,
+2,"Unsafe water, sanitation, and handwashing",2,Environmental/occupational risks,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,"Unsafe water, sanitation, and handwashing"
+3,Unsafe water source,3,"Unsafe water, sanitation, and handwashing",GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,"Unsafe water, sanitation, and handwashing"
+4,Unsafe sanitation,3,"Unsafe water, sanitation, and handwashing",GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,"Unsafe water, sanitation, and handwashing"
+5,No access to handwashing facility,3,"Unsafe water, sanitation, and handwashing",GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,"Unsafe water, sanitation, and handwashing"
+6,Air pollution,2,Environmental/occupational risks,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,Air pollution
+7,Particulate matter pollution,3,Air pollution,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,Air pollution
+8,Ambient particulate matter pollution,4,Particulate matter pollution,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,Air pollution
+9,Household air pollution from solid fuels,4,Particulate matter pollution,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,Air pollution
+10,Ambient ozone pollution,3,Air pollution,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,Air pollution
+11,Nitrogen dioxide pollution,3,Air pollution,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,Air pollution
+12,Non-optimal temperature,2,Environmental/occupational risks,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,Non-optimal temperature
+13,High temperature,3,Non-optimal temperature,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,Non-optimal temperature
+14,Low temperature,3,Non-optimal temperature,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,Non-optimal temperature
+15,Other environmental risks,2,Environmental/occupational risks,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,Other environmental risks
+16,Residential radon,3,Other environmental risks,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,Other environmental risks
+17,Lead exposure,3,Other environmental risks,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,Other environmental risks
+18,Occupational risks,2,Environmental/occupational risks,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,Occupational risks
+19,Occupational carcinogens,3,Occupational risks,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,Occupational risks
+20,Occupational exposure to asbestos,4,Occupational carcinogens,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,Occupational risks
+21,Occupational exposure to arsenic,4,Occupational carcinogens,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,Occupational risks
+22,Occupational exposure to benzene,4,Occupational carcinogens,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,Occupational risks
+23,Occupational exposure to beryllium,4,Occupational carcinogens,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,Occupational risks
+24,Occupational exposure to cadmium,4,Occupational carcinogens,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,Occupational risks
+25,Occupational exposure to chromium,4,Occupational carcinogens,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,Occupational risks
+26,Occupational exposure to diesel engine exhaust,4,Occupational carcinogens,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,Occupational risks
+27,Occupational exposure to formaldehyde,4,Occupational carcinogens,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,Occupational risks
+28,Occupational exposure to nickel,4,Occupational carcinogens,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,Occupational risks
+29,Occupational exposure to polycyclic aromatic hydrocarbons,4,Occupational carcinogens,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,Occupational risks
+30,Occupational exposure to silica,4,Occupational carcinogens,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,Occupational risks
+31,Occupational exposure to sulfuric acid,4,Occupational carcinogens,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,Occupational risks
+32,Occupational exposure to trichloroethylene,4,Occupational carcinogens,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,Occupational risks
+33,Occupational asthmagens,3,Occupational risks,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,Occupational risks
+34,"Occupational particulate matter, gases, and fumes",3,Occupational risks,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,Occupational risks
+35,Occupational noise,3,Occupational risks,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,Occupational risks
+36,Occupational injuries,3,Occupational risks,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,Occupational risks
+37,Occupational ergonomic factors,3,Occupational risks,GBD 2023 Appendix 2 Table S1,Environmental/occupational risks,Occupational risks
+38,Behavioural risks,1,All risk factors,GBD 2023 Appendix 2 Table S1,Behavioural risks,
+39,Child and maternal malnutrition,2,Behavioural risks,GBD 2023 Appendix 2 Table S1,Behavioural risks,Child and maternal malnutrition
+40,Suboptimal breastfeeding,3,Child and maternal malnutrition,GBD 2023 Appendix 2 Table S1,Behavioural risks,Child and maternal malnutrition
+41,Non-exclusive breastfeeding,4,Suboptimal breastfeeding,GBD 2023 Appendix 2 Table S1,Behavioural risks,Child and maternal malnutrition
+42,Discontinued breastfeeding,4,Suboptimal breastfeeding,GBD 2023 Appendix 2 Table S1,Behavioural risks,Child and maternal malnutrition
+43,Child growth failure,3,Child and maternal malnutrition,GBD 2023 Appendix 2 Table S1,Behavioural risks,Child and maternal malnutrition
+44,Child underweight,4,Child growth failure,GBD 2023 Appendix 2 Table S1,Behavioural risks,Child and maternal malnutrition
+45,Child wasting,4,Child growth failure,GBD 2023 Appendix 2 Table S1,Behavioural risks,Child and maternal malnutrition
+46,Child stunting,4,Child growth failure,GBD 2023 Appendix 2 Table S1,Behavioural risks,Child and maternal malnutrition
+47,Low birth weight and short gestation,3,Child and maternal malnutrition,manual map (name differs from hierarchy table),Behavioural risks,Child and maternal malnutrition
+48,Short gestation,4,Low birth weight and short gestation,GBD 2023 Appendix 2 Table S1,Behavioural risks,Child and maternal malnutrition
+49,Low birth weight,4,Low birth weight and short gestation,manual map (name differs from hierarchy table),Behavioural risks,Child and maternal malnutrition
+50,Iron deficiency,3,Child and maternal malnutrition,GBD 2023 Appendix 2 Table S1,Behavioural risks,Child and maternal malnutrition
+51,Vitamin A deficiency,3,Child and maternal malnutrition,GBD 2023 Appendix 2 Table S1,Behavioural risks,Child and maternal malnutrition
+52,Zinc deficiency,3,Child and maternal malnutrition,GBD 2023 Appendix 2 Table S1,Behavioural risks,Child and maternal malnutrition
+53,Tobacco,2,Behavioural risks,GBD 2023 Appendix 2 Table S1,Behavioural risks,Tobacco
+54,Smoking,3,Tobacco,GBD 2023 Appendix 2 Table S1,Behavioural risks,Tobacco
+55,Chewing tobacco,3,Tobacco,GBD 2023 Appendix 2 Table S1,Behavioural risks,Tobacco
+56,Secondhand smoke,3,Tobacco,GBD 2023 Appendix 2 Table S1,Behavioural risks,Tobacco
+57,High alcohol use,2,Behavioural risks,GBD 2023 Appendix 2 Table S1,Behavioural risks,High alcohol use
+58,Drug use,2,Behavioural risks,GBD 2023 Appendix 2 Table S1,Behavioural risks,Drug use
+59,Dietary risks,2,Behavioural risks,GBD 2023 Appendix 2 Table S1,Behavioural risks,Dietary risks
+60,Diet low in fruits,3,Dietary risks,GBD 2023 Appendix 2 Table S1,Behavioural risks,Dietary risks
+61,Diet low in vegetables,3,Dietary risks,GBD 2023 Appendix 2 Table S1,Behavioural risks,Dietary risks
+62,Diet low in legumes,3,Dietary risks,GBD 2023 Appendix 2 Table S1,Behavioural risks,Dietary risks
+63,Diet low in whole grains,3,Dietary risks,GBD 2023 Appendix 2 Table S1,Behavioural risks,Dietary risks
+64,Diet low in nuts and seeds,3,Dietary risks,GBD 2023 Appendix 2 Table S1,Behavioural risks,Dietary risks
+65,Diet low in milk,3,Dietary risks,GBD 2023 Appendix 2 Table S1,Behavioural risks,Dietary risks
+66,Diet high in red meat,3,Dietary risks,GBD 2023 Appendix 2 Table S1,Behavioural risks,Dietary risks
+67,Diet high in processed meat,3,Dietary risks,GBD 2023 Appendix 2 Table S1,Behavioural risks,Dietary risks
+68,Diet high in sugar-sweetened beverages,3,Dietary risks,GBD 2023 Appendix 2 Table S1,Behavioural risks,Dietary risks
+69,Diet low in fiber,3,Dietary risks,manual map (name differs from hierarchy table),Behavioural risks,Dietary risks
+70,Diet low in calcium,3,Dietary risks,GBD 2023 Appendix 2 Table S1,Behavioural risks,Dietary risks
+71,Diet low in seafood omega-3 fatty acids,3,Dietary risks,GBD 2023 Appendix 2 Table S1,Behavioural risks,Dietary risks
+72,Diet low in omega-6 polyunsaturated fatty acids,3,Dietary risks,GBD 2023 Appendix 2 Table S1,Behavioural risks,Dietary risks
+73,Diet high in trans fatty acids,3,Dietary risks,GBD 2023 Appendix 2 Table S1,Behavioural risks,Dietary risks
+74,Diet high in sodium,3,Dietary risks,GBD 2023 Appendix 2 Table S1,Behavioural risks,Dietary risks
+75,Intimate partner violence,2,Behavioural risks,GBD 2023 Appendix 2 Table S1,Behavioural risks,Intimate partner violence
+76,Sexual violence against children and bullying,2,Behavioural risks,GBD 2023 Appendix 2 Table S1,Behavioural risks,Sexual violence against children and bullying
+77,Sexual violence against children,3,Sexual violence against children and bullying,GBD 2023 Appendix 2 Table S1,Behavioural risks,Sexual violence against children and bullying
+78,Bullying victimization,3,Sexual violence against children and bullying,manual map (name differs from hierarchy table),Behavioural risks,Sexual violence against children and bullying
+79,Unsafe sex,2,Behavioural risks,GBD 2023 Appendix 2 Table S1,Behavioural risks,Unsafe sex
+80,Low physical activity,2,Behavioural risks,GBD 2023 Appendix 2 Table S1,Behavioural risks,Low physical activity
+81,Metabolic risks,1,All risk factors,GBD 2023 Appendix 2 Table S1,Metabolic risks,
+82,High fasting plasma glucose,2,Metabolic risks,GBD 2023 Appendix 2 Table S1,Metabolic risks,High fasting plasma glucose
+83,High LDL cholesterol,2,Metabolic risks,GBD 2023 Appendix 2 Table S1,Metabolic risks,High LDL cholesterol
+84,High systolic blood pressure,2,Metabolic risks,GBD 2023 Appendix 2 Table S1,Metabolic risks,High systolic blood pressure
+85,High body-mass index,2,Metabolic risks,GBD 2023 Appendix 2 Table S1,Metabolic risks,High body-mass index
+86,Low bone mineral density,2,Metabolic risks,GBD 2023 Appendix 2 Table S1,Metabolic risks,Low bone mineral density
+87,Kidney dysfunction,2,Metabolic risks,GBD 2023 Appendix 2 Table S1,Metabolic risks,Kidney dysfunction

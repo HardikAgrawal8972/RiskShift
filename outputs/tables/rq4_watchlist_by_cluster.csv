@@ -1,0 +1,4 @@
+cluster,states,clear_pairs,watch_pairs,clear_per_state,watch_per_state
+A,15,15,101,1.0,6.7333
+B,9,8,82,0.8889,9.1111
+C,7,18,69,2.5714,9.8571

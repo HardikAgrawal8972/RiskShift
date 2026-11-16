@@ -1,0 +1,31 @@
+rank_cross,location,risk,level2_risk,asr_2023_mean,abs_2010_23,pct_2010_23_mean
+1,Chhattisgarh,Ambient particulate matter pollution,Air pollution,151.6,74.8,97.3
+2,Bihar,Lead exposure,Other environmental risks,89.7,30.8,52.2
+3,Telangana,Ambient particulate matter pollution,Air pollution,151.5,44.5,41.6
+4,Uttar Pradesh,Ambient particulate matter pollution,Air pollution,118.7,46.0,63.4
+5,Haryana,Ambient particulate matter pollution,Air pollution,121.7,43.1,54.9
+6,Karnataka,Lead exposure,Other environmental risks,101.5,18.3,22.0
+7,Uttarakhand,Ambient particulate matter pollution,Air pollution,152.3,40.4,36.1
+8,Chhattisgarh,Lead exposure,Other environmental risks,87.0,19.1,28.2
+9,Karnataka,Ambient particulate matter pollution,Air pollution,88.7,42.8,93.3
+10,Bihar,Ambient particulate matter pollution,Air pollution,77.4,38.1,96.9
+11,Punjab,Ambient particulate matter pollution,Air pollution,105.0,35.8,51.7
+12,Uttar Pradesh,Diet low in fruits,Dietary risks,49.9,12.2,32.5
+13,Assam,Lead exposure,Other environmental risks,49.3,9.0,22.3
+14,Jharkhand,Ambient particulate matter pollution,Air pollution,80.5,35.4,78.6
+15,Karnataka,Diet low in fruits,Dietary risks,60.5,8.0,15.3
+16,Bihar,Diet low in fruits,Dietary risks,46.3,11.5,33.3
+17,Chhattisgarh,Diet low in fruits,Dietary risks,56.6,7.4,15.0
+18,Uttar Pradesh,Lead exposure,Other environmental risks,50.3,4.5,9.8
+19,Tripura,Lead exposure,Other environmental risks,58.6,2.9,5.2
+20,Jharkhand,Chewing tobacco,Tobacco,30.5,12.1,66.0
+21,Maharashtra,Ambient particulate matter pollution,Air pollution,88.5,32.0,56.6
+22,Rajasthan,Lead exposure,Other environmental risks,30.7,6.9,28.9
+23,Manipur,Lead exposure,Other environmental risks,43.2,1.5,3.8
+24,Odisha,Diet low in fruits,Dietary risks,39.9,4.3,11.9
+25,Odisha,Lead exposure,Other environmental risks,35.6,1.7,4.7
+26,Uttar Pradesh,Chewing tobacco,Tobacco,24.1,10.6,79.2
+27,Bihar,Diet low in nuts and seeds,Dietary risks,25.4,6.2,32.0
+28,Goa,Ambient particulate matter pollution,Air pollution,98.6,31.1,46.1
+29,Karnataka,Ambient ozone pollution,Air pollution,24.3,12.9,112.4
+30,Bihar,Diet low in vegetables,Dietary risks,25.1,7.3,41.1

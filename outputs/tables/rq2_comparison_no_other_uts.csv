@@ -1,0 +1,7 @@
+variant,N,jaccard_B1,jaccard_B2,overlap_B1,overlap_B2,n_new,new_clear,new_possible,new_divergence,new_small_base,new_below_floor,new_clear_material,share_new_clear,n_distinct_risks_top,spearman_B1,kendall_B1,spearman_B1_eligible,spearman_B2,kendall_B2,spearman_B2_eligible
+within-risk (proposed),10,0.1111,0.1111,2,2,7,2,2,3,0,1,2,0.2857,9,0.2598,0.1766,0.2367,0.2311,0.1571,0.1552
+within-risk (proposed),20,0.1111,0.1111,4,4,14,4,4,6,0,4,4,0.2857,14,0.2598,0.1766,0.2367,0.2311,0.1571,0.1552
+within-risk (proposed),30,0.1111,0.0909,6,5,22,6,8,8,2,6,6,0.2727,19,0.2598,0.1766,0.2367,0.2311,0.1571,0.1552
+cross-risk + floor,10,0.1765,0.25,3,4,5,2,3,0,0,0,2,0.4,3,0.285,0.1918,0.1562,0.5401,0.386,0.3383
+cross-risk + floor,20,0.2121,0.1429,7,5,11,4,7,0,0,0,4,0.3636,5,0.285,0.1918,0.1562,0.5401,0.386,0.3383
+cross-risk + floor,30,0.1765,0.1321,9,7,18,6,12,0,0,0,6,0.3333,7,0.285,0.1918,0.1562,0.5401,0.386,0.3383
