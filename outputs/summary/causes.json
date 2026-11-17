@@ -1,0 +1,87 @@
+{
+  "n_pairs": 188,
+  "n_clear": 41,
+  "top_cause_counts_clear": {
+    "Diabetes mellitus type 2": 27,
+    "Ischaemic heart disease": 11,
+    "Falls": 1,
+    "Hypertensive heart disease": 1,
+    "Ischaemic stroke": 1
+  },
+  "india": [
+    {
+      "risk": "Low physical activity",
+      "main_causes": "Diabetes mellitus type 2 (+2.0/100k, 87% of the rise); Ischaemic stroke (+0.1/100k, 4% of the rise); Colon and rectum cancer (+0.1/100k, 4% of the rise)"
+    },
+    {
+      "risk": "High fasting plasma glucose",
+      "main_causes": "Diabetes mellitus type 2 (+18.5/100k, 89% of the rise); Ischaemic stroke (+1.1/100k, 5% of the rise); Alzheimer's disease and other dementias (+0.4/100k, 2% of the rise)"
+    },
+    {
+      "risk": "High body-mass index",
+      "main_causes": "Diabetes mellitus type 2 (+5.9/100k, 61% of the rise); Hypertensive heart disease (+1.4/100k, 15% of the rise); Ischaemic heart disease (+0.8/100k, 8% of the rise)"
+    }
+  ],
+  "clear_top": [
+    {
+      "location": "Uttar Pradesh",
+      "risk": "High fasting plasma glucose",
+      "main_causes": "Diabetes mellitus type 2 (+44.4/100k, 81% of the rise); Ischaemic stroke (+5.6/100k, 10% of the rise); Intracerebral hemorrhage (+1.8/100k, 3% of the rise)",
+      "source": "direct"
+    },
+    {
+      "location": "Bihar",
+      "risk": "High systolic blood pressure",
+      "main_causes": "Ischaemic heart disease (+23.4/100k, 54% of the rise); Hypertensive heart disease (+17.0/100k, 39% of the rise); Ischaemic stroke (+1.0/100k, 2% of the rise)",
+      "source": "direct"
+    },
+    {
+      "location": "Bihar",
+      "risk": "Dietary risks",
+      "main_causes": "Ischaemic heart disease (+34.3/100k, 65% of the rise); Hypertensive heart disease (+14.9/100k, 28% of the rise); Diabetes mellitus type 2 (+1.9/100k, 4% of the rise)",
+      "source": "via child risks"
+    },
+    {
+      "location": "Haryana",
+      "risk": "High fasting plasma glucose",
+      "main_causes": "Diabetes mellitus type 2 (+30.1/100k, 76% of the rise); Ischaemic stroke (+4.3/100k, 11% of the rise); Ischaemic heart disease (+1.6/100k, 4% of the rise)",
+      "source": "direct"
+    },
+    {
+      "location": "Bihar",
+      "risk": "Other environmental risks",
+      "main_causes": "Ischaemic heart disease (+25.6/100k, 83% of the rise); Hypertensive heart disease (+4.4/100k, 14% of the rise); Ischaemic stroke (+0.4/100k, 1% of the rise)",
+      "source": "via child risks"
+    },
+    {
+      "location": "Odisha",
+      "risk": "High fasting plasma glucose",
+      "main_causes": "Diabetes mellitus type 2 (+28.7/100k, 89% of the rise); Ischaemic heart disease (+1.3/100k, 4% of the rise); Ischaemic stroke (+0.5/100k, 2% of the rise)",
+      "source": "direct"
+    },
+    {
+      "location": "Assam",
+      "risk": "High fasting plasma glucose",
+      "main_causes": "Diabetes mellitus type 2 (+23.0/100k, 77% of the rise); Ischaemic heart disease (+3.6/100k, 12% of the rise); Ischaemic stroke (+1.4/100k, 5% of the rise)",
+      "source": "direct"
+    },
+    {
+      "location": "Haryana",
+      "risk": "High body-mass index",
+      "main_causes": "Diabetes mellitus type 2 (+13.5/100k, 57% of the rise); Hypertensive heart disease (+3.0/100k, 13% of the rise); Ischaemic heart disease (+2.0/100k, 8% of the rise)",
+      "source": "direct"
+    },
+    {
+      "location": "Bihar",
+      "risk": "High fasting plasma glucose",
+      "main_causes": "Diabetes mellitus type 2 (+14.9/100k, 61% of the rise); Ischaemic heart disease (+7.0/100k, 29% of the rise); Ischaemic stroke (+0.7/100k, 3% of the rise)",
+      "source": "direct"
+    },
+    {
+      "location": "Maharashtra",
+      "risk": "High fasting plasma glucose",
+      "main_causes": "Diabetes mellitus type 2 (+24.3/100k, 88% of the rise); Ischaemic stroke (+1.5/100k, 5% of the rise); Alzheimer's disease and other dementias (+0.8/100k, 3% of the rise)",
+      "source": "direct"
+    }
+  ]
+}

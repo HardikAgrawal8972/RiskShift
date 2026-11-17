@@ -71,6 +71,12 @@ fig.add_scatter(x=yrs, y=[row[f"asr_{y}_mean"] for y in yrs], name=state, mode="
                              arrayminus=[row[f"asr_{y}_mean"] - row[f"asr_{y}_lo"] for y in yrs]))
 fig.add_scatter(x=yrs, y=[ind[f"asr_{y}_mean"] for y in yrs], name="India", mode="lines+markers", line=dict(dash="dash"))
 fig.add_scatter(x=yrs, y=[peer_rows[f"asr_{y}_mean"].median() for y in yrs], name=f"Cluster {cluster} peers (median)", mode="lines+markers", line=dict(dash="dot"))
+if C.BENCH_FEATURES.exists():
+    bench = pd.read_parquet(C.BENCH_FEATURES)
+    for name, dash in (("Global", "longdash"), ("South Asia", "dashdot")):
+        bb = bench[(bench.bench == name) & (bench.risk == risk)]
+        if len(bb):
+            fig.add_scatter(x=yrs, y=[bb.iloc[0][f"asr_{y}_mean"] for y in yrs], name=name, mode="lines+markers", line=dict(dash=dash))
 fig.update_layout(title=f"{risk}: age-standardised death rate per 100,000", yaxis_title="ASR per 100,000", height=420)
 left.plotly_chart(fig, width="stretch")
 

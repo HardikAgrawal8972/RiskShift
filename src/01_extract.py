@@ -5,7 +5,8 @@ We stream it with iterparse, keep only blocks 353-384 (India and its 31 state un
 and stop as soon as the last India block has been read. Locations are keyed by block
 position, never by name ("Punjab" exists for both India and Pakistan).
 
-Output: data/interim/s14b_india_extract.csv (text values exactly as published; parsing
+Output: data/interim/s14b_india_extract.csv and s14b_benchmarks_extract.csv (Global and
+South Asia blocks, the external benchmarks) - text values exactly as published; parsing
 happens in 02_annotate). If the supplied pilot extract is present, the new extract is
 cross-checked against it cell by cell.
 
@@ -60,7 +61,8 @@ def extract(xlsx: Path) -> pd.DataFrame:
         if el.tag != NS + "row":
             continue
         r = int(el.get("r"))
-        if r >= first:
+        keep_bench = r >= C.FIRST_DATA_ROW and (r - C.FIRST_DATA_ROW) // C.ROWS_PER_BLOCK in C.BENCHMARK_BLOCKS
+        if r >= first or keep_bench:
             vals = [None] * len(COLS)
             for c in el.iter(NS + "c"):
                 j = col_index(c.get("r"))
@@ -123,13 +125,20 @@ def validate(df: pd.DataFrame) -> None:
 
 def main():
     banner("01_extract")
-    if "--reuse" in sys.argv and C.EXTRACT_CSV.exists():
+    if "--reuse" in sys.argv and C.EXTRACT_CSV.exists() and (C.BENCH_CSV.exists() or not C.RAW_XLSX.exists()):
         print(f"  reusing {C.EXTRACT_CSV.relative_to(C.ROOT)}")
         return
     if C.RAW_XLSX.exists():
-        df = extract(C.RAW_XLSX)
+        allrows = extract(C.RAW_XLSX)
+        bench = allrows[allrows.block.isin(list(C.BENCHMARK_BLOCKS))].copy()
+        for b, name in C.BENCHMARK_BLOCKS.items():
+            got = bench.loc[bench.block == b, "location"].unique().tolist()
+            assert got == [name] and (bench.block == b).sum() == C.ROWS_PER_BLOCK, (b, got)
+        bench.to_csv(C.BENCH_CSV, index=False)
+        print(f"  wrote {C.BENCH_CSV.relative_to(C.ROOT)}  {bench.shape}  (benchmarks: {', '.join(C.BENCHMARK_BLOCKS.values())})")
+        df = allrows[allrows.block.isin(C.INDIA_BLOCKS)].reset_index(drop=True)
     else:
-        print("  raw XLSX not found; falling back to the supplied pilot extract")
+        print("  raw XLSX not found; falling back to the supplied pilot extract (no Global/South Asia benchmarks)")
         p = pd.read_csv(C.PROTOTYPE_EXTRACT)
         df = p[["risk", "outcome", "location"] + VALUE_COLS + ["row_idx", "block", "is_outcome"]].copy()
         df["row_in_block"] = df["row_idx"] % C.ROWS_PER_BLOCK

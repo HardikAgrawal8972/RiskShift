@@ -12,6 +12,10 @@ Source: GBD 2023 *Diseases, Injuries and Risk Factors*, appendix table **S14B �
 | `data/processed/risk_sets.json` | 03_sets | — | Core / Detail / Policy-salient members, the rules that define them, and the excluded risks. |
 | `data/processed/features_state_risk.parquet` (+ `.csv`) | 04_features | 2,604 rows = 31 state units × 84 risks | Analysis table, one row per state × risk. |
 | `data/processed/features_india_risk.parquet` (+ `.csv`) | 04_features | 84 rows | The same measures for India (the national benchmark). |
+| `data/interim/s14b_benchmarks_extract.csv` | 01_extract | 1,688 rows = 2 blocks × 844 | Global (block 0) and South Asia region (block 350), the external benchmarks. |
+| `data/processed/features_benchmarks.parquet` | 05_benchmarks | 176 rows | Parsed risk totals for Global and South Asia. |
+| `outputs/tables/bench_*.csv` | 05_benchmarks | — | India vs South Asia vs world, and state vs world comparisons. |
+| `outputs/tables/causes_*.csv` | 06_causes | — | Cause-of-death breakdown of each rising Core pair and of India's rising risks. |
 | `data/processed/mc_draws.npz` | rq3_stability | 1,000 draws × 1,457 cells | Monte Carlo datasets, reused by RQ4. |
 | `data/processed/rq4_*.pkl` | rq4_* | — | Intermediate clustering objects (regenerable). |
 

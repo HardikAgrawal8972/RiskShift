@@ -19,6 +19,9 @@ Every analytic choice is listed here and fixed in `riskshift/config.py` before a
 | D11 | Detail-set inclusion requires ASR ≥ 0.5 in every state unit in 2010 and 2023. | S14B rounds ASR to 0.1, so smaller values carry more than 10% rounding error. |
 | D12 | In the Detail set, particulate matter pollution is split into ambient PM and household air pollution (both level 4). | The plan asks for this contrast, and those two risks sit at level 4. |
 
+| D13 | Benchmarks are keyed by block position: Global = 0, South Asia region = 350. Block 349 is the South Asia super-region, which has the same name. S14B's Global rows stand in for S14A. | The plan named S14A for global context, and S14B holds the same Global rows. |
+| D14 | Cause breakdown drops aggregate cause rows ("Total cancers", "Total burden related to …"). Level-2 risks with no cause rows of their own use their child risks' causes, summed by cause and flagged "via child risks". Bars are scaled to the risk's own change. | Aggregates double-count, and child risks can overlap. |
+
 ## RQ rules
 
 | # | Rule |
@@ -48,7 +51,7 @@ The seed is `20261116`, used for every stochastic step. Draw counts and threshol
 
 ## Deviations from the plan
 
-* S14A, S15A, the Appendix 2 hierarchy file and Appendix 1 S12 (SDI) were not in the folder. Hierarchy levels came from the pilot extract (D4). The SDI check is replaced by a Zonal Council check.
+* S14A, S15A, the Appendix 2 hierarchy file and Appendix 1 S12 (SDI) were not in the folder. Hierarchy levels came from the pilot extract (D4). The SDI check is replaced by a Zonal Council check. The S14A global benchmark is taken from S14B's own Global block (D13).
 * `rq4_figures` is a script, not a notebook, so the whole pipeline runs from `run_all.py`.
 * The optional evidence-star family (Appendix 2 S8) and the India map (which needs an external boundary file) were not done.
 * F2 "shape" uses the row-centred log ASR. The PAF variant mentioned in the plan was not run.

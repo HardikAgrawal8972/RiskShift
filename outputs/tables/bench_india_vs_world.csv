@@ -1,0 +1,48 @@
+set,risk,global_2010,global_2023,global_pct,global_lo,global_hi,south_asia_2010,south_asia_2023,south_asia_pct,india_2010,india_2023,india_pct,india_lo,india_hi,india_vs_global_ratio_2023,states_above_global_2023,states_rising,states_rising_while_world_falls,states_clearly_rising_while_world_falls,global_direction,india_direction,india_worse_trend_than_world
+core,"Unsafe water, sanitation, and handwashing",29.4,15.0,-48.9,-62.1,-37.4,91.6,38.8,-57.6,100.2,41.6,-58.5,-68.6,-46.1,2.7733,25,0,0,0,falling,falling,False
+core,Air pollution,124.9,92.0,-26.4,-30.9,-21.9,221.9,191.3,-13.8,216.2,186.2,-13.8,-24.5,-2.7,2.0239,29,3,3,0,falling,falling,True
+core,Non-optimal temperature,28.6,21.3,-25.5,-28.8,-21.8,38.4,31.8,-17.1,37.4,30.8,-17.6,-27.0,-5.7,1.446,16,3,3,1,falling,falling,True
+core,Other environmental risks,46.2,39.9,-13.8,-19.6,-8.2,66.0,62.0,-6.1,64.9,59.6,-8.2,-22.3,8.1,1.4937,22,13,13,4,falling,falling,True
+core,Occupational risks,17.1,13.3,-22.6,-28.7,-15.8,29.4,21.0,-28.7,31.1,20.9,-32.8,-44.5,-19.3,1.5714,26,0,0,0,falling,falling,False
+core,Child and maternal malnutrition,59.8,40.8,-31.7,-36.5,-26.6,83.7,49.7,-40.7,79.2,45.3,-42.9,-50.0,-35.7,1.1103,8,0,0,0,falling,falling,False
+core,Tobacco,106.6,81.4,-23.7,-30.5,-15.5,146.4,110.1,-24.8,140.4,102.8,-26.7,-39.1,-10.2,1.2629,20,1,1,0,falling,falling,False
+core,High alcohol use,19.3,14.4,-25.5,-30.6,-19.9,13.7,8.9,-35.0,15.6,10.1,-35.0,-50.3,-16.5,0.7014,11,0,0,0,falling,falling,False
+core,Drug use,5.3,5.6,5.1,-2.5,14.8,5.0,3.6,-27.6,5.4,3.5,-35.9,-48.5,-19.0,0.625,10,3,0,0,rising (uncertain),falling,False
+core,Dietary risks,96.7,81.7,-15.4,-23.9,-7.0,121.1,115.1,-5.0,117.8,112.0,-4.9,-18.8,21.7,1.3709,24,14,14,1,falling,falling,True
+core,Intimate partner violence,2.3,1.7,-25.9,-47.1,18.2,2.5,1.8,-28.3,2.8,2.0,-29.4,-64.6,25.0,1.1765,15,1,1,0,falling,falling,False
+core,Sexual violence against children and bullying,3.9,3.3,-13.4,-38.2,26.8,5.2,4.7,-9.6,5.7,5.1,-10.1,-40.1,29.5,1.5455,22,5,5,0,falling,falling,True
+core,Unsafe sex,17.3,12.3,-28.9,-36.3,-21.7,12.0,7.9,-34.0,13.2,7.7,-41.9,-57.9,-24.4,0.626,5,8,8,0,falling,falling,False
+core,Low physical activity,8.3,7.5,-9.4,-16.9,-0.5,10.3,11.1,7.2,11.0,12.0,9.5,-13.6,35.1,1.6,23,19,19,3,falling,rising (uncertain),True
+core,High fasting plasma glucose,59.1,59.7,1.1,-9.6,13.6,71.1,85.1,19.6,69.0,87.4,26.7,0.8,57.4,1.464,22,29,0,0,rising (uncertain),clearly rising,True
+core,High LDL cholesterol,49.2,40.5,-17.7,-26.9,-6.8,49.0,48.3,-1.4,49.0,47.2,-3.6,-20.7,17.0,1.1654,16,21,21,2,falling,falling,True
+core,High systolic blood pressure,147.3,123.1,-16.4,-24.0,-7.4,155.1,145.8,-6.0,151.2,142.8,-5.6,-21.1,15.9,1.16,19,11,11,1,falling,falling,True
+core,High body-mass index,39.1,40.7,4.2,-6.5,15.0,25.0,33.6,34.3,23.5,32.1,36.7,8.5,72.7,0.7887,8,30,0,0,rising (uncertain),clearly rising,True
+core,Low bone mineral density,5.6,5.5,-1.2,-10.7,10.2,11.1,10.6,-4.5,12.5,11.9,-5.1,-22.7,16.8,2.1636,30,14,14,1,falling,falling,False
+core,Kidney dysfunction,46.2,41.8,-9.4,-15.1,-4.4,51.7,47.6,-7.9,50.5,46.0,-9.0,-21.5,3.9,1.1005,18,10,10,2,falling,falling,True
+detail,Unsafe water source,20.0,9.7,-51.4,-63.0,-39.1,67.0,29.0,-56.7,73.1,31.1,-57.5,-69.8,-44.3,3.2062,28,0,0,0,falling,falling,False
+detail,Unsafe sanitation,16.1,7.0,-56.8,-66.4,-45.1,54.2,19.0,-65.0,59.8,20.2,-66.2,-74.7,-56.3,2.8857,23,0,0,0,falling,falling,False
+detail,No access to handwashing facility,10.5,5.6,-47.1,-74.1,-19.6,24.8,8.0,-67.8,26.9,8.3,-69.0,-82.8,-48.0,1.4821,18,0,0,0,falling,falling,False
+detail,Ambient particulate matter pollution,59.8,56.1,-6.2,-11.2,0.1,58.3,85.2,46.2,58.8,89.7,52.5,30.0,77.5,1.5989,23,30,30,26,falling,clearly rising,True
+detail,Household air pollution from solid fuels,62.5,33.3,-46.7,-52.4,-38.7,158.4,97.0,-38.7,152.0,87.0,-42.8,-52.8,-32.6,2.6126,27,0,0,0,falling,falling,True
+detail,Ambient ozone pollution,5.8,5.2,-10.2,-24.9,10.1,16.9,22.5,33.7,16.8,22.7,34.8,2.1,84.5,4.3654,30,27,27,8,falling,clearly rising,True
+detail,Low temperature,21.0,15.2,-27.6,-30.9,-23.6,16.3,14.1,-13.2,14.9,13.0,-12.8,-24.1,1.0,0.8553,13,5,5,0,falling,falling,True
+detail,Lead exposure,45.2,38.9,-13.9,-19.7,-8.1,65.8,61.7,-6.2,64.7,59.3,-8.3,-22.6,8.0,1.5244,22,12,12,4,falling,falling,True
+detail,"Occupational particulate matter, gases, and fumes",3.3,2.5,-22.7,-35.7,-5.1,7.5,6.4,-14.0,7.7,6.6,-14.6,-37.0,18.8,2.64,25,3,3,0,falling,falling,True
+detail,Occupational injuries,8.8,6.6,-25.5,-35.8,-15.6,19.8,12.7,-35.9,21.2,12.5,-41.1,-53.7,-27.1,1.8939,30,0,0,0,falling,falling,False
+detail,Child growth failure,27.9,15.9,-43.1,-50.8,-35.6,31.4,13.5,-57.1,32.0,13.5,-57.9,-64.0,-50.7,0.8491,4,0,0,0,falling,falling,False
+detail,Low birth weight and short gestation,30.5,24.0,-21.2,-26.1,-16.4,51.0,35.6,-30.2,46.1,31.3,-32.0,-43.0,-21.2,1.3042,14,0,0,0,falling,falling,False
+detail,Smoking,85.3,63.7,-25.3,-34.3,-15.1,103.3,71.0,-31.3,99.7,65.4,-34.4,-50.0,-13.5,1.0267,16,0,0,0,falling,falling,False
+detail,Chewing tobacco,2.8,2.8,-1.6,-34.0,45.0,15.1,14.7,-2.5,13.3,14.1,6.1,-32.2,65.3,5.0357,27,8,8,2,falling,rising (uncertain),True
+detail,Secondhand smoke,23.9,18.8,-21.3,-29.7,-13.5,38.4,31.7,-17.5,37.3,30.0,-19.6,-31.9,-6.2,1.5957,29,1,1,0,falling,falling,True
+detail,Diet low in fruits,22.2,19.6,-11.6,-25.3,6.1,43.5,42.6,-2.1,44.6,44.2,-0.8,-14.8,18.6,2.2551,29,13,13,2,falling,falling,True
+detail,Diet low in vegetables,12.1,10.4,-13.7,-30.1,4.6,20.9,19.3,-7.6,17.2,16.6,-3.3,-24.9,23.5,1.5962,24,13,13,1,falling,falling,True
+detail,Diet low in legumes,8.1,6.6,-18.0,-36.1,1.2,7.1,6.2,-11.9,6.1,5.1,-16.9,-41.0,16.1,0.7727,7,10,10,0,falling,falling,True
+detail,Diet low in whole grains,15.5,13.2,-14.3,-35.4,12.3,17.2,16.6,-3.4,16.1,15.1,-5.9,-42.3,46.9,1.1439,16,15,15,0,falling,falling,True
+detail,Diet low in nuts and seeds,12.6,9.9,-21.4,-37.7,-4.7,19.7,17.3,-12.4,19.2,15.7,-18.5,-41.0,2.4,1.5859,22,8,8,1,falling,falling,True
+detail,Diet high in processed meat,3.9,3.4,-13.0,-40.5,20.1,1.1,1.6,41.3,1.1,1.6,50.1,-1.6,136.3,0.4706,0,30,30,7,falling,rising (uncertain),True
+detail,Diet low in fiber,6.8,5.1,-24.9,-57.9,20.6,11.4,8.7,-23.5,8.9,6.1,-30.8,-80.3,57.4,1.1961,16,1,1,0,falling,falling,False
+detail,Diet low in seafood omega-3 fatty acids,8.2,5.8,-29.1,-58.5,0.6,14.4,10.8,-25.5,15.1,10.7,-29.5,-55.7,-1.7,1.8448,28,4,4,0,falling,falling,False
+detail,Diet low in omega-6 polyunsaturated fatty acids,7.4,5.8,-21.7,-35.3,-5.5,13.3,11.9,-10.5,13.6,11.7,-14.1,-29.3,3.7,2.0172,28,15,15,1,falling,falling,True
+detail,Diet high in trans fatty acids,6.8,4.3,-36.5,-54.0,-8.8,12.2,9.9,-19.3,12.5,10.7,-14.3,-39.9,24.7,2.4884,30,13,13,0,falling,falling,True
+detail,Diet high in sodium,22.3,18.5,-16.9,-52.5,32.7,16.4,15.4,-6.1,15.7,14.9,-5.0,-75.8,149.4,0.8054,4,14,14,0,falling,falling,True
+detail,Sexual violence against children,3.9,3.3,-13.4,-38.2,26.8,5.2,4.7,-9.6,5.7,5.1,-10.1,-40.1,29.5,1.5455,22,5,5,0,falling,falling,True

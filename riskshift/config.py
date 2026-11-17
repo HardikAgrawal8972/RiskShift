@@ -22,6 +22,8 @@ FIGURES = OUT / "figures"
 DOCS = ROOT / "docs"
 
 EXTRACT_CSV = INTERIM / "s14b_india_extract.csv"          # output of 01_extract
+BENCH_CSV = INTERIM / "s14b_benchmarks_extract.csv"       # output of 01_extract (Global, South Asia)
+BENCH_FEATURES = PROCESSED / "features_benchmarks.parquet"  # output of 05_benchmarks
 ANNOTATED = INTERIM / "s14b_india_annotated.parquet"      # output of 02_annotate
 SETS_JSON = PROCESSED / "risk_sets.json"                  # output of 03_sets
 FEATURES = PROCESSED / "features_state_risk.parquet"      # output of 04_features
@@ -37,6 +39,9 @@ N_BLOCKS = 705
 FIRST_DATA_ROW = 4            # Excel row of the first data row (3 header rows)
 INDIA_BLOCK = 353             # block position of India; states follow
 INDIA_BLOCKS = list(range(353, 385))   # India + 31 state units (keyed by position, never by name)
+# External benchmarks (S14B carries the same Global rows as S14A). Block 349 is the South Asia
+# super-region and 350 the South Asia region - same name, so keyed by position.
+BENCHMARK_BLOCKS = {0: "Global", 350: "South Asia"}
 
 MEASURES = ["deaths", "paf", "asr"]
 YEARS = [1990, 2010, 2023]

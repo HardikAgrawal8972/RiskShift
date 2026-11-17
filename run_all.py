@@ -10,7 +10,7 @@ import time
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
-STEPS = ["01_extract.py", "02_annotate.py", "03_sets.py", "04_features.py",
+STEPS = ["01_extract.py", "02_annotate.py", "03_sets.py", "04_features.py", "05_benchmarks.py", "06_causes.py",
          "rq1_watchlist.py", "rq2_prioritise.py", "rq3_stability.py",
          "rq4_features.py", "rq4_cluster_grid.py", "rq4_null.py", "rq4_stability.py",
          "rq4_migration.py", "rq4_figures.py", "make_report.py"]

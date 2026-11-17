@@ -19,7 +19,7 @@ python -m venv .venv
 .venv/Scripts/python -m streamlit run app/streamlit_app.py
 ```
 
-`run_all.py` streams the raw S14B workbook (about 20 s) and runs every step with fixed seeds, in about 5 minutes. Pass `--reuse` to skip re-extraction.
+`run_all.py` streams the raw S14B workbook (about 20 s) and runs every step with fixed seeds, in about 5–10 minutes. Pass `--reuse` to skip re-extraction.
 
 ## Layout
 
@@ -28,6 +28,8 @@ python -m venv .venv
 | `riskshift/config.py` | Every threshold, weight and seed, fixed before analysis |
 | `riskshift/common.py`, `scoring.py`, `clustering.py` | Shared helpers, RQ1/RQ2 scoring rules, RQ4 algorithms |
 | `src/01_extract.py` … `04_features.py` | Shared pipeline: extract → annotate → risk sets → features |
+| `src/05_benchmarks.py` | India and states compared with South Asia and the world (S14B Global and South Asia blocks) |
+| `src/06_causes.py` | Which causes of death drive each worsening pair (S14B risk → cause rows) |
 | `src/rq1_watchlist.py` | RQ1: three-tier watchlist of worsening and diverging pairs |
 | `src/rq2_prioritise.py` | RQ2: burden-only vs trend-aware rankings, with an overlooked-pairs list |
 | `src/rq3_stability.py` | RQ3: weight, uncertainty and selection stress tests, with stability labels |

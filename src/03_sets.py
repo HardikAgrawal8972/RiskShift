@@ -63,7 +63,7 @@ def main():
                           (" + " if r in top and r in rising else "") +
                           ("clearly rising nationally" if r in rising else "") for r in policy},
         "policy_rising_below_floor": rising_small,
-        "level2_parent": {r: lvl2[r] for r in set(detail) | set(policy)},
+        "level2_parent": {r: lvl2[r] for r in sorted(set(detail) | set(policy))},
         "rules": __doc__,
     }
     C.SETS_JSON.write_text(json.dumps(sets, indent=2))

@@ -1,0 +1,167 @@
+{
+  "india_higher_than_world": [
+    {
+      "risk": "Unsafe water, sanitation, and handwashing",
+      "india_vs_global_ratio_2023": 2.7733333333333334
+    },
+    {
+      "risk": "Low bone mineral density",
+      "india_vs_global_ratio_2023": 2.1636363636363636
+    },
+    {
+      "risk": "Air pollution",
+      "india_vs_global_ratio_2023": 2.023913043478261
+    },
+    {
+      "risk": "Low physical activity",
+      "india_vs_global_ratio_2023": 1.6
+    },
+    {
+      "risk": "Occupational risks",
+      "india_vs_global_ratio_2023": 1.5714285714285712
+    },
+    {
+      "risk": "Sexual violence against children and bullying",
+      "india_vs_global_ratio_2023": 1.5454545454545454
+    },
+    {
+      "risk": "Other environmental risks",
+      "india_vs_global_ratio_2023": 1.4937343358395991
+    },
+    {
+      "risk": "High fasting plasma glucose",
+      "india_vs_global_ratio_2023": 1.4639865996649917
+    },
+    {
+      "risk": "Non-optimal temperature",
+      "india_vs_global_ratio_2023": 1.4460093896713615
+    },
+    {
+      "risk": "Dietary risks",
+      "india_vs_global_ratio_2023": 1.3708690330477356
+    },
+    {
+      "risk": "Tobacco",
+      "india_vs_global_ratio_2023": 1.2628992628992628
+    },
+    {
+      "risk": "Intimate partner violence",
+      "india_vs_global_ratio_2023": 1.1764705882352942
+    },
+    {
+      "risk": "High LDL cholesterol",
+      "india_vs_global_ratio_2023": 1.165432098765432
+    },
+    {
+      "risk": "High systolic blood pressure",
+      "india_vs_global_ratio_2023": 1.1600324939073925
+    },
+    {
+      "risk": "Child and maternal malnutrition",
+      "india_vs_global_ratio_2023": 1.1102941176470589
+    },
+    {
+      "risk": "Kidney dysfunction",
+      "india_vs_global_ratio_2023": 1.1004784688995215
+    }
+  ],
+  "india_lower_than_world": [
+    {
+      "risk": "Drug use",
+      "india_vs_global_ratio_2023": 0.625
+    },
+    {
+      "risk": "Unsafe sex",
+      "india_vs_global_ratio_2023": 0.6260162601626016
+    },
+    {
+      "risk": "High alcohol use",
+      "india_vs_global_ratio_2023": 0.7013888888888888
+    },
+    {
+      "risk": "High body-mass index",
+      "india_vs_global_ratio_2023": 0.7886977886977887
+    }
+  ],
+  "india_worse_trend": [
+    {
+      "risk": "Air pollution",
+      "india_pct": -13.8,
+      "global_pct": -26.4
+    },
+    {
+      "risk": "Non-optimal temperature",
+      "india_pct": -17.6,
+      "global_pct": -25.5
+    },
+    {
+      "risk": "Other environmental risks",
+      "india_pct": -8.2,
+      "global_pct": -13.8
+    },
+    {
+      "risk": "Dietary risks",
+      "india_pct": -4.9,
+      "global_pct": -15.4
+    },
+    {
+      "risk": "Sexual violence against children and bullying",
+      "india_pct": -10.1,
+      "global_pct": -13.4
+    },
+    {
+      "risk": "Low physical activity",
+      "india_pct": 9.5,
+      "global_pct": -9.4
+    },
+    {
+      "risk": "High fasting plasma glucose",
+      "india_pct": 26.7,
+      "global_pct": 1.1
+    },
+    {
+      "risk": "High LDL cholesterol",
+      "india_pct": -3.6,
+      "global_pct": -17.7
+    },
+    {
+      "risk": "High systolic blood pressure",
+      "india_pct": -5.6,
+      "global_pct": -16.4
+    },
+    {
+      "risk": "High body-mass index",
+      "india_pct": 36.7,
+      "global_pct": 4.2
+    },
+    {
+      "risk": "Kidney dysfunction",
+      "india_pct": -9.0,
+      "global_pct": -9.4
+    }
+  ],
+  "global_clearly_rising": [],
+  "n_state_pairs_clear_rise_world_falls": 15,
+  "detail_india_up_world_down": [
+    {
+      "risk": "Ambient particulate matter pollution",
+      "india_pct": 52.5,
+      "global_pct": -6.2
+    },
+    {
+      "risk": "Ambient ozone pollution",
+      "india_pct": 34.8,
+      "global_pct": -10.2
+    },
+    {
+      "risk": "Chewing tobacco",
+      "india_pct": 6.1,
+      "global_pct": -1.6
+    },
+    {
+      "risk": "Diet high in processed meat",
+      "india_pct": 50.1,
+      "global_pct": -13.0
+    }
+  ]
+}
